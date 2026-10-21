@@ -1,0 +1,7747 @@
+[
+ {
+  "vedette": "At, Ath",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Ces désinences servent à former des substantifs ou d’un verbe, ou d’un autre substantif, et répondent à la finale ade des Français, comme promenade.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Mond",
+     "allemand_moderne": "Mond",
+     "francais": "lune",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Monde",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Mon-at",
+      "allemand_moderne": "Monat",
+      "francais": "mois",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Monate",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ziern",
+     "allemand_moderne": "zieren",
+     "francais": "orner",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zier-ath",
+      "allemand_moderne": "Zierat",
+      "francais": "ornement",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Zierate",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 57,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Bar",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Dérivé de l’ancien mot bären pour les adjectifs formés des substantifs.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Frucht",
+     "allemand_moderne": "Frucht",
+     "francais": "fruit",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Früchte",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "frucht-bar",
+      "allemand_moderne": "fruchtbar",
+      "francais": "fertile (qui porte des fruits)",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Dank",
+     "allemand_moderne": "Dank",
+     "francais": "merci",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Danke",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "dank-bar",
+      "allemand_moderne": "dankbar",
+      "francais": "reconnaissant",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "essen",
+     "allemand_moderne": "essen",
+     "francais": "manger",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "isst, aß, gegessen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "eß-bar",
+      "allemand_moderne": "essbar",
+      "francais": "mangeable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "trinken",
+     "allemand_moderne": "trinken",
+     "francais": "boire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "trinkt, trank, getrunken"
+    },
+    "derives": [
+     {
+      "allemand_1855": "trink-bar",
+      "allemand_moderne": "trinkbar",
+      "francais": "potable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "heilen",
+     "allemand_moderne": "heilen",
+     "francais": "guérir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "heil-bar",
+      "allemand_moderne": "heilbar",
+      "francais": "guérissable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mann",
+     "allemand_moderne": "Mann",
+     "francais": "homme, mari",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Männer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "mann-bar",
+      "allemand_moderne": "mannbar",
+      "francais": "viril, nubile",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ehre",
+     "allemand_moderne": "Ehre",
+     "francais": "honneur",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Ehren",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ehr-bar",
+      "allemand_moderne": "ehrbar",
+      "francais": "respectable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "un-tröst-bar",
+      "allemand_moderne": "untröstbar",
+      "francais": "inconsolable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "un-tröst-lich",
+      "allemand_moderne": "untröstlich",
+      "francais": "inconsolable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ehr",
+     "allemand_moderne": "Ehr",
+     "francais": "honneur",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Ehren",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ehr-bar",
+      "allemand_moderne": "ehrbar",
+      "francais": "respectable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "ehr-lich",
+      "allemand_moderne": "ehrlich",
+      "francais": "honnête, probe",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mann",
+     "allemand_moderne": "Mann",
+     "francais": "homme, mari",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Männer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "mann-bar",
+      "allemand_moderne": "mannbar",
+      "francais": "viril, nubile",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "männ-lich",
+      "allemand_moderne": "männlich",
+      "francais": "mâle",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wunder",
+     "allemand_moderne": "Wunder",
+     "francais": "miracle",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Wunder",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "wunder-bar",
+      "allemand_moderne": "wunderbar",
+      "francais": "miraculeux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "wunder-lich",
+      "allemand_moderne": "wunderlich",
+      "francais": "singulier, bizarre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Frucht-bar",
+     "allemand_moderne": "fruchtbar",
+     "francais": "fertile",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Frucht-bar-keit",
+      "allemand_moderne": "Fruchtbarkeit",
+      "francais": "fertilité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Fruchtbarkeiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "bären",
+     "allemand_moderne": "bären",
+     "francais": "faire, exercer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Quant aux adjectifs terminés en bar, et formés des verbes, il faut en chercher la racine dans bären, faire, exercer, ce qui donne à l’adjectif la signification d’une chose faisable ou possible. Bar répond aussi, par le son et la signification, au par des Latins, et marque aptitude et ressemblance. Quelquefois bar et lich sont employés l’un pour l’autre ; mais il y a des mots dont la signification varie, selon qu’ils se terminent en bar ou en lich.\nLes adjectifs formés au moyen de bar forment, à leur tour, des substantifs par l’addition de keit.",
+  "page_pdf": 57,
+  "remarque_brute": "Quant aux adjectifs terminés en bar, et formés des verbes, il faut en chercher la racine dans bären, faire, exercer, ce qui donne à l’adjectif la signification d’une chose faisable ou possible. Bar répond aussi, par le son et la signification, au par des Latins, et marque aptitude et ressemblance. Quelquefois bar et lich sont employés l’un pour l’autre ; mais il y a des mots dont la signification varie, selon qu’ils se terminent en bar ou en lich.\nLes adjectifs formés au moyen de bar forment, à leur tour, des substantifs par l’addition de keit, ex. : Frucht-bar, fertile, Frucht-bar-keit, f. fertilité.",
+  "groupes_remarque": 1
+ },
+ {
+  "vedette": "Chen, Lein",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Ces finales servent à former des diminutifs qui sont tous du genre neutre, adoucissent la voyelle radicale, et s’emploient souvent comme termes d’affection.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Krug",
+     "allemand_moderne": "Krug",
+     "francais": "cruche",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Krüge",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Krüglein",
+      "allemand_moderne": "Krüglein",
+      "francais": "petite cruche, cruchon",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Krüglein",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Buch",
+     "allemand_moderne": "Buch",
+     "francais": "livre",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Bücher",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Büchlein",
+      "allemand_moderne": "Büchlein",
+      "francais": "petit livre",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Büchlein",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stuhl",
+     "allemand_moderne": "Stuhl",
+     "francais": "chaise",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Stühle",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Stühlchen",
+      "allemand_moderne": "Stühlchen",
+      "francais": "petite chaise",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Stühlchen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Julchen",
+      "allemand_moderne": "Julchen",
+      "francais": "ma petite Julie",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Julchen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Karlchen",
+      "allemand_moderne": "Karlchen",
+      "francais": "mon petit Charles",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Karlchen",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Chen désigne, en gothique, un enfant, et lein est une abréviation de klein, petit. On se sert surtout de la finale lein pour les noms qui se terminent en g ou en ch. Lorsqu’un nom se termine en l, on en fait un diminutif en se servant de la syllabe chen. On joint cette finale aux prénoms des enfants.",
+  "page_pdf": 58,
+  "remarque_brute": "Chen désigne, en gothique, un enfant, et lein est une abréviation de klein, petit. On se sert surtout de la finale lein pour les noms qui se terminent en g ou en ch, comme : Lorsqu’un nom se termine en l, on en fait un diminutif en se servant de la syllabe chen, comme : On joint cette finale aux prénoms des enfants, comme :",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "D",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale, marque du participe présent, sert aussi à former des substantifs.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Ab-en",
+     "allemand_moderne": "aben",
+     "francais": "décroître",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Abend",
+      "allemand_moderne": "Abend",
+      "francais": "soir",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Abende",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Heilen",
+     "allemand_moderne": "heilen",
+     "francais": "guérir, sauver",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Heiland",
+      "allemand_moderne": "Heiland",
+      "francais": "sauveur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Heilande",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gegen",
+     "allemand_moderne": "gegen",
+     "francais": "contre",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Gegend",
+      "allemand_moderne": "Gegend",
+      "francais": "contrée",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Gegenden",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 58,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "De, Te",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Ces désinences sont affectées à quelques substantifs formés de verbes ou d’adjectifs.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Freu-en",
+     "allemand_moderne": "freuen",
+     "francais": "se réjouir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Freude",
+      "allemand_moderne": "Freude",
+      "francais": "joie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Freuden",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zier-en",
+     "allemand_moderne": "zieren",
+     "francais": "orner",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zier-de",
+      "allemand_moderne": "Zierde",
+      "francais": "ornement",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Zierden",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Platt",
+     "allemand_moderne": "platt",
+     "francais": "plat",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Platt-te",
+      "allemand_moderne": "Platte",
+      "francais": "plateau",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Platten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "zwei",
+     "allemand_moderne": "zwei",
+     "francais": "deux",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "der zweite",
+      "allemand_moderne": "der zweite",
+      "francais": "le deuxième",
+      "pos": "autre",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "La finale te est donnée au nom de nombre ordinal (jusqu’au vingtième) précédé de l’article défini.",
+  "page_pdf": 58,
+  "remarque_brute": "La finale te est donnée au nom de nombre ordinal (jusqu’au vingtième) précédé de l’article défini.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Der, Ter",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Ces finales servent à former des substantifs.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Lehnen",
+     "allemand_moderne": "lehnen",
+     "francais": "appuyer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ge-län-der",
+      "allemand_moderne": "Geländer",
+      "francais": "balustrade",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Geländer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wachen",
+     "allemand_moderne": "wachen",
+     "francais": "garder",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Wä-ch-ter",
+      "allemand_moderne": "Wächter",
+      "francais": "gardien",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Wächter",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "ein zwanzigter",
+     "allemand_moderne": "ein zwanzigster",
+     "francais": "un second",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Un suffixe ter est ajouté, jusqu’à vingt, au nombre ordinal précédé de l’article indéfini.",
+  "page_pdf": 58,
+  "remarque_brute": "Un suffixe ter est ajouté, jusqu’à vingt, au nombre ordinal précédé de l’article indéfini, comme : ein zwanzigter, un second.",
+  "groupes_remarque": 1
+ },
+ {
+  "vedette": "E",
+  "categorie": "suf.",
+  "etymologie": "",
+  "definition": "Cette désinence sert ordinairement à désigner des objets du genre féminin.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Nelke",
+      "allemand_moderne": "Nelke",
+      "francais": "œillet",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Nelken",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Rose",
+      "allemand_moderne": "Rose",
+      "francais": "rose",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Rosen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Lilie",
+      "allemand_moderne": "Lilie",
+      "francais": "lis",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Lilien",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Birne",
+      "allemand_moderne": "Birne",
+      "francais": "poire",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Birnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Kirsche",
+      "allemand_moderne": "Kirsche",
+      "francais": "cerise",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Kirschen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Eiche",
+      "allemand_moderne": "Eiche",
+      "francais": "chêne",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Eichen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Linde",
+      "allemand_moderne": "Linde",
+      "francais": "tilleul",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Linden",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Henne",
+      "allemand_moderne": "Henne",
+      "francais": "poule",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Hennen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Stute",
+      "allemand_moderne": "Stute",
+      "francais": "jument",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Stuten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Fliege",
+      "allemand_moderne": "Fliege",
+      "francais": "mouche",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Fliegen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Forelle",
+      "allemand_moderne": "Forelle",
+      "francais": "truite",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Forellen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Lerche",
+      "allemand_moderne": "Lerche",
+      "francais": "alouette",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Lerchen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Ratte",
+      "allemand_moderne": "Ratte",
+      "francais": "rat",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Ratten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Schlange",
+      "allemand_moderne": "Schlange",
+      "francais": "serpent",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schlangen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Schnecke",
+      "allemand_moderne": "Schnecke",
+      "francais": "limace",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schnecken",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "feilen",
+     "allemand_moderne": "feilen",
+     "francais": "limer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Feile",
+      "allemand_moderne": "Feile",
+      "francais": "lime",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Feilen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "lieben",
+     "allemand_moderne": "lieben",
+     "francais": "aimer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Liebe",
+      "allemand_moderne": "Liebe",
+      "francais": "amour",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Lieben",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "geben",
+     "allemand_moderne": "geben",
+     "francais": "donner",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "gibt, gab, gegeben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Gabe",
+      "allemand_moderne": "Gabe",
+      "francais": "don",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Gaben",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "sprechen",
+     "allemand_moderne": "sprechen",
+     "francais": "parler",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "spricht, sprach, gesprochen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Sprache",
+      "allemand_moderne": "Sprache",
+      "francais": "langue",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Sprachen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "gut",
+     "allemand_moderne": "gut",
+     "francais": "bon",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Güte",
+      "allemand_moderne": "Güte",
+      "francais": "bonté",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Güten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "lang",
+     "allemand_moderne": "lang",
+     "francais": "long",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Länge",
+      "allemand_moderne": "Länge",
+      "francais": "longueur",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Längen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "groß",
+     "allemand_moderne": "groß",
+     "francais": "grand",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Größe",
+      "allemand_moderne": "Größe",
+      "francais": "grandeur",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Größen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "der Knabe",
+      "allemand_moderne": "der Knabe",
+      "francais": "garçon",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Knaben",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "der Affe",
+      "allemand_moderne": "der Affe",
+      "francais": "singe",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Affen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Sachsen",
+      "allemand_moderne": "Sachsen",
+      "francais": "la Saxe",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "der Sachse",
+      "allemand_moderne": "der Sachse",
+      "francais": "le Saxon",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Sachsen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Schweden",
+      "allemand_moderne": "Schweden",
+      "francais": "la Suède",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "der Schwede",
+      "allemand_moderne": "der Schwede",
+      "francais": "le Suédois",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Schweden",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "krank",
+     "allemand_moderne": "krank",
+     "francais": "malade",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "der Kranke",
+      "allemand_moderne": "der Kranke",
+      "francais": "le malade",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Kranken",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "De ce nombre sont surtout les fleurs, les fruits, les arbres. les femelles d’animaux dont les noms diffèrent des mâles ; la plupart des oiseaux, des poissons et des insectes, mais dont les noms désignent en même temps les deux genres.\n\nOn forme de la racine des verbes, soit du présent, soit de l’imparfait, à l’aide de l’e final, différents substantifs.\n\nLes substantifs formés d’adjectifs adoucissent la voyelle radicale.\n\nQuelques substantifs masculins prennent l’e final par euphonie. On le trouve surtout dans les noms de peuples qui correspondent souvent à des noms de pays terminés en.\n\nDans le mot der Deutsche, l’e final est une désinence commune à tous les adjectifs précédés de l’article défini, qu’ils soient substantivés ou non.",
+  "page_pdf": 59,
+  "remarque_brute": "De ce nombre sont surtout les fleurs, les fruits, les arbres, comme : Nelke, œillet; Rose, rose; Lilie, lis; Birne, poire; Kirsche, cerise; Eiche, chêne; Linde, tilleul; les femelles d’animaux dont les noms diffèrent des mâles, comme : Henne, poule; Stute, jument; la plupart des oiseaux, des poissons et des insectes, mais dont les noms désignent en même temps les deux genres, comme : Fliege, mouche; Forelle, truite; Lerche, alouette; Ratte, rat; Schlange, serpent; Schnecke, limace.\n\nOn forme de la racine des verbes, soit du présent, soit de l’imparfait, à l’aide de l’e final, différents substantifs.\n\nLes substantifs formés d’adjectifs adoucissent la voyelle radicale.\n\nQuelques substantifs masculins prennent l’e final par euphonie. On le trouve surtout dans les noms de peuples qui correspondent souvent à des noms de pays terminés en.\n\nDans le mot der Deutsche, l’e final est une désinence commune à tous les adjectifs précédés de l’article défini, qu’ils soient substantivés ou non.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Ei",
+  "categorie": "suf.",
+  "etymologie": "",
+  "definition": "Cet affixe, qui ne s’ajoute qu’à des substantifs du genre féminin, offre presque toujours une idée collective, et ajoute souvent une idée de mépris à l’idée exprimée par le mot primitif.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Reiten",
+     "allemand_moderne": "Reiten",
+     "francais": "aller à cheval",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Reiter",
+      "allemand_moderne": "Reiter",
+      "francais": "cavalier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Reiter",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Reiterei",
+      "allemand_moderne": "Reiterei",
+      "francais": "cavalerie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Reitereien",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zieren",
+     "allemand_moderne": "zieren",
+     "francais": "parer, faire des simagrées",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ziererei",
+      "allemand_moderne": "Ziererei",
+      "francais": "simagrées",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Zierereien",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gärt-",
+     "allemand_moderne": "Garten",
+     "francais": "jardin",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Gärten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Gärt-ner",
+      "allemand_moderne": "Gärtner",
+      "francais": "jardinier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Gärtner",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Gärt-ner-in",
+      "allemand_moderne": "Gärtnerin",
+      "francais": "jardinière",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Gärtnerinnen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Gärt-ner-ei",
+      "allemand_moderne": "Gärtnerei",
+      "francais": "jardinage",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Gärtnereien",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schaf",
+     "allemand_moderne": "Schaf",
+     "francais": "brebis",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Schafe",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schäfer",
+      "allemand_moderne": "Schäfer",
+      "francais": "berger",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Schäfer",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Schäfer-in",
+      "allemand_moderne": "Schäferin",
+      "francais": "bergère",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schäferinnen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Schäfer-er-ei",
+      "allemand_moderne": "Schäferei",
+      "francais": "bergerie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schäfereien",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "plaudern",
+     "allemand_moderne": "plaudern",
+     "francais": "bavarder",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Plauderer",
+      "allemand_moderne": "Plauderer",
+      "francais": "bavard",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Plauderer",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Plauderei",
+      "allemand_moderne": "Plauderei",
+      "francais": "bavardage",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Plaudereien",
+      "irreguliers": ""
+     }
+    ],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "schmeicheln",
+     "allemand_moderne": "schmeicheln",
+     "francais": "flatter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schmeichler",
+      "allemand_moderne": "Schmeichler",
+      "francais": "flatteur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Schmeichler",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Schmeichl-er-ei",
+      "allemand_moderne": "Schmeichelei",
+      "francais": "flatterie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schmeicheleien",
+      "irreguliers": ""
+     }
+    ],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Schelm",
+     "allemand_moderne": "Schelm",
+     "francais": "fripon",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Schelme",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schelm-er-ei",
+      "allemand_moderne": "Schelmerei",
+      "francais": "friponnerie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schemereien",
+      "irreguliers": ""
+     }
+    ],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Tyrannei",
+     "allemand_moderne": "Tyrannei",
+     "francais": "tyrannie",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Tyranneien",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Melodie",
+     "allemand_moderne": "Melodie",
+     "francais": "mélodie",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Melodien",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Lombardei",
+     "allemand_moderne": "Lombardei",
+     "francais": "Lombardie",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Türkei",
+     "allemand_moderne": "Türkei",
+     "francais": "Turquie",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Wallachei",
+     "allemand_moderne": "Walachei",
+     "francais": "Valachie",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "La plupart des noms féminins en ei sont formés des masculins en er, et\nPour former des mots en ei des substantifs terminés en er, on a recours au verbe radical, dont on supprime l’n final. Il en est de même des verbes en eln, comme : . Pour certains mots, on intercale la finale er.\n\nPlusieurs noms étrangers en ia et ie prennent la désinence ei ou conservent ie.\n\nCertains noms de pays se forment aussi à l’aide de la désinence ei.",
+  "page_pdf": 59,
+  "remarque_brute": "La plupart des noms féminins en ei sont formés des masculins en er, et\nPour former des mots en ei des substantifs terminés en er, on a recours au verbe radical, dont on supprime l’n final. Ex. : plaudern, bavarder ; Plauderer, bavard ; Plauderei, bavardage. Il en est de même des verbes en eln, comme : schmeicheln, flatter ; Schmeichler, flatteur ; Schmeichl-er-ei, flatterie. Pour certains mots, on intercale la finale er, comme : Schelm, fripon, Schelm-er-ei, friponnerie.\n\nPlusieurs noms étrangers en ia et ie prennent la désinence ei ou conservent ie. Ex. : Tyrannei, tyrannie ; Melodie, mélodie.\n\nCertains noms de pays se forment aussi à l’aide de la désinence ei, comme : Lombardei, Lombardie ; Türkei, Turquie ; Wallachei, Valachie.",
+  "groupes_remarque": 8
+ },
+ {
+  "vedette": "El",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette désinence désigne presque toujours un instrument, surtout quand le substantif est formé d’un verbe, et sert à marquer un diminutif quand il est formé d’un autre substantif.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "heben",
+     "allemand_moderne": "heben",
+     "francais": "lever",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "hebt, hob, gehoben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Heb-el",
+      "allemand_moderne": "Hebel",
+      "francais": "lévier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Hebel",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stechen",
+     "allemand_moderne": "stechen",
+     "francais": "piquer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "sticht, stach, gestochen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Stach-el",
+      "allemand_moderne": "Stachel",
+      "francais": "aiguillon",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Stacheln",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schließen",
+     "allemand_moderne": "schließen",
+     "francais": "fermer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schließt, schloss, geschlossen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schließ-el",
+      "allemand_moderne": "Schlüssel",
+      "francais": "clef",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Schlüssel",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stoßen",
+     "allemand_moderne": "stoßen",
+     "francais": "pousser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "stößt, stieß, gestoßen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Stöß-el",
+      "allemand_moderne": "Stößel",
+      "francais": "pilon",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Stößel",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Busch",
+     "allemand_moderne": "Busch",
+     "francais": "buisson",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Büsche",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Büsch-el",
+      "allemand_moderne": "Büschel",
+      "francais": "bouquet, touffe",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Büschel",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Eiche",
+     "allemand_moderne": "Eiche",
+     "francais": "chêne",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Eichen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Eich-el",
+      "allemand_moderne": "Eichel",
+      "francais": "gland",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Eicheln",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "edel",
+     "allemand_moderne": "edel",
+     "francais": "noble",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "dunkel",
+     "allemand_moderne": "dunkel",
+     "francais": "obscur",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "übel",
+     "allemand_moderne": "übel",
+     "francais": "méchant",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Les substantifs en el sont, en grande partie, masculins.\n\nIl n’y a que peu d’adjectifs terminés en el.",
+  "page_pdf": 60,
+  "remarque_brute": "Les substantifs en el sont, en grande partie, masculins.\n\nIl n’y a que peu d’adjectifs terminés en el, comme : edel, noble ; dunkel, obscur ; übel, méchant.",
+  "groupes_remarque": 3
+ },
+ {
+  "vedette": "Eln",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette terminaison verbale marque une diminution à laquelle se joint quelquefois l’idée du mépris",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Lachen",
+     "allemand_moderne": "lachen",
+     "francais": "rire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "lach-eln",
+      "allemand_moderne": "lächeln",
+      "francais": "sourire",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schreiben",
+     "allemand_moderne": "schreiben",
+     "francais": "écrire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schreibt, schrieb, geschrieben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "schreib-eln",
+      "allemand_moderne": "schreibeln",
+      "francais": "écrivasser",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Les verbes en eln dérivés de substantifs en el, qui indiquent l’action de",
+  "page_pdf": 60,
+  "remarque_brute": "Les verbes en eln dérivés de substantifs en el, qui indiquent l’action de",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "En",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette désinence, affectée à l’infinitif, sert aussi à former un certain nombre de substantifs collectifs qui sont presque tous du genre neutre.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Haufen",
+      "allemand_moderne": "Haufen",
+      "francais": "foule",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Haufen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Regen",
+      "allemand_moderne": "Regen",
+      "francais": "pluie",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Essen",
+      "allemand_moderne": "Essen",
+      "francais": "le manger",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Schlafen",
+      "allemand_moderne": "Schlafen",
+      "francais": "le dormir",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "aus",
+     "allemand_moderne": "aus",
+     "francais": "hors",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "außen",
+      "allemand_moderne": "außen",
+      "francais": "au-dehors",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "in",
+     "allemand_moderne": "in",
+     "francais": "dans",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "innen",
+      "allemand_moderne": "innen",
+      "francais": "en dedans",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Seide",
+     "allemand_moderne": "Seide",
+     "francais": "soie",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Seiden",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "seiden",
+      "allemand_moderne": "seiden",
+      "francais": "de soie",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wolle",
+     "allemand_moderne": "Wolle",
+     "francais": "laine",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Wollen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "wollen",
+      "allemand_moderne": "wollen",
+      "francais": "de laine",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Erde",
+     "allemand_moderne": "Erde",
+     "francais": "terre",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "erden",
+      "allemand_moderne": "erden",
+      "francais": "de terre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Silber",
+     "allemand_moderne": "Silber",
+     "francais": "argent",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "silbern",
+      "allemand_moderne": "silbern",
+      "francais": "d’argent",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gold",
+     "allemand_moderne": "Gold",
+     "francais": "or",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "golden",
+      "allemand_moderne": "golden",
+      "francais": "d’or",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Tuch",
+     "allemand_moderne": "Tuch",
+     "francais": "drap",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Tücher",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "tuchen",
+      "allemand_moderne": "tuchen",
+      "francais": "de drap",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Glas",
+     "allemand_moderne": "Glas",
+     "francais": "verre",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Gläser",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "gläsern",
+      "allemand_moderne": "gläsern",
+      "francais": "de verre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Holz",
+     "allemand_moderne": "Holz",
+     "francais": "bois",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Hölzer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "hölzern",
+      "allemand_moderne": "hölzern",
+      "francais": "de bois",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Certains adverbes sont formés par l’addition de la finale en. On forme un adjectif d’un substantif qui désigne une matière, une étoffe, et qui se termine en e, en y ajoutant la lettre n ; si le substantif est terminé en r, on n’y ajoute qu’un n. Certains adjectifs se forment en ajoutant en ou ern. Ceux qui ajoutent ern adoucissent la voyelle radicale.",
+  "page_pdf": 61,
+  "remarque_brute": "Certains adverbes sont formés par l’addition de la finale en. On forme un adjectif d’un substantif qui désigne une matière, une étoffe, et qui se termine en e, en y ajoutant la lettre n ; si le substantif est terminé en r, on n’y ajoute qu’un n. Certains adjectifs se forment en ajoutant en ou ern. Ceux qui ajoutent ern adoucissent la voyelle radicale.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "End",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale remplace les anciennes désinences en et uth.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "tugn",
+     "allemand_moderne": "taugen",
+     "francais": "valoir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "taugt, taugte, getaugt"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Tugend",
+      "allemand_moderne": "Tugend",
+      "francais": "vertu",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Tugenden",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "jung",
+     "allemand_moderne": "jung",
+     "francais": "jeune",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Jugend",
+      "allemand_moderne": "Jugend",
+      "francais": "jeunesse",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Jugenden",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "taugen",
+     "allemand_moderne": "taugen",
+     "francais": "valoir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "taugt, taugte, getaugt"
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 61,
+  "remarque_brute": "Exemples : Tugend, f. (pour Tuged, de tugn, taugen, valoir), vertu ; Jugend, f. (Juguth, de jung, jeune), jeunesse.",
+  "groupes_remarque": 1
+ },
+ {
+  "vedette": "Er",
+  "categorie": "pr.",
+  "etymologie": "",
+  "definition": "Pronom personnel masculin ; comme désinence du substantif, remplace le mot Mann, homme. La plupart des substantifs qui ont cette finale sont du genre masculin.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Europäer",
+      "allemand_moderne": "Europäer",
+      "francais": "Européen",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Europäer",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Engländer",
+      "allemand_moderne": "Engländer",
+      "francais": "Anglais",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Engländer",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Spanier",
+      "allemand_moderne": "Spanier",
+      "francais": "Espagnol",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Spanier",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Berliner",
+      "allemand_moderne": "Berliner",
+      "francais": "Berlinois",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Berliner",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Pariser",
+      "allemand_moderne": "Pariser",
+      "francais": "Parisien",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Pariser",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Römer",
+      "allemand_moderne": "Römer",
+      "francais": "Romain",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Römer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Glas",
+     "allemand_moderne": "Glas",
+     "francais": "verre",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Gläser",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Glaser",
+      "allemand_moderne": "Glaser",
+      "francais": "vitrier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Glaser",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sattel",
+     "allemand_moderne": "Sattel",
+     "francais": "selle",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Sättel",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Sattler",
+      "allemand_moderne": "Sattler",
+      "francais": "sellier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Sattler",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Topf",
+     "allemand_moderne": "Topf",
+     "francais": "pot",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Töpfe",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Töpfer",
+      "allemand_moderne": "Töpfer",
+      "francais": "potier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Töpfer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "dienen",
+     "allemand_moderne": "dienen",
+     "francais": "servir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Diener",
+      "allemand_moderne": "Diener",
+      "francais": "serviteur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Diener",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "färben",
+     "allemand_moderne": "färben",
+     "francais": "teindre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Färber",
+      "allemand_moderne": "Färber",
+      "francais": "teinturier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Färber",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "reden",
+     "allemand_moderne": "reden",
+     "francais": "parler",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Redner",
+      "allemand_moderne": "Redner",
+      "francais": "orateur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Redner",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "machen",
+     "allemand_moderne": "machen",
+     "francais": "faire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Uhrmacher",
+      "allemand_moderne": "Uhrmacher",
+      "francais": "horloger",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Uhrmacher",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Leuchten",
+     "allemand_moderne": "Leuchten",
+     "francais": "éclairer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Leuchter",
+      "allemand_moderne": "Leuchter",
+      "francais": "flambeau, chandelier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Leuchter",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zahl",
+     "allemand_moderne": "Zahl",
+     "francais": "numérotée",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Zahlen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zähler",
+      "allemand_moderne": "Zähler",
+      "francais": "écon.",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Zähler",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "ein Krank-er",
+      "allemand_moderne": "ein Kranker",
+      "francais": "un malade",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Kranken",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "ein Reisend-er",
+      "allemand_moderne": "ein Reisender",
+      "francais": "un voyageur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Reisenden",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mann",
+     "allemand_moderne": "Mann",
+     "francais": "homme",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Männer",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "bitten",
+     "allemand_moderne": "bitten",
+     "francais": "prier",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bittet, bat, gebeten"
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Er, pronom personnel masculin, remplace, comme désinence du substantif, le mot , ce qui fait que la plupart des substantifs qui ont cette finale sont du genre masculin ; , comme habitants d’un pays, d’une ville ; homme façonnant une matière. La plupart des substantifs en er sont formés des verbes. Plusieurs de ces substantifs ne sont usités que dans des mots composés. Tels sont les substantifs dérivée des verbes , , comme : . On forme avec cette finale aussi plusieurs substantifs qui ne s’attachent pas à l’idée de l’homme, comme : ; , ; , .",
+  "page_pdf": 61,
+  "remarque_brute": "Er, pronom personnel masculin, remplace, comme désinence du substantif, le mot Mann, homme, ce qui fait que la plupart des substantifs qui ont cette finale sont du genre masculin ; homme, comme habitants d’un pays, d’une ville ; homme façonnant une matière. La plupart des substantifs en er sont formés des verbes. Plusieurs de ces substantifs ne sont usités que dans des mots composés. Tels sont les substan-\ntifs dérivée des verbes machen, faire ; bitten, prier, comme : Uhrmacher (faiseur de montres), horloger. On forme avec cette finale aussi plusieurs substantifs qui ne s’attachent pas à l’idée de l’homme, comme : Leuchten, éclairer ; Leuchter, flambeau, chandelier ; Zahl, n. numérotée, Zähler, m. écon.",
+  "groupes_remarque": 2
+ },
+ {
+  "vedette": "Ern",
+  "categorie": "suf.",
+  "etymologie": "",
+  "definition": "comme finale des verbes, renferme presque toujours une idée fréquentative, une occupation",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "wandern",
+     "allemand_moderne": "wandern",
+     "francais": "marcher, cheminer, voyager à pied",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "klettern",
+     "allemand_moderne": "klettern",
+     "francais": "grimper",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "kindern",
+     "allemand_moderne": "kindern",
+     "francais": "endormir (un enfant)",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "Quant aux adjectifs terminés en ern, voyez Ern.",
+  "page_pdf": 62,
+  "remarque_brute": "Quant aux adjectifs terminés en ern, voyez Ern.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Fach",
+  "categorie": "suf.",
+  "etymologie": "",
+  "definition": "cette finale, formée du substantif de ce nom, qui signifie compartiment, fois, se joint aux noms de nombre",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "ein-fach",
+      "allemand_moderne": "einfach",
+      "francais": "simple, une fois",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "hundert-fach",
+      "allemand_moderne": "hundertfach",
+      "francais": "centuple, cent fois",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 62,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Ft",
+  "categorie": "suf.",
+  "etymologie": "",
+  "definition": "l’f de cette finale ne joue qu’un rôle euphonique dans des mots où l’m qui le précédait anciennement a été changé depuis en n",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "an-kommen",
+     "allemand_moderne": "ankommen",
+     "francais": "arriver",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "kommt an, kam an, angekommen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "An-kunft",
+      "allemand_moderne": "Ankunft",
+      "francais": "arrivée",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Ankünfte",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "ver-nehmen",
+     "allemand_moderne": "vernehmen",
+     "francais": "entendre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "vernimmt, vernahm, vernommen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ver-nunft",
+      "allemand_moderne": "Vernunft",
+      "francais": "intelligence",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 62,
+  "remarque_brute": "An-kunft, f. pour An-kumft, arrivée (de an-kommen, arriver). Ver-nunft, f. pour Ver-munft, intelligence (de ver-nehmen, entendre).",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "G",
+  "categorie": "suf.",
+  "etymologie": "",
+  "definition": "cette lettre sert à former des substantifs des verbes",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "thun",
+     "allemand_moderne": "tun",
+     "francais": "faire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "tut, tat, getan"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ding",
+      "allemand_moderne": "Ding",
+      "francais": "chose",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Dinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "geh-en",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Gang",
+      "allemand_moderne": "Gang",
+      "francais": "marche, allure",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Gänge",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 62,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Haft, Haftig",
+  "categorie": "suf.",
+  "etymologie": "",
+  "definition": "cette finale sert à former des adjectifs. Dérivée de haben, avoir, elle signifie attaché et peut se traduire par ayant, et quelquefois par enclin",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Tugend",
+     "allemand_moderne": "Tugend",
+     "francais": "vertu",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Tugenden",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "tugend-haft",
+      "allemand_moderne": "tugendhaft",
+      "francais": "vertueux (ayant de la vertu)",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fehler",
+     "allemand_moderne": "Fehler",
+     "francais": "faute, défaut",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Fehler",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "fehler-haft",
+      "allemand_moderne": "fehlerhaft",
+      "francais": "ayant des défauts, vicieux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mangel",
+     "allemand_moderne": "Mangel",
+     "francais": "manque",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Mängel",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "mangel-haft",
+      "allemand_moderne": "mangelhaft",
+      "francais": "défectueux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Plaudern",
+     "allemand_moderne": "plaudern",
+     "francais": "bavarder",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "plauder-haft",
+      "allemand_moderne": "plauderhaft",
+      "francais": "bavard",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stand-haft",
+     "allemand_moderne": "standhaft",
+     "francais": "ferme",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Stand-haft-ig",
+      "allemand_moderne": "standhaftig",
+      "francais": "ferme",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Stand-haft-ig-keit",
+      "allemand_moderne": "Standhaftigkeit",
+      "francais": "fermeté",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Standhaftigkeiten",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Souvent on ajoute encore ig à la finale haft des adjectifs, servant lorsqu’on veut en former des substantifs.",
+  "page_pdf": 62,
+  "remarque_brute": "Souvent on ajoute encore ig à la finale haft des adjectifs, servant lorsqu’on veut en former des substantifs, comme :",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Halb",
+  "categorie": "",
+  "etymologie": "ancien substantif Halb, partie",
+  "definition": "Ce mot, dérivé d’un ancien substantif Halb, partie, prend, comme finale, la signification de lieu.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "All-ent-halben",
+      "allemand_moderne": "allenthalben",
+      "francais": "en tout lieu",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Außer-halb",
+      "allemand_moderne": "außerhalb",
+      "francais": "au-dehors (hors de ce lieu)",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Inner-halb",
+      "allemand_moderne": "innerhalb",
+      "francais": "en dedans",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Ober-halb",
+      "allemand_moderne": "oberhalb",
+      "francais": "au-dessus",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Unter-halb",
+      "allemand_moderne": "unterhalb",
+      "francais": "au-dessous",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 63,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Hand",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Joint au mot all, tout, cet affixe semble une corruption de l’ancien Kind, espèce, mot conservé par les Anglais (kind).",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "All-er-hand",
+      "allemand_moderne": "allerhand",
+      "francais": "toutes sortes de",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 63,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Heit",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cet affixe, qui signifie état, manière, forme des substantifs féminins dérivés des adjectifs, et marque la qualité et l’état de la personne ou de la chose dont on parle.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Klug",
+     "allemand_moderne": "klug",
+     "francais": "prudent",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Klug-heit",
+      "allemand_moderne": "Klugheit",
+      "francais": "prudence",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Klugheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schön",
+     "allemand_moderne": "schön",
+     "francais": "beau",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schön-heit",
+      "allemand_moderne": "Schönheit",
+      "francais": "beauté",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schönheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ergeben",
+     "allemand_moderne": "ergeben",
+     "francais": "dévoué",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ergeben-heit",
+      "allemand_moderne": "Ergebenheit",
+      "francais": "dévouement",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Ergebenheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Blind",
+     "allemand_moderne": "blind",
+     "francais": "aveugle",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Blind-heit",
+      "allemand_moderne": "Blindheit",
+      "francais": "cécité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Blindheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Dumm",
+     "allemand_moderne": "dumm",
+     "francais": "bête",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Dumm-heit",
+      "allemand_moderne": "Dummheit",
+      "francais": "bêtise",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Dummheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Faul",
+     "allemand_moderne": "faul",
+     "francais": "paresseux",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Faul-heit",
+      "allemand_moderne": "Faulheit",
+      "francais": "paresse",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Faulheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schüchtern",
+     "allemand_moderne": "schüchtern",
+     "francais": "timide",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schüchtern-heit",
+      "allemand_moderne": "Schüchternheit",
+      "francais": "timidité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schüchternheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gott",
+     "allemand_moderne": "Gott",
+     "francais": "Dieu",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Götter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Gott-heit",
+      "allemand_moderne": "Gottheit",
+      "francais": "divinité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Gottheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kind",
+     "allemand_moderne": "Kind",
+     "francais": "enfant",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Kinder",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Kind-heit",
+      "allemand_moderne": "Kindheit",
+      "francais": "enfance",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Kindheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mensch",
+     "allemand_moderne": "Mensch",
+     "francais": "homme",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Menschen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Mensch-heit",
+      "allemand_moderne": "Menschheit",
+      "francais": "genre humain",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Menschheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Narr",
+     "allemand_moderne": "Narr",
+     "francais": "fou",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Narren",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Narr-heit",
+      "allemand_moderne": "Narrheit",
+      "francais": "folie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Narrheiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Christ",
+     "allemand_moderne": "Christ",
+     "francais": "Chrétien",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Christen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Christen-heit",
+      "allemand_moderne": "Christenheit",
+      "francais": "chrétienté",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Christenheiten",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Il n’y a que peu de noms terminés en heit qui se forment d’autres substantifs.\n\nQuant aux substantifs en heit, on ne peut pas en former des adjectifs en isch, ni en icht, il en est de même des adjectifs en er, lorsqu’ils",
+  "page_pdf": 63,
+  "remarque_brute": "Il n’y a que peu de noms terminés en heit qui se forment d’autres substantifs, comme :\n\nQuant aux substantifs en heit, on ne peut pas en former des adjectifs en isch, ni en icht, il en est de même des adjectifs en er, lorsqu’ils",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Keit",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Gold",
+     "allemand_moderne": "Gold",
+     "francais": "l’or",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Golde",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "golden",
+      "allemand_moderne": "golden",
+      "francais": "d’or",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "vergessen",
+     "allemand_moderne": "vergessen",
+     "francais": "oublié",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Vergessen-heit",
+      "allemand_moderne": "Vergessenheit",
+      "francais": "oubli",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Eitel",
+     "allemand_moderne": "eitel",
+     "francais": "vain",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Eitel-keit",
+      "allemand_moderne": "Eitelkeit",
+      "francais": "vanité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Tapfer",
+     "allemand_moderne": "tapfer",
+     "francais": "brave",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Tapfer-keit",
+      "allemand_moderne": "Tapferkeit",
+      "francais": "bravoure",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fruchtbar",
+     "allemand_moderne": "fruchtbar",
+     "francais": "fertile",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Fruchtbar-keit",
+      "allemand_moderne": "Fruchtbarkeit",
+      "francais": "fertilité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ewig",
+     "allemand_moderne": "ewig",
+     "francais": "éternel",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ewig-keit",
+      "allemand_moderne": "Ewigkeit",
+      "francais": "éternité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sterb-lich",
+     "allemand_moderne": "sterblich",
+     "francais": "mortel",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Sterb-lich-keit",
+      "allemand_moderne": "Sterblichkeit",
+      "francais": "mortalité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Furcht-sam",
+     "allemand_moderne": "furchtsam",
+     "francais": "peureux",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Furcht-sam-keit",
+      "allemand_moderne": "Furchtsamkeit",
+      "francais": "peur, poltronnerie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Feind-selig",
+     "allemand_moderne": "feindselig",
+     "francais": "hostile",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Feind-selig-keit",
+      "allemand_moderne": "Feindseligkeit",
+      "francais": "hostilité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Dreist",
+     "allemand_moderne": "dreist",
+     "francais": "hardi",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Dreist-ig-keit",
+      "allemand_moderne": "Dreistigkeit",
+      "francais": "hardiesse",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Bang",
+     "allemand_moderne": "bang",
+     "francais": "inquiet",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Bang-ig-keit",
+      "allemand_moderne": "Bangigkeit",
+      "francais": "inquiétude",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fromm",
+     "allemand_moderne": "fromm",
+     "francais": "pieux",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Fromm-ig-keit",
+      "allemand_moderne": "Frömmigkeit",
+      "francais": "piété",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Süß",
+     "allemand_moderne": "süß",
+     "francais": "doux (au goût)",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Süß-ig-keit",
+      "allemand_moderne": "Süßigkeit",
+      "francais": "douceur",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gerecht",
+     "allemand_moderne": "gerecht",
+     "francais": "juste",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Gerecht-ig-keit",
+      "allemand_moderne": "Gerechtigkeit",
+      "francais": "justice",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Leb-haft",
+     "allemand_moderne": "leबहhaft",
+     "francais": "vif",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Leb-haft-ig-keit",
+      "allemand_moderne": "Lebhaftigkeit",
+      "francais": "vivacité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "dérivent des substantifs.\n\nCette finale, modification de heit, se joint aux substantifs formés d’adjectifs en bar, el, er, ig, lich, sam.\n\nPlusieurs autres adjectifs, surtout les monosyllabes, et ceux terminés en haft, forment leurs substantifs avec keit, et intercalent, par euphonie, la syllabe ig.",
+  "page_pdf": 63,
+  "remarque_brute": "dérivent des substantifs, comme : *golden*, d’or (das Gold, l’or) ; mais certains participes passés en *en* ajoutent cette désinence, comme : *vergessen*, oublié, *Vergessen-heit*, f. oubli.\n\nCette finale, modification de *heit*, se joint aux substantifs formés d’adjectifs en *bar, el, er, ig, lich, sam*.\n\nPlusieurs autres adjectifs, surtout les monosyllabes, et ceux terminés en *haft*, forment leurs substantifs avec *keit*, et intercalent, par euphonie, la syllabe *ig*.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Hin",
+  "categorie": "ad.",
+  "etymologie": "",
+  "definition": "Cet adverbe, qui sert aussi de préfixe, se joint à quelques adverbes comme finale explicative.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Fort-hin",
+      "allemand_moderne": "forthin",
+      "francais": "désormais",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Immer-hin",
+      "allemand_moderne": "immerhin",
+      "francais": "toujours",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Rechts-hin",
+      "allemand_moderne": "rechtshin",
+      "francais": "à droite",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 64,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Ich",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Les substantifs en *ich* sont tous du genre masculin.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Kranich",
+      "allemand_moderne": "Kranich",
+      "francais": "grue",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Kraniche",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Teppich",
+      "allemand_moderne": "Teppich",
+      "francais": "tapis",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Teppiche",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Käfig",
+      "allemand_moderne": "Käfig",
+      "francais": "cage",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Käfige",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Dickicht",
+     "allemand_moderne": "Dickicht",
+     "francais": "épaisseur d’un bois",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Dickichte",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Certains substantifs, qui marquent abondance, plénitude, joignent un t à la finale ich.",
+  "page_pdf": 64,
+  "remarque_brute": "Certains substantifs, qui marquent abondance, plénitude, joignent un *t* à la finale *ich*, comme : *Dickicht*, n. épaisseur d’un bois.",
+  "groupes_remarque": 1
+ },
+ {
+  "vedette": "Icht",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "*Icht*, comme terminaison d’adjectif, indique une ressemblance avec l’objet exprimé par le mot auquel on ajoute cette désinence.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Holz",
+     "allemand_moderne": "Holz",
+     "francais": "bois",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Hölzer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "holz-icht",
+      "allemand_moderne": "holzicht",
+      "francais": "boiseux, ligneux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Öl",
+     "allemand_moderne": "Öl",
+     "francais": "huile",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Öle",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "öl-icht",
+      "allemand_moderne": "ölicht",
+      "francais": "huileux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 64,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Ig",
+  "categorie": "suffixe",
+  "etymologie": "Igen",
+  "definition": "Cette finale, dérivée de eigen, propre, répond aux terminaisons grecques ικός, αικός, et à celles des Latins en icus, ix, ax.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Stein",
+     "allemand_moderne": "Stein",
+     "francais": "pierre",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Steine",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "stein-ig",
+      "allemand_moderne": "steinig",
+      "francais": "pierreux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Durst",
+     "allemand_moderne": "Durst",
+     "francais": "soif",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "durst-ig",
+      "allemand_moderne": "durstig",
+      "francais": "altéré (ayant soif)",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "ewig",
+     "allemand_moderne": "ewig",
+     "francais": "éternel",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ewig-keit",
+      "allemand_moderne": "Ewigkeit",
+      "francais": "éternité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Ewigkeiten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ende",
+     "allemand_moderne": "Ende",
+     "francais": "fin",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Enden",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "end-ig-en",
+      "allemand_moderne": "endigen",
+      "francais": "finir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fest",
+     "allemand_moderne": "fest",
+     "francais": "solide, fortifié",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-fest-ig-en",
+      "allemand_moderne": "befestigen",
+      "francais": "fortifier",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Jahr",
+     "allemand_moderne": "Jahr",
+     "francais": "an",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Jahre",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "jährig",
+      "allemand_moderne": "jährig",
+      "francais": "qui a un an",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "jährlich",
+      "allemand_moderne": "jährlich",
+      "francais": "annuel",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "woll-ig",
+      "allemand_moderne": "wollig",
+      "francais": "laineux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "woll-icht",
+      "allemand_moderne": "wollicht",
+      "francais": "cotonneux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "woll-en",
+      "allemand_moderne": "wollen",
+      "francais": "de laine",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "stein-ern",
+      "allemand_moderne": "steinern",
+      "francais": "de pierre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "stein-ig",
+      "allemand_moderne": "steinig",
+      "francais": "pierreux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "stein-icht",
+      "allemand_moderne": "steinicht",
+      "francais": "ressemblant à une pierre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "kupfer-ern",
+      "allemand_moderne": "kupfern",
+      "francais": "de cuivre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "kupfer-ig",
+      "allemand_moderne": "kupferig",
+      "francais": "cuivreux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "kupfer-icht",
+      "allemand_moderne": "kupfericht",
+      "francais": "cuivré",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "hölz-ern",
+      "allemand_moderne": "hölzern",
+      "francais": "de bois",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "holz-ig",
+      "allemand_moderne": "holzig",
+      "francais": "boisé",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "holz-icht",
+      "allemand_moderne": "holzicht",
+      "francais": "boiseux, ligneux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "glas-ern",
+      "allemand_moderne": "gläsern",
+      "francais": "de verre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "glas-ig",
+      "allemand_moderne": "glasig",
+      "francais": "vitreux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "glas-icht",
+      "allemand_moderne": "glasicht",
+      "francais": "qui ressemble au verre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "De ces adjectifs en ig se forment : 1° plusieurs substantifs, par l’addition de la syllabe keit ; 2° des verbes qui intercalent ig entre la racine et la finale en.\n\nIl faut bien distinguer ig de lich, qui change le sens du mot primitif.\n\nLes exemples suivants peuvent faire connaître la différence qui existe entre les adjectifs terminés en ig, icht, en, ern.",
+  "page_pdf": 65,
+  "remarque_brute": "De ces adjectifs en ig se forment : 1° plusieurs substantifs, par l’addition de la syllabe keit, comme : ewig, éternel, Ewig-keit, f. éternité ; 2° des verbes qui intercalent ig entre la racine et la finale en, comme :\n\nIl faut bien distinguer ig de lich, qui change le sens du mot primitif comme :\n\nLes exemples suivants peuvent faire connaître la différence qui existe entre les adjectifs terminés en ig, icht, en, ern.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "In",
+  "categorie": "suffixe",
+  "etymologie": "",
+  "definition": "Cette finale, ajoutée à un nom appellatif masculin, en fait un féminin, comme :",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "König",
+     "allemand_moderne": "König",
+     "francais": "roi",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Könige",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "König-in",
+      "allemand_moderne": "Königin",
+      "francais": "reine",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Königinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kaiser",
+     "allemand_moderne": "Kaiser",
+     "francais": "empereur",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Kaiser",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Kaiser-in",
+      "allemand_moderne": "Kaiserin",
+      "francais": "impératrice",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Kaiserinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schäfer",
+     "allemand_moderne": "Schäfer",
+     "francais": "berger",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Schäfer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schäfer-in",
+      "allemand_moderne": "Schäferin",
+      "francais": "bergère",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Schäferinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zauber-er",
+     "allemand_moderne": "Zauberer",
+     "francais": "magicien",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Zauberer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zauber-in",
+      "allemand_moderne": "Zauberin",
+      "francais": "magicienne",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Zauberinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Graf",
+     "allemand_moderne": "Graf",
+     "francais": "comte",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Grafen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Gräf-in",
+      "allemand_moderne": "Gräfin",
+      "francais": "comtesse",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Gräfinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gott",
+     "allemand_moderne": "Gott",
+     "francais": "Dieu",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Götter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Gött-in",
+      "allemand_moderne": "Göttin",
+      "francais": "déesse",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Göttinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Hund",
+     "allemand_moderne": "Hund",
+     "francais": "chien",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Hunde",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Hünd-in",
+      "allemand_moderne": "Hündin",
+      "francais": "chienne",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Hündinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Franzose",
+     "allemand_moderne": "Franzose",
+     "francais": "François",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Franzosen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Französ-in",
+      "allemand_moderne": "Französin",
+      "francais": "Française",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Französinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Grieche",
+     "allemand_moderne": "Grieche",
+     "francais": "Grec",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Griechen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Griech-in",
+      "allemand_moderne": "Griechin",
+      "francais": "Grecque",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Griechinnen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mutter",
+     "allemand_moderne": "Mutter",
+     "francais": "mère",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Mütter",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Base",
+     "allemand_moderne": "Base",
+     "francais": "cousine",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Basen",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Stute",
+     "allemand_moderne": "Stute",
+     "francais": "jument",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Stuten",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "In ou Inn.\n\nLes substantifs terminés en er rejettent la finale er pour former le féminin ; ex. :\n\nQuelques-uns de ces substantifs changent leurs voyelles radicales a, o, u en ä, ö, ü, comme :\nIl y a des substantifs féminins qui ne se forment pas de leurs masculins, présentent un mot particulier avec une désinence différente, tels que :",
+  "page_pdf": 65,
+  "remarque_brute": "In ou Inn.\n\nLes substantifs terminés en er rejettent la finale er pour former le féminin ; ex. :\n\nQuelques-uns de ces substantifs changent leurs voyelles radicales a, o, u en ä, ö, ü, comme :\nIl y a des substantifs féminins qui ne se forment pas de leurs masculins, présentent un mot particulier avec une désinence différente, tels que : Mutter, f. mère ; Base, f. cousine ; Stute, f. jument.",
+  "groupes_remarque": 3
+ },
+ {
+  "vedette": "Ing",
+  "categorie": "",
+  "etymologie": "Cet affixe semble dérivé du mot celtique engi, naître",
+  "definition": "Donne au mot auquel il est ajouté la signification d’origine.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Hopp",
+     "allemand_moderne": "Hopp",
+     "francais": "",
+     "pos": "nom",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Hopp-ing",
+      "allemand_moderne": "Hopping",
+      "francais": "fils de Cyppas",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Hoppings",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Lothar",
+     "allemand_moderne": "Lothar",
+     "francais": "",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Lothare",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Lothr-ingen",
+      "allemand_moderne": "Lothringen",
+      "francais": "terre de Lothaire, Lorraine",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Pfenn",
+     "allemand_moderne": "Pfenn",
+     "francais": "",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Pfenn-ig",
+      "allemand_moderne": "Pfennig",
+      "francais": "denier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Pfennige",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Pfenn-ing",
+      "allemand_moderne": "Pfenning",
+      "francais": "denier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Pfenninge",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Dans les noms de pays et de villes, cette finale signifie terre. On contracte quelquefois la finale ing en ig.",
+  "page_pdf": 66,
+  "remarque_brute": "Dans les noms de pays et de villes, cette finale signifie terre. On contracte quelquefois la finale ing en ig.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Iren, Ieren",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale est affectée aux infinitifs des verbes dérivés des langues étrangères.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Stud-iren",
+      "allemand_moderne": "studieren",
+      "francais": "étudier",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Spaz-ieren",
+      "allemand_moderne": "spazieren",
+      "francais": "se promener",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 66,
+  "remarque_brute": "Stud-iren (L. studeo), étudier. Spaz-ieren (L. spatior), se promener.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Isch",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale sert à former des adjectifs des noms propres d’hommes, de pays et autres, dont elle marque la nature et la qualité.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Homer",
+     "allemand_moderne": "Homer",
+     "francais": "Homère",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Homere",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "homerisch",
+      "allemand_moderne": "homerisch",
+      "francais": "d’Homère",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Span-ien",
+     "allemand_moderne": "Spanien",
+     "francais": "l’Espagne",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Span-ier",
+      "allemand_moderne": "Spanier",
+      "francais": "Espagnol",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Spanier",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Span-ier-in",
+      "allemand_moderne": "Spanierin",
+      "francais": "Espagnole",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Spanierinnen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "spanisch",
+      "allemand_moderne": "spanisch",
+      "francais": "espagnol",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Frank-reich",
+     "allemand_moderne": "Frankreich",
+     "francais": "France",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Franzose",
+      "allemand_moderne": "Franzose",
+      "francais": "Français",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Franzosen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Französ-in",
+      "allemand_moderne": "Französin",
+      "francais": "Française",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Französinnen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "französ-isch",
+      "allemand_moderne": "französisch",
+      "francais": "français",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "England",
+     "allemand_moderne": "England",
+     "francais": "Angleterre",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Engländ-er",
+      "allemand_moderne": "Engländer",
+      "francais": "Anglais",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Engländer",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Engländ-er-in",
+      "allemand_moderne": "Engländerin",
+      "francais": "Anglaise",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Engländerinnen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "engl-isch",
+      "allemand_moderne": "englisch",
+      "francais": "anglais",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Hölle",
+     "allemand_moderne": "Hölle",
+     "francais": "enfer",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Höllen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "höll-isch",
+      "allemand_moderne": "höllisch",
+      "francais": "infernal",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Malen",
+     "allemand_moderne": "malen",
+     "francais": "peindre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Maler",
+      "allemand_moderne": "Maler",
+      "francais": "peintre",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Maler",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "maler-isch",
+      "allemand_moderne": "malerisch",
+      "francais": "pittoresque",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Berliner Blau",
+      "allemand_moderne": "Berliner Blau",
+      "francais": "bleu de Berlin (bleu de Prusse)",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Schweizer Käse",
+      "allemand_moderne": "Schweizer Käse",
+      "francais": "fromage de Suisse",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Schweizer Käse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Herr",
+     "allemand_moderne": "Herr",
+     "francais": "maître, seigneur",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Herren",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "herr-lich",
+      "allemand_moderne": "herrlich",
+      "francais": "excellent",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "herr-ig",
+      "allemand_moderne": "herrig",
+      "francais": "impérieux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mann",
+     "allemand_moderne": "Mann",
+     "francais": "homme (vir)",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Männer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "männ-lich",
+      "allemand_moderne": "männlich",
+      "francais": "mâle",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "männ-ig",
+      "allemand_moderne": "männig",
+      "francais": "en masse",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Weib",
+     "allemand_moderne": "Weib",
+     "francais": "femme",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Weiber",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "weib-lich",
+      "allemand_moderne": "weiblich",
+      "francais": "féminin",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "weib-ig",
+      "allemand_moderne": "weibig",
+      "francais": "féminin",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kind",
+     "allemand_moderne": "Kind",
+     "francais": "enfant",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Kinder",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "kind-lich",
+      "allemand_moderne": "kindlich",
+      "francais": "filial, d’un enfant",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "kind-ig",
+      "allemand_moderne": "kindig",
+      "francais": "puéril",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "En parlant des produits d’un pays ou d’une ville, on emploie souvent la finale er au lieu de la finale isch.\nLa désinence lich ajoute aussi quelquefois une idée de mépris au mot primitif, et ne doit pas être confondue avec l’affixe ig ou lich, qui n’indique qu’une manière d’être ou une ressemblance (voy. Lich); et. :",
+  "page_pdf": 66,
+  "remarque_brute": "En parlant des produits d’un pays ou d’une ville, on emploie souvent la finale er au lieu de la finale isch.\nLa désinence lich ajoute aussi quelquefois une idée de mépris au mot primitif, et ne doit pas être confondue avec l’affixe ig ou lich, qui n’indique qu’une manière d’être ou une ressemblance (voy. Lich); et. :",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Ist",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cet affixe se joint à quelques mots étrangers et sert aussi à désigner la personne qui joue d’un instrument.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Christ",
+     "allemand_moderne": "Christ",
+     "francais": "Chrétien.",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Christen",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Infanterie",
+     "allemand_moderne": "Infanterie",
+     "francais": "infanterie",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Infanter-ist",
+      "allemand_moderne": "Infanterist",
+      "francais": "fantassin",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Infanteristen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Violin",
+     "allemand_moderne": "Violine",
+     "francais": "violon",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Violinen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Violinist",
+      "allemand_moderne": "Violinist",
+      "francais": "violoniste",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Violinisten",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 67,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "K",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette lettre sert à former quelques substantifs de la racine des verbes.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Fähr-en",
+     "allemand_moderne": "fahren",
+     "francais": "porter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "fährt, fuhr, gefahren"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Bar-ke",
+      "allemand_moderne": "Barke",
+      "francais": "barque",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Barken",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zahn-en",
+     "allemand_moderne": "zähnen",
+     "francais": "mordre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zank",
+      "allemand_moderne": "Zank",
+      "francais": "querelle",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Zänke",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "R.",
+  "page_pdf": 67,
+  "remarque_brute": "R.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Keit",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Voy. Heit.",
+  "groupes": [],
+  "remarque": "",
+  "page_pdf": 67,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Lei",
+  "categorie": "",
+  "etymologie": "ancien mot leî, couleur",
+  "definition": "Cet affixe signifie aujourd’hui espèce, et se joint surtout aux noms de nombre et aux pronoms indéfinis.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Einer",
+     "allemand_moderne": "einer",
+     "francais": "",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Einer-lei",
+      "allemand_moderne": "einerlei",
+      "francais": "de la même espèce, égal",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zweier",
+     "allemand_moderne": "zweier",
+     "francais": "",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zweier-lei",
+      "allemand_moderne": "zweierlei",
+      "francais": "de deux espèces, différent",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Aller",
+     "allemand_moderne": "aller",
+     "francais": "",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Aller-lei",
+      "allemand_moderne": "allerlei",
+      "francais": "de toutes espèces",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 67,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Lein",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Voy. Schein.",
+  "groupes": [],
+  "remarque": "",
+  "page_pdf": 67,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Lich",
+  "categorie": "",
+  "etymologie": "gothique leiks, anglais like",
+  "definition": "Ce mot signifie semblable lorsqu’il est ajouté à un substantif.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Gott",
+     "allemand_moderne": "Gott",
+     "francais": "Dieu",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Götter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "gött-lich",
+      "allemand_moderne": "göttlich",
+      "francais": "divin",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "König",
+     "allemand_moderne": "König",
+     "francais": "roi",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Könige",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "könig-lich",
+      "allemand_moderne": "königlich",
+      "francais": "royal",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mann",
+     "allemand_moderne": "Mann",
+     "francais": "homme",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Männer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "männ-lich",
+      "allemand_moderne": "männlich",
+      "francais": "viril, mâle",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Weib",
+     "allemand_moderne": "Weib",
+     "francais": "femme",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Weiber",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "weib-lich",
+      "allemand_moderne": "weiblich",
+      "francais": "féminin",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Süß",
+     "allemand_moderne": "süß",
+     "francais": "doux",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "süß-lich",
+      "allemand_moderne": "süßlich",
+      "francais": "un peu doux, doucereux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Roth",
+     "allemand_moderne": "rot",
+     "francais": "rouge",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "röth-lich",
+      "allemand_moderne": "rötlich",
+      "francais": "tirant sur le rouge, rougeâtre",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Glauben",
+     "allemand_moderne": "glauben",
+     "francais": "croire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "glaub-lich",
+      "allemand_moderne": "glaublich",
+      "francais": "croyable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Lesen",
+     "allemand_moderne": "lesen",
+     "francais": "lire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "liest, las, gelesen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "leser-lich",
+      "allemand_moderne": "leserlich",
+      "francais": "lisible",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zerbrechen",
+     "allemand_moderne": "zerbrechen",
+     "francais": "casser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "zerbricht, zerbrach, zerbrochen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zerbrech-lich",
+      "allemand_moderne": "zerbrechlich",
+      "francais": "fragile",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ertragen",
+     "allemand_moderne": "ertragen",
+     "francais": "supporter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "erträgt, ertrug, ertragen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ertrag-lich",
+      "allemand_moderne": "erträglich",
+      "francais": "supportable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Un-wider-steh-lich",
+      "allemand_moderne": "unwiderstehlich",
+      "francais": "irrésistible",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Un-aus-lösch-lich",
+      "allemand_moderne": "unauslöschlich",
+      "francais": "ineffaçable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Exemples :\nLes substantifs formés de ces adjectifs prennent tous la finale keit. Il est à remarquer qu’un grand nombre de ces adjectifs ne sont usités qu’avec la particule négative un.",
+  "page_pdf": 67,
+  "remarque_brute": "Exemples :\nLes substantifs formés de ces adjectifs prennent tous la finale keit. Il est à remarquer qu’un grand nombre de ces adjectifs ne sont usités qu’avec la particule négative un.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Ling",
+  "categorie": "suff. subst.",
+  "etymologie": "langen, appartenir",
+  "definition": "Cet affixe marque dérivation, parenté, et sert à former des substantifs masculins, dont quelques-uns s’emploient comme diminutifs et se prennent en mauvaise part.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Sproß",
+     "allemand_moderne": "Spross",
+     "francais": "scion, rejeton",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Sprosse",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Sproß-ling",
+      "allemand_moderne": "Sprossling",
+      "francais": "rejeton",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Sprosslinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Herz",
+     "allemand_moderne": "Herz",
+     "francais": "cœur",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Herzen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Herz-ling",
+      "allemand_moderne": "Herzling",
+      "francais": "courtisan",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Herzlinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Flucht",
+     "allemand_moderne": "Flucht",
+     "francais": "fuite",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Fluchten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Flücht-ling",
+      "allemand_moderne": "Flüchtling",
+      "francais": "fugitif",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Flüchtlinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Neu",
+     "allemand_moderne": "neu",
+     "francais": "nouveau",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Neu-ling",
+      "allemand_moderne": "Neuling",
+      "francais": "novateur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Neulinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Jung",
+     "allemand_moderne": "jung",
+     "francais": "jeune",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Jüng-ling",
+      "allemand_moderne": "Jüngling",
+      "francais": "adolescent",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Jünglinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Früh",
+     "allemand_moderne": "früh",
+     "francais": "de bonne heure",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Früh-ling",
+      "allemand_moderne": "Frühling",
+      "francais": "printemps",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Frühlinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Hanf",
+     "allemand_moderne": "Hanf",
+     "francais": "chanvre",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Hanfe",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Hänf-ling",
+      "allemand_moderne": "Hänfling",
+      "francais": "linotte (qui aime le chenevis)",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Hänflinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Erst",
+     "allemand_moderne": "erst",
+     "francais": "premier",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Erst-ling",
+      "allemand_moderne": "Erstling",
+      "francais": "prémice",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Erstlinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Lieb-en",
+     "allemand_moderne": "lieben",
+     "francais": "aimer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Lieb-ling",
+      "allemand_moderne": "Liebling",
+      "francais": "favori",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Lieblinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Emporkommen",
+     "allemand_moderne": "emporkommen",
+     "francais": "parvenir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "kommt empor, kam empor, emporgekommen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Emporkömmling",
+      "allemand_moderne": "Emporkömmling",
+      "francais": "parvenu",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Emporkömmlinge",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Blind",
+     "allemand_moderne": "blind",
+     "francais": "aveugle",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "blind-lings",
+      "allemand_moderne": "blindlings",
+      "francais": "d’une manière aveugle, aveuglément",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Rück-en",
+     "allemand_moderne": "Rücken",
+     "francais": "dos",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Rücken",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "rück-lings",
+      "allemand_moderne": "rücklings",
+      "francais": "sur le dos, par derrière",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "En ajoutant un s à cet affixe, on en forme des adverbes de manière.",
+  "page_pdf": 68,
+  "remarque_brute": "En ajoutant un s à cet affixe, on en forme des adverbes de manière.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "M",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette lettre sert à former quelques substantifs d’anciens verbes.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Hel-en",
+     "allemand_moderne": "helen",
+     "francais": "couvrir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Helm",
+      "allemand_moderne": "Helm",
+      "francais": "casque",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Helme",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schel-en",
+     "allemand_moderne": "schelen",
+     "francais": "rompre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schelm",
+      "allemand_moderne": "Schelm",
+      "francais": "fripon",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Schelme",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 69,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Mal",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Ce mot, qui signifie fois, se joint à quelques adverbes et aux noms de nombre.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Ein-mal",
+     "allemand_moderne": "einmal",
+     "francais": "une fois",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "All-zu-mal",
+     "allemand_moderne": "allzumal",
+     "francais": "tous-à-la-fois",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Noch-mals",
+     "allemand_moderne": "nochmals",
+     "francais": "encore une fois, de nouveau",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Zwei-mal-ig",
+     "allemand_moderne": "zweimalig",
+     "francais": "de deux fois, réitéré",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Noch-mal-ig",
+     "allemand_moderne": "nochmalig",
+     "francais": "répété, réitéré",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "Mal, comme adverbe, prend souvent un ß ; de nouveau. En ajoutant à mal la finale ig, on en fait un adjectif.",
+  "page_pdf": 69,
+  "remarque_brute": "Mal, comme adverbe, prend souvent un ß ; ex. : Noch-mals, encore une fois, de nouveau. En ajoutant à mal la finale ig, on en fait un adjectif.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "N",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette lettre sert à la formation de quelques substantifs, adjectifs et adverbes.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Zwier",
+     "allemand_moderne": "Zwier",
+     "francais": "double",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zwirn",
+      "allemand_moderne": "Zwirn",
+      "francais": "fil, fil retors",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Zwirne",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Du",
+     "allemand_moderne": "du",
+     "francais": "toi",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Dein",
+      "allemand_moderne": "dein",
+      "francais": "ton",
+      "pos": "autre",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Vor",
+     "allemand_moderne": "vor",
+     "francais": "avant",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "vorn",
+      "allemand_moderne": "vorn",
+      "francais": "devant",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Behr-en",
+     "allemand_moderne": "behren",
+     "francais": "rompre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zorn",
+      "allemand_moderne": "Zorn",
+      "francais": "colère",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Zorne",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 69,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Niß",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette désinence sert à former des substantifs neutres et féminins dérivés des verbes.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Bild-en",
+     "allemand_moderne": "bilden",
+     "francais": "former",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Bild-niß",
+      "allemand_moderne": "Bildnis",
+      "francais": "image, portrait",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Bildnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Vermachen",
+     "allemand_moderne": "vermachen",
+     "francais": "léguer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Vermächt-niß",
+      "allemand_moderne": "Vermächtnis",
+      "francais": "legs",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Vermächtnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Begraben",
+     "allemand_moderne": "begraben",
+     "francais": "enterrer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Begräb-niß",
+      "allemand_moderne": "Begräbnis",
+      "francais": "enterrement",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Begräbnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gestehen",
+     "allemand_moderne": "gestehen",
+     "francais": "avouer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "gesteht, gestand, gestanden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Geständ-niß",
+      "allemand_moderne": "Geständnis",
+      "francais": "aveu",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Geständnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Finster",
+     "allemand_moderne": "finster",
+     "francais": "obscur",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Finster-niß",
+      "allemand_moderne": "Finsternis",
+      "francais": "obscurité, ténèbres",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Finsternisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wild",
+     "allemand_moderne": "wild",
+     "francais": "sauvage, désert",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Wild-niß",
+      "allemand_moderne": "Wildnis",
+      "francais": "désert",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Wildnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Geheim",
+     "allemand_moderne": "geheim",
+     "francais": "secret",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Geheim-niß",
+      "allemand_moderne": "Geheimnis",
+      "francais": "secret",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Geheimnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Betrübniß",
+      "allemand_moderne": "Betrübnis",
+      "francais": "affliction",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Betrübnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Bewandtniß",
+      "allemand_moderne": "Bewandtnis",
+      "francais": "cause",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Bewandtnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Erlaubniß",
+      "allemand_moderne": "Erlaubnis",
+      "francais": "permission",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Erlaubnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Ersparniß",
+      "allemand_moderne": "Ersparnis",
+      "francais": "épargne",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Ersparnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Fäulniß",
+      "allemand_moderne": "Fäulnis",
+      "francais": "pourriture",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Fäulnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Finsterniß",
+      "allemand_moderne": "Finsternis",
+      "francais": "obscurité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Finsternisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Kenntniß",
+      "allemand_moderne": "Kenntnis",
+      "francais": "connaissance, notion",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Kenntnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Verdammniß",
+      "allemand_moderne": "Verdammnis",
+      "francais": "damnation",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Verdammnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Wildniß",
+      "allemand_moderne": "Wildnis",
+      "francais": "désert",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Wildnisse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Bedrängniß",
+     "allemand_moderne": "Bedrängnis",
+     "francais": "embarras",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Bedrängnisse",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Bekümmerniß",
+     "allemand_moderne": "Bekümmernis",
+     "francais": "souci",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Bekümmernisse",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Le plus grand nombre des mots en niß sont neutres. Les suivants sont féminins : Besorgniß,",
+  "page_pdf": 69,
+  "remarque_brute": "Le plus grand nombre des mots en niß sont neutres. Les suivants sont féminins : Bedrängniß, embarras ; Bekümmerniß, souci ; Besorgniß,",
+  "groupes_remarque": 2
+ },
+ {
+  "vedette": "O",
+  "categorie": "ad.",
+  "etymologie": "",
+  "definition": "Cette lettre est ajoutée abusivement à certains adverbes dans la conversation.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Jetzo",
+     "allemand_moderne": "jetzo",
+     "francais": "au lieu de jetzt, maintenant.",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Nunmehro",
+     "allemand_moderne": "nunmehro",
+     "francais": "au lieu de nunmehr, à présent, maintenant.",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "Ces formes sont vicieuses et réprouvées par le bon goût,",
+  "page_pdf": 70,
+  "remarque_brute": "Ces formes sont vicieuses et réprouvées par le bon goût,",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Od",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette ancienne finale germanique ne se rencontre plus que dans le seul mot allemand Klein-od, n. bijou.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Klein-od",
+      "allemand_moderne": "Kleinod",
+      "francais": "bijou",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Kleinode",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 70,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "S",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette lettre sert à former des substantifs.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Grau",
+     "allemand_moderne": "grau",
+     "francais": "gris",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Greis",
+      "allemand_moderne": "Greis",
+      "francais": "vieillard",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Greise",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Krabbeln",
+     "allemand_moderne": "krabbeln",
+     "francais": "ramper",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Krebs",
+      "allemand_moderne": "Krebs",
+      "francais": "écrevisse",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Krebse",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Weichen",
+     "allemand_moderne": "weichen",
+     "francais": "amollir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "weicht, wich, gewichen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Wachs",
+      "allemand_moderne": "Wachs",
+      "francais": "cire",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Wachse",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 70,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Sal, Sel, Selig",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Trüb",
+     "allemand_moderne": "trüb",
+     "francais": "trouble",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Trüb-sal",
+      "allemand_moderne": "Trübsal",
+      "francais": "affliction",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schick-en",
+     "allemand_moderne": "schicken",
+     "francais": "envoyer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schick-sal",
+      "allemand_moderne": "Schicksal",
+      "francais": "destin",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Schicksale",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Anhäng-en",
+     "allemand_moderne": "anhängen",
+     "francais": "attacher",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "hängt an, hing an, angehangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Anhäng-sel",
+      "allemand_moderne": "Anhängsel",
+      "francais": "partie attachée, appendice",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Anhängsel",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Glück-selig",
+      "allemand_moderne": "glückselig",
+      "francais": "bienheureux (en possession du bonheur)",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Arm-selig",
+      "allemand_moderne": "armselig",
+      "francais": "très pauvre (livré à la pauvreté)",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Trüb-selig",
+      "allemand_moderne": "trübselig",
+      "francais": "mélancolique (possédé par la tristesse)",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "1. Sal. Cette finale, dérivée de l’ancien mot sal, demeure, signifie être en possession de, et sert à former des substantifs.\n\n2. La finale Sel joue le plus souvent un rôle explétif.\n\n3. Selig. Cet adjectif, dérivé de sal, marque une possession et se joint à quelques substantifs et adjectifs.",
+  "page_pdf": 70,
+  "remarque_brute": "1. Sal. Cette finale, dérivée de l’ancien mot sal, demeure, signifie être en possession de, et sert à former des substantifs, comme :\n\n2. La finale Sel joue le plus souvent un rôle explétif, comme :\n\n3. Selig. Cet adjectif, dérivé de sal, marque une possession et se joint à quelques substantifs et adjectifs, comme :",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Sam",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale signifie semblable, et répond aux mots latins quasi, similiter, et se rapproche, pour le sens, de la particule Hêß.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Arbeit",
+     "allemand_moderne": "Arbeit",
+     "francais": "travail",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Arbeiten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "arbeit-sam",
+      "allemand_moderne": "arbeitsam",
+      "francais": "laborieux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "spar-sam",
+     "allemand_moderne": "sparsam",
+     "francais": "économe",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "wach-en",
+     "allemand_moderne": "wachen",
+     "francais": "veiller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "wach-sam",
+      "allemand_moderne": "wachsam",
+      "francais": "vigilant",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "fürcht-sam",
+     "allemand_moderne": "fürchtsam",
+     "francais": "peureux",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "fürcht-sam-keit",
+      "allemand_moderne": "Fürchtsamkeit",
+      "francais": "poltronnerie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Heil",
+     "allemand_moderne": "Heil",
+     "francais": "salut",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "heil-sam",
+      "allemand_moderne": "heilsam",
+      "francais": "salutaire",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "heil-bar",
+      "allemand_moderne": "heilbar",
+      "francais": "guérissable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "heil-ig",
+      "allemand_moderne": "heilig",
+      "francais": "saint",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "fürchten",
+     "allemand_moderne": "fürchten",
+     "francais": "craindre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "fürcht-sam",
+      "allemand_moderne": "fürchtsam",
+      "francais": "craintif",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "fürcht-bar",
+      "allemand_moderne": "fürchtbar",
+      "francais": "redoutable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "fürcht-er-lich",
+      "allemand_moderne": "fürchterlich",
+      "francais": "terrible",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "empfinden",
+     "allemand_moderne": "empfinden",
+     "francais": "sentir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "empfindet, empfand, empfunden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "empfind-sam",
+      "allemand_moderne": "empfindsam",
+      "francais": "sensible, sentimental",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "empfind-lich",
+      "allemand_moderne": "empfindlich",
+      "francais": "susceptible, privé",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "ehren",
+     "allemand_moderne": "ehren",
+     "francais": "honorer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ehr-sam",
+      "allemand_moderne": "ehrsam",
+      "francais": "honorable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "ehr-bar",
+      "allemand_moderne": "ehrbar",
+      "francais": "respectable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "ehr-lich",
+      "allemand_moderne": "ehrlich",
+      "francais": "honnête, probe",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Pour former des substantifs de ces adjectifs, on y joint la finale keit.\n\nIl ne faut pas confondre les finales sam, bar, ig ou lich.",
+  "page_pdf": 70,
+  "remarque_brute": "Pour former des substantifs de ces adjectifs, on y joint la finale keit, comme : Fürcht-sam, peureux ; Fürcht-sam-keit, f. poltronnerie.\n\nIl ne faut pas confondre les finales sam, bar, ig ou lich.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Sch",
+  "categorie": "",
+  "etymologie": "isch",
+  "definition": "Cette finale, abréviation de isch, sert à former quelques substantifs et quelques adjectifs.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Mann",
+     "allemand_moderne": "Mann",
+     "francais": "homme",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Männer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Mensch",
+      "allemand_moderne": "Mensch",
+      "francais": "homme",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Menschen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Mensch-isch",
+      "allemand_moderne": "menschisch",
+      "francais": "homme",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mar",
+     "allemand_moderne": "Mar",
+     "francais": "eau",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Mar-isch",
+      "allemand_moderne": "Marisch",
+      "francais": "marais",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Marische",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 71,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Schaft",
+  "categorie": "",
+  "etymologie": "schaffen",
+  "definition": "Cette désinence, dérivée de schaffen, constituer, marque ou une idée collective, ou une idée abstraite d’état ou d’action. Tous les mots en schaft, à l’exception de das Petschaft, cachet, sont du genre neutre.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Bürger",
+     "allemand_moderne": "Bürger",
+     "francais": "un bourgeois",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Bürger",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Bürger-schaft",
+      "allemand_moderne": "Bürgerschaft",
+      "francais": "bourgeoisie",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wissen",
+     "allemand_moderne": "Wissen",
+     "francais": "savoir",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Wissen-schaft",
+      "allemand_moderne": "Wissenschaft",
+      "francais": "science",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Freund",
+     "allemand_moderne": "Freund",
+     "francais": "ami",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Freunde",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Freund-schaft",
+      "allemand_moderne": "Freundschaft",
+      "francais": "amitié",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 71,
+  "remarque_brute": "Exemples :",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Sche",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale sert à former des substantifs féminins.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Kutt-en",
+     "allemand_moderne": "kutten",
+     "francais": "courir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Kut-sche",
+      "allemand_moderne": "Kutsche",
+      "francais": "carrosse",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Kutschen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Brett",
+     "allemand_moderne": "Brett",
+     "francais": "planche",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Bretter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Brett-sche",
+      "allemand_moderne": "Brettsche",
+      "francais": "battoir, lit de corps-de-garde",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 71,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Sel, Selig",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Voir: Sal.",
+  "groupes": [],
+  "remarque": "",
+  "page_pdf": 71,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "St",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette désinence sert à former des substantifs de la racine du verbe, comme :",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Dienen",
+     "allemand_moderne": "dienen",
+     "francais": "servir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Dien-st",
+      "allemand_moderne": "Dienst",
+      "francais": "service",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Dienste",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Können",
+     "allemand_moderne": "können",
+     "francais": "pouvoir, savoir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "kann, konnte, gekonnt"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Kun-st",
+      "allemand_moderne": "Kunst",
+      "francais": "art",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Künste",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Hoch",
+     "allemand_moderne": "hoch",
+     "francais": "haut",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "höch-st",
+      "allemand_moderne": "höchst",
+      "francais": "le plus haut",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Nah",
+     "allemand_moderne": "nah",
+     "francais": "proche",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "näch-st",
+      "allemand_moderne": "nächst",
+      "francais": "le plus proche",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "höher",
+     "allemand_moderne": "höher",
+     "francais": "plus haut",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "näher",
+     "allemand_moderne": "näher",
+     "francais": "plus proche",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Les formes comparatives sont également données dans le texte.",
+  "page_pdf": 71,
+  "remarque_brute": "Les formes comparatives höher, plus haut, et näher, plus proche, sont également données dans le texte.",
+  "groupes_remarque": 2
+ },
+ {
+  "vedette": "Ster",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale se rencontre dans quelques substantifs.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Schuh",
+     "allemand_moderne": "Schuh",
+     "francais": "soulier",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Schuhe",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Schu-ster",
+      "allemand_moderne": "Schuster",
+      "francais": "cordonnier",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Schuster",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Hammen",
+     "allemand_moderne": "hammen",
+     "francais": "couper",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ham-ster",
+      "allemand_moderne": "Hamster",
+      "francais": "mulot",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Hamster",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 72,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "T",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette lettre sert à former des substantifs.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Sprang-en",
+     "allemand_moderne": "sprangen",
+     "francais": "briller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Prach-t",
+      "allemand_moderne": "Pracht",
+      "francais": "splendeur",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Prachten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mög-en",
+     "allemand_moderne": "mögen",
+     "francais": "pouvoir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "mag, mochte, gemocht"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Mach-t",
+      "allemand_moderne": "Macht",
+      "francais": "puissance",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Mächte",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Hab-en",
+     "allemand_moderne": "haben",
+     "francais": "contenir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "hat, hatte, gehabt"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Haup-t",
+      "allemand_moderne": "Haupt",
+      "francais": "tête, chef",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Häupter",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 72,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Te, Ter",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Voy. De, Der.",
+  "groupes": [],
+  "remarque": "",
+  "page_pdf": 72,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Tel",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale ajoutée aux nombres cardinaux, tient lieu de Theil, n. partie, comme :",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Vier",
+     "allemand_moderne": "vier",
+     "francais": "quatre",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Vier-tel",
+      "allemand_moderne": "Viertel",
+      "francais": "quatrième partie, quart",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Viertel",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Drei",
+     "allemand_moderne": "drei",
+     "francais": "trois",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Drit-tel",
+      "allemand_moderne": "Drittel",
+      "francais": "tiers",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Drittel",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 72,
+  "remarque_brute": ""
+ },
+ {
+  "vedette": "Thum",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Cette finale, dérivée d’un ancien mot germanique qui signifiait pouvoir, marque un état, une dignité et une collection.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Eigen",
+     "allemand_moderne": "eigen",
+     "francais": "propre",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Eigen-thum",
+      "allemand_moderne": "Eigentum",
+      "francais": "propriété",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Eigentümer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Alter",
+     "allemand_moderne": "Alter",
+     "francais": "âge",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Alter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Alter-thum",
+      "allemand_moderne": "Altertum",
+      "francais": "antiquité",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Altertümer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Heilig",
+     "allemand_moderne": "heilig",
+     "francais": "saint",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Heiligthum",
+      "allemand_moderne": "Heiligtum",
+      "francais": "sanctuaire, relique",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Heiligtümer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Christ",
+     "allemand_moderne": "Christ",
+     "francais": "chrétien",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Christen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Christen-thum",
+      "allemand_moderne": "Christentum",
+      "francais": "chrétienté",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Christentümer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fürst",
+     "allemand_moderne": "Fürst",
+     "francais": "prince",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Fürsten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Fürsten-thum",
+      "allemand_moderne": "Fürstentum",
+      "francais": "principauté",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Fürstentümer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Herzog",
+     "allemand_moderne": "Herzog",
+     "francais": "duc",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Herzöge",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Herzog-thum",
+      "allemand_moderne": "Herzogtum",
+      "francais": "duché",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Herzogtümer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kaiser",
+     "allemand_moderne": "Kaiser",
+     "francais": "empereur",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Kaiser",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Kaiser-thum",
+      "allemand_moderne": "Kaisertum",
+      "francais": "empire",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Kaisertümer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Irrthum",
+     "allemand_moderne": "Irrtum",
+     "francais": "erreur",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Irrtümer",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Reichthum",
+     "allemand_moderne": "Reichtum",
+     "francais": "richesse",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Reichtümer",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Tous les mots en thum, à l’exception de sont neutres.",
+  "page_pdf": 72,
+  "remarque_brute": "Tous les mots en thum, à l’exception de Irrthum, m. erreur, et Reichthum, m. richesse, sont neutres.",
+  "groupes_remarque": 2
+ },
+ {
+  "vedette": "Und",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Leum-und",
+     "allemand_moderne": "Leumund",
+     "francais": "renom",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Leumunde",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Jeg-und",
+     "allemand_moderne": "Jegund",
+     "francais": "à présent",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Leumde",
+     "allemand_moderne": "Leumde",
+     "francais": "renom",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Leumde",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "Leum-ut",
+     "allemand_moderne": "Leumut",
+     "francais": "renom",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Leumute",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   },
+   {
+    "base": {
+     "allemand_1855": "jezt",
+     "allemand_moderne": "jetzt",
+     "francais": "à présent",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Cette finale a vieilli et ne se trouve plus que dans les formes corrompues de et de , pour.",
+  "page_pdf": 73,
+  "remarque_brute": "Cette finale a vieilli et ne se trouve plus que dans les formes corrompues de Leum-und, m. pour Leumde et Leum-ut, f. renom; et de Jeg-und, pour jezt, à présent.",
+  "groupes_remarque": 3
+ },
+ {
+  "vedette": "Ung",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Hoff-en",
+     "allemand_moderne": "hoffen",
+     "francais": "espérer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Hoff-nung",
+      "allemand_moderne": "Hoffnung",
+      "francais": "action d’espérer",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Hoffnungen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Hoff-nung",
+      "allemand_moderne": "Hoffnung",
+      "francais": "espérance",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Hoffnungen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Er-find-en",
+     "allemand_moderne": "erfinden",
+     "francais": "inventer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Er-find-en",
+      "allemand_moderne": "Erfinden",
+      "francais": "action d’inventer, invention en général",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Erfindungen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Er-find-ung",
+      "allemand_moderne": "Erfindung",
+      "francais": "invention (appliquée à un objet spécial)",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Erfindungen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ver-acht-en",
+     "allemand_moderne": "verachten",
+     "francais": "mépriser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ver-acht-ung",
+      "allemand_moderne": "Verachtung",
+      "francais": "mépris",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Verachtungen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Holz",
+     "allemand_moderne": "Holz",
+     "francais": "bois (à brûler)",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Hölzer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Holz-ung",
+      "allemand_moderne": "Holzung",
+      "francais": "terrain boisé",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Holzungen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fest",
+     "allemand_moderne": "fest",
+     "francais": "fortifié",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Fest-ung",
+      "allemand_moderne": "Festung",
+      "francais": "forteresse",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Festungen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "vor-seh-en",
+     "allemand_moderne": "vorsehen",
+     "francais": "prévoir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "sieht … vor, sah … vor, vorgesehen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Vorseh-ung",
+      "allemand_moderne": "Vorsehung",
+      "francais": "providence",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Vorsehungen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Springen",
+     "allemand_moderne": "springen",
+     "francais": "sauter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "springt, sprang, gesprungen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "Sprung",
+      "allemand_moderne": "Sprung",
+      "francais": "saut",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Sprünge",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Ur-sprung",
+      "allemand_moderne": "Ursprung",
+      "francais": "origine",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Ursprünge",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Les substantifs en ung dérivent presque toujours des verbes, et expriment l’état ou l’action que le verbe indique. Ils se rapprochent beaucoup pour le sens des infinitifs dont ils sont formés, si ce n’est que l’infinitif exprime l’action en général, tandis que la finale ung donne au substantif un sens plus restreint. Il n’est que peu de substantifs en ung qui se forment d’un autre substantif ou d’un autre adjectif. Ils ont tous une signification collective. On ne peut pas former ces substantifs féminins de tous les verbes simples, mais bien des verbes composés. Quelques substantifs masculins se forment directement du mot radical par le changement de la voyelle.",
+  "page_pdf": 73,
+  "remarque_brute": "Les substantifs en ung dérivent presque toujours des verbes, et expriment l’état ou l’action que le verbe indique. Ils se rapprochent beaucoup pour le sens des infinitifs dont ils sont formés, si ce n’est que l’infinitif exprime l’action en général, tandis que la finale ung donne au substantif un sens plus restreint. Il n’est que peu de substantifs en ung qui se forment d’un autre substantif ou d’un autre adjectif. Ils ont tous une signification collective. On ne peut pas former ces substantifs féminins de tous les verbes simples, mais bien des verbes composés, comme vor-seh-en, prévoir; Vorseh-ung, providence. Quelques substantifs masculins se forment directement du mot radical par le changement de la voyelle, comme : Springen, sauter; Sprung, saut, Ur-sprung, m. origine.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Uth",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Arm",
+     "allemand_moderne": "arm",
+     "francais": "pauvre",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Arm-uth",
+      "allemand_moderne": "Armut",
+      "francais": "pauvreté",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Cette désinence peu usitée aujourd’hui sert encore à former quelques substantifs.",
+  "page_pdf": 73,
+  "remarque_brute": "Cette désinence peu usitée aujourd’hui sert encore à former quelques substantifs, comme : Arm, pauvre; Arm-uth, f. pauvreté.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Wan, Wen",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "hau-wen",
+     "allemand_moderne": "hauen",
+     "francais": "battre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "haut, hieb, gehauen"
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "Ces désinences des infinitifs, remplacées depuis dans quelques dialectes par an, ne s’emploient plus. On n’admet aujourd’hui que la finale en.",
+  "page_pdf": 73,
+  "remarque_brute": "Ces désinences des infinitifs, remplacées depuis dans quelques dialectes par an, ne s’emploient plus. On n’admet aujourd’hui que la finale en; c’est ainsi qu’on dit pour hau-wen, battre, hauen.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Wärts",
+  "categorie": "ad.",
+  "etymologie": "A. warth, Go. wairths, L. versus. I. vdrášť",
+  "definition": "vers",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Himmel",
+     "allemand_moderne": "Himmel",
+     "francais": "ciel",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Himmel",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "himmel-wärts",
+      "allemand_moderne": "himmelwärts",
+      "francais": "vers le ciel",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Seit-e",
+     "allemand_moderne": "Seite",
+     "francais": "côté",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Seiten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "seit-wärts",
+      "allemand_moderne": "seitwärts",
+      "francais": "vers le côté, de côté",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Süd-en",
+     "allemand_moderne": "Süden",
+     "francais": "sud, midi",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "süd-wärts",
+      "allemand_moderne": "südwärts",
+      "francais": "vers le midi",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Vor",
+     "allemand_moderne": "vor",
+     "francais": "avant",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "vor-wärts",
+      "allemand_moderne": "vorwärts",
+      "francais": "en avant",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot qui marque une direction, se joint à des substantifs, à des prépositions et à des adverbes.",
+  "page_pdf": 74,
+  "remarque_brute": "Ce mot qui marque une direction, se joint à des substantifs, à des prépositions et à des adverbes.",
+  "groupes_remarque": 0
+ },
+ {
+  "vedette": "Z, Ze",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Herz",
+     "allemand_moderne": "Herz",
+     "francais": "cœur",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Herzen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "jetzt",
+      "allemand_moderne": "jetzt",
+      "francais": "",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "est-te",
+      "allemand_moderne": "estte",
+      "francais": "",
+      "pos": "autre",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "het-ze",
+      "allemand_moderne": "Hetze",
+      "francais": "hêvre",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Hetzen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ze",
+     "allemand_moderne": "Ze",
+     "francais": "ancienne forme",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [],
+    "origine": "remarque"
+   }
+  ],
+  "remarque": "Cette lettre est une contraction de l’ancien tz.",
+  "page_pdf": 74,
+  "remarque_brute": "Cette lettre est une contraction de l’ancien tz. Ze, ancienne forme de te ou fe.",
+  "groupes_remarque": 1
+ },
+ {
+  "vedette": "Zig",
+  "categorie": "",
+  "etymologie": "A. ty. Go. tigus, pour zehn, dix",
+  "definition": "Cette finale entre dans la composition des noms de nombre",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Vier",
+     "allemand_moderne": "vier",
+     "francais": "quatre",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "vier-zig",
+      "allemand_moderne": "vierzig",
+      "francais": "quarante",
+      "pos": "autre",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zwei",
+     "allemand_moderne": "zwei",
+     "francais": "deux",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zwanzig",
+      "allemand_moderne": "zwanzig",
+      "francais": "vingt",
+      "pos": "autre",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 74,
+  "remarque_brute": ""
+ }
+]
