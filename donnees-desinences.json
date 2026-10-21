@@ -1,6 +1,6 @@
 [
  {
-  "vedette": "At, Ath",
+  "vedette": "-at, -ath",
   "categorie": "",
   "etymologie": "",
   "definition": "Ces désinences servent à former des substantifs ou d’un verbe, ou d’un autre substantif, et répondent à la finale ade des Français, comme promenade.",
@@ -52,10 +52,12 @@
   ],
   "remarque": "",
   "page_pdf": 57,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e0",
+  "vedette_brute": "At, Ath"
  },
  {
-  "vedette": "Bar",
+  "vedette": "-bar",
   "categorie": "",
   "etymologie": "",
   "definition": "Dérivé de l’ancien mot bären pour les adjectifs formés des substantifs.",
@@ -369,10 +371,12 @@
   "remarque": "Quant aux adjectifs terminés en bar, et formés des verbes, il faut en chercher la racine dans bären, faire, exercer, ce qui donne à l’adjectif la signification d’une chose faisable ou possible. Bar répond aussi, par le son et la signification, au par des Latins, et marque aptitude et ressemblance. Quelquefois bar et lich sont employés l’un pour l’autre ; mais il y a des mots dont la signification varie, selon qu’ils se terminent en bar ou en lich.\nLes adjectifs formés au moyen de bar forment, à leur tour, des substantifs par l’addition de keit.",
   "page_pdf": 57,
   "remarque_brute": "Quant aux adjectifs terminés en bar, et formés des verbes, il faut en chercher la racine dans bären, faire, exercer, ce qui donne à l’adjectif la signification d’une chose faisable ou possible. Bar répond aussi, par le son et la signification, au par des Latins, et marque aptitude et ressemblance. Quelquefois bar et lich sont employés l’un pour l’autre ; mais il y a des mots dont la signification varie, selon qu’ils se terminent en bar ou en lich.\nLes adjectifs formés au moyen de bar forment, à leur tour, des substantifs par l’addition de keit, ex. : Frucht-bar, fertile, Frucht-bar-keit, f. fertilité.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e1",
+  "vedette_brute": "Bar"
  },
  {
-  "vedette": "Chen, Lein",
+  "vedette": "-chen, -lein",
   "categorie": "",
   "etymologie": "",
   "definition": "Ces finales servent à former des diminutifs qui sont tous du genre neutre, adoucissent la voyelle radicale, et s’emploient souvent comme termes d’affection.",
@@ -475,10 +479,12 @@
   "remarque": "Chen désigne, en gothique, un enfant, et lein est une abréviation de klein, petit. On se sert surtout de la finale lein pour les noms qui se terminent en g ou en ch. Lorsqu’un nom se termine en l, on en fait un diminutif en se servant de la syllabe chen. On joint cette finale aux prénoms des enfants.",
   "page_pdf": 58,
   "remarque_brute": "Chen désigne, en gothique, un enfant, et lein est une abréviation de klein, petit. On se sert surtout de la finale lein pour les noms qui se terminent en g ou en ch, comme : Lorsqu’un nom se termine en l, on en fait un diminutif en se servant de la syllabe chen, comme : On joint cette finale aux prénoms des enfants, comme :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e2",
+  "vedette_brute": "Chen, Lein"
  },
  {
-  "vedette": "D",
+  "vedette": "-d",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale, marque du participe présent, sert aussi à former des substantifs.",
@@ -552,10 +558,12 @@
   ],
   "remarque": "",
   "page_pdf": 58,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e3",
+  "vedette_brute": "D"
  },
  {
-  "vedette": "De, Te",
+  "vedette": "-de, -te",
   "categorie": "",
   "etymologie": "",
   "definition": "Ces désinences sont affectées à quelques substantifs formés de verbes ou d’adjectifs.",
@@ -652,10 +660,12 @@
   "remarque": "La finale te est donnée au nom de nombre ordinal (jusqu’au vingtième) précédé de l’article défini.",
   "page_pdf": 58,
   "remarque_brute": "La finale te est donnée au nom de nombre ordinal (jusqu’au vingtième) précédé de l’article défini.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e4",
+  "vedette_brute": "De, Te"
  },
  {
-  "vedette": "Der, Ter",
+  "vedette": "-der, -ter",
   "categorie": "",
   "etymologie": "",
   "definition": "Ces finales servent à former des substantifs.",
@@ -721,10 +731,12 @@
   "remarque": "Un suffixe ter est ajouté, jusqu’à vingt, au nombre ordinal précédé de l’article indéfini.",
   "page_pdf": 58,
   "remarque_brute": "Un suffixe ter est ajouté, jusqu’à vingt, au nombre ordinal précédé de l’article indéfini, comme : ein zwanzigter, un second.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e5",
+  "vedette_brute": "Der, Ter"
  },
  {
-  "vedette": "E",
+  "vedette": "-e",
   "categorie": "suf.",
   "etymologie": "",
   "definition": "Cette désinence sert ordinairement à désigner des objets du genre féminin.",
@@ -1193,10 +1205,12 @@
   "remarque": "De ce nombre sont surtout les fleurs, les fruits, les arbres. les femelles d’animaux dont les noms diffèrent des mâles ; la plupart des oiseaux, des poissons et des insectes, mais dont les noms désignent en même temps les deux genres.\n\nOn forme de la racine des verbes, soit du présent, soit de l’imparfait, à l’aide de l’e final, différents substantifs.\n\nLes substantifs formés d’adjectifs adoucissent la voyelle radicale.\n\nQuelques substantifs masculins prennent l’e final par euphonie. On le trouve surtout dans les noms de peuples qui correspondent souvent à des noms de pays terminés en.\n\nDans le mot der Deutsche, l’e final est une désinence commune à tous les adjectifs précédés de l’article défini, qu’ils soient substantivés ou non.",
   "page_pdf": 59,
   "remarque_brute": "De ce nombre sont surtout les fleurs, les fruits, les arbres, comme : Nelke, œillet; Rose, rose; Lilie, lis; Birne, poire; Kirsche, cerise; Eiche, chêne; Linde, tilleul; les femelles d’animaux dont les noms diffèrent des mâles, comme : Henne, poule; Stute, jument; la plupart des oiseaux, des poissons et des insectes, mais dont les noms désignent en même temps les deux genres, comme : Fliege, mouche; Forelle, truite; Lerche, alouette; Ratte, rat; Schlange, serpent; Schnecke, limace.\n\nOn forme de la racine des verbes, soit du présent, soit de l’imparfait, à l’aide de l’e final, différents substantifs.\n\nLes substantifs formés d’adjectifs adoucissent la voyelle radicale.\n\nQuelques substantifs masculins prennent l’e final par euphonie. On le trouve surtout dans les noms de peuples qui correspondent souvent à des noms de pays terminés en.\n\nDans le mot der Deutsche, l’e final est une désinence commune à tous les adjectifs précédés de l’article défini, qu’ils soient substantivés ou non.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e6",
+  "vedette_brute": "E"
  },
  {
-  "vedette": "Ei",
+  "vedette": "-ei",
   "categorie": "suf.",
   "etymologie": "",
   "definition": "Cet affixe, qui ne s’ajoute qu’à des substantifs du genre féminin, offre presque toujours une idée collective, et ajoute souvent une idée de mépris à l’idée exprimée par le mot primitif.",
@@ -1490,10 +1504,12 @@
   "remarque": "La plupart des noms féminins en ei sont formés des masculins en er, et\nPour former des mots en ei des substantifs terminés en er, on a recours au verbe radical, dont on supprime l’n final. Il en est de même des verbes en eln, comme : . Pour certains mots, on intercale la finale er.\n\nPlusieurs noms étrangers en ia et ie prennent la désinence ei ou conservent ie.\n\nCertains noms de pays se forment aussi à l’aide de la désinence ei.",
   "page_pdf": 59,
   "remarque_brute": "La plupart des noms féminins en ei sont formés des masculins en er, et\nPour former des mots en ei des substantifs terminés en er, on a recours au verbe radical, dont on supprime l’n final. Ex. : plaudern, bavarder ; Plauderer, bavard ; Plauderei, bavardage. Il en est de même des verbes en eln, comme : schmeicheln, flatter ; Schmeichler, flatteur ; Schmeichl-er-ei, flatterie. Pour certains mots, on intercale la finale er, comme : Schelm, fripon, Schelm-er-ei, friponnerie.\n\nPlusieurs noms étrangers en ia et ie prennent la désinence ei ou conservent ie. Ex. : Tyrannei, tyrannie ; Melodie, mélodie.\n\nCertains noms de pays se forment aussi à l’aide de la désinence ei, comme : Lombardei, Lombardie ; Türkei, Turquie ; Wallachei, Valachie.",
-  "groupes_remarque": 8
+  "groupes_remarque": 8,
+  "id": "e7",
+  "vedette_brute": "Ei"
  },
  {
-  "vedette": "El",
+  "vedette": "-el",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette désinence désigne presque toujours un instrument, surtout quand le substantif est formé d’un verbe, et sert à marquer un diminutif quand il est formé d’un autre substantif.",
@@ -1673,10 +1689,12 @@
   "remarque": "Les substantifs en el sont, en grande partie, masculins.\n\nIl n’y a que peu d’adjectifs terminés en el.",
   "page_pdf": 60,
   "remarque_brute": "Les substantifs en el sont, en grande partie, masculins.\n\nIl n’y a que peu d’adjectifs terminés en el, comme : edel, noble ; dunkel, obscur ; übel, méchant.",
-  "groupes_remarque": 3
+  "groupes_remarque": 3,
+  "id": "e8",
+  "vedette_brute": "El"
  },
  {
-  "vedette": "Eln",
+  "vedette": "-eln",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette terminaison verbale marque une diminution à laquelle se joint quelquefois l’idée du mépris",
@@ -1729,10 +1747,12 @@
   "remarque": "Les verbes en eln dérivés de substantifs en el, qui indiquent l’action de",
   "page_pdf": 60,
   "remarque_brute": "Les verbes en eln dérivés de substantifs en el, qui indiquent l’action de",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e9",
+  "vedette_brute": "Eln"
  },
  {
-  "vedette": "En",
+  "vedette": "-en",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette désinence, affectée à l’infinitif, sert aussi à former un certain nombre de substantifs collectifs qui sont presque tous du genre neutre.",
@@ -2002,10 +2022,12 @@
   "remarque": "Certains adverbes sont formés par l’addition de la finale en. On forme un adjectif d’un substantif qui désigne une matière, une étoffe, et qui se termine en e, en y ajoutant la lettre n ; si le substantif est terminé en r, on n’y ajoute qu’un n. Certains adjectifs se forment en ajoutant en ou ern. Ceux qui ajoutent ern adoucissent la voyelle radicale.",
   "page_pdf": 61,
   "remarque_brute": "Certains adverbes sont formés par l’addition de la finale en. On forme un adjectif d’un substantif qui désigne une matière, une étoffe, et qui se termine en e, en y ajoutant la lettre n ; si le substantif est terminé en r, on n’y ajoute qu’un n. Certains adjectifs se forment en ajoutant en ou ern. Ceux qui ajoutent ern adoucissent la voyelle radicale.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e10",
+  "vedette_brute": "En"
  },
  {
-  "vedette": "End",
+  "vedette": "-end",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale remplace les anciennes désinences en et uth.",
@@ -2071,10 +2093,12 @@
   "remarque": "",
   "page_pdf": 61,
   "remarque_brute": "Exemples : Tugend, f. (pour Tuged, de tugn, taugen, valoir), vertu ; Jugend, f. (Juguth, de jung, jeune), jeunesse.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e11",
+  "vedette_brute": "End"
  },
  {
-  "vedette": "Er",
+  "vedette": "-er",
   "categorie": "pr.",
   "etymologie": "",
   "definition": "Pronom personnel masculin ; comme désinence du substantif, remplace le mot Mann, homme. La plupart des substantifs qui ont cette finale sont du genre masculin.",
@@ -2394,10 +2418,12 @@
   "remarque": "Er, pronom personnel masculin, remplace, comme désinence du substantif, le mot , ce qui fait que la plupart des substantifs qui ont cette finale sont du genre masculin ; , comme habitants d’un pays, d’une ville ; homme façonnant une matière. La plupart des substantifs en er sont formés des verbes. Plusieurs de ces substantifs ne sont usités que dans des mots composés. Tels sont les substantifs dérivée des verbes , , comme : . On forme avec cette finale aussi plusieurs substantifs qui ne s’attachent pas à l’idée de l’homme, comme : ; , ; , .",
   "page_pdf": 61,
   "remarque_brute": "Er, pronom personnel masculin, remplace, comme désinence du substantif, le mot Mann, homme, ce qui fait que la plupart des substantifs qui ont cette finale sont du genre masculin ; homme, comme habitants d’un pays, d’une ville ; homme façonnant une matière. La plupart des substantifs en er sont formés des verbes. Plusieurs de ces substantifs ne sont usités que dans des mots composés. Tels sont les substan-\ntifs dérivée des verbes machen, faire ; bitten, prier, comme : Uhrmacher (faiseur de montres), horloger. On forme avec cette finale aussi plusieurs substantifs qui ne s’attachent pas à l’idée de l’homme, comme : Leuchten, éclairer ; Leuchter, flambeau, chandelier ; Zahl, n. numérotée, Zähler, m. écon.",
-  "groupes_remarque": 2
+  "groupes_remarque": 2,
+  "id": "e12",
+  "vedette_brute": "Er"
  },
  {
-  "vedette": "Ern",
+  "vedette": "-ern",
   "categorie": "suf.",
   "etymologie": "",
   "definition": "comme finale des verbes, renferme presque toujours une idée fréquentative, une occupation",
@@ -2442,10 +2468,12 @@
   "remarque": "Quant aux adjectifs terminés en ern, voyez Ern.",
   "page_pdf": 62,
   "remarque_brute": "Quant aux adjectifs terminés en ern, voyez Ern.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e13",
+  "vedette_brute": "Ern"
  },
  {
-  "vedette": "Fach",
+  "vedette": "-fach",
   "categorie": "suf.",
   "etymologie": "",
   "definition": "cette finale, formée du substantif de ce nom, qui signifie compartiment, fois, se joint aux noms de nombre",
@@ -2481,10 +2509,12 @@
   ],
   "remarque": "",
   "page_pdf": 62,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e14",
+  "vedette_brute": "Fach"
  },
  {
-  "vedette": "Ft",
+  "vedette": "-ft",
   "categorie": "suf.",
   "etymologie": "",
   "definition": "l’f de cette finale ne joue qu’un rôle euphonique dans des mots où l’m qui le précédait anciennement a été changé depuis en n",
@@ -2537,10 +2567,12 @@
   "remarque": "",
   "page_pdf": 62,
   "remarque_brute": "An-kunft, f. pour An-kumft, arrivée (de an-kommen, arriver). Ver-nunft, f. pour Ver-munft, intelligence (de ver-nehmen, entendre).",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e15",
+  "vedette_brute": "Ft"
  },
  {
-  "vedette": "G",
+  "vedette": "-g",
   "categorie": "suf.",
   "etymologie": "",
   "definition": "cette lettre sert à former des substantifs des verbes",
@@ -2592,10 +2624,12 @@
   ],
   "remarque": "",
   "page_pdf": 62,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e16",
+  "vedette_brute": "G"
  },
  {
-  "vedette": "Haft, Haftig",
+  "vedette": "-haft, -haftig",
   "categorie": "suf.",
   "etymologie": "",
   "definition": "cette finale sert à former des adjectifs. Dérivée de haben, avoir, elle signifie attaché et peut se traduire par ayant, et quelquefois par enclin",
@@ -2723,10 +2757,12 @@
   "remarque": "Souvent on ajoute encore ig à la finale haft des adjectifs, servant lorsqu’on veut en former des substantifs.",
   "page_pdf": 62,
   "remarque_brute": "Souvent on ajoute encore ig à la finale haft des adjectifs, servant lorsqu’on veut en former des substantifs, comme :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e17",
+  "vedette_brute": "Haft, Haftig"
  },
  {
-  "vedette": "Halb",
+  "vedette": "-halb",
   "categorie": "",
   "etymologie": "ancien substantif Halb, partie",
   "definition": "Ce mot, dérivé d’un ancien substantif Halb, partie, prend, comme finale, la signification de lieu.",
@@ -2804,10 +2840,12 @@
   ],
   "remarque": "",
   "page_pdf": 63,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e18",
+  "vedette_brute": "Halb"
  },
  {
-  "vedette": "Hand",
+  "vedette": "-hand",
   "categorie": "",
   "etymologie": "",
   "definition": "Joint au mot all, tout, cet affixe semble une corruption de l’ancien Kind, espèce, mot conservé par les Anglais (kind).",
@@ -2829,10 +2867,12 @@
   ],
   "remarque": "",
   "page_pdf": 63,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e19",
+  "vedette_brute": "Hand"
  },
  {
-  "vedette": "Heit",
+  "vedette": "-heit",
   "categorie": "",
   "etymologie": "",
   "definition": "Cet affixe, qui signifie état, manière, forme des substantifs féminins dérivés des adjectifs, et marque la qualité et l’état de la personne ou de la chose dont on parle.",
@@ -3105,10 +3145,12 @@
   "remarque": "Il n’y a que peu de noms terminés en heit qui se forment d’autres substantifs.\n\nQuant aux substantifs en heit, on ne peut pas en former des adjectifs en isch, ni en icht, il en est de même des adjectifs en er, lorsqu’ils",
   "page_pdf": 63,
   "remarque_brute": "Il n’y a que peu de noms terminés en heit qui se forment d’autres substantifs, comme :\n\nQuant aux substantifs en heit, on ne peut pas en former des adjectifs en isch, ni en icht, il en est de même des adjectifs en er, lorsqu’ils",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e20",
+  "vedette_brute": "Heit"
  },
  {
-  "vedette": "Keit",
+  "vedette": "-keit",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -3447,10 +3489,12 @@
   "remarque": "dérivent des substantifs.\n\nCette finale, modification de heit, se joint aux substantifs formés d’adjectifs en bar, el, er, ig, lich, sam.\n\nPlusieurs autres adjectifs, surtout les monosyllabes, et ceux terminés en haft, forment leurs substantifs avec keit, et intercalent, par euphonie, la syllabe ig.",
   "page_pdf": 63,
   "remarque_brute": "dérivent des substantifs, comme : *golden*, d’or (das Gold, l’or) ; mais certains participes passés en *en* ajoutent cette désinence, comme : *vergessen*, oublié, *Vergessen-heit*, f. oubli.\n\nCette finale, modification de *heit*, se joint aux substantifs formés d’adjectifs en *bar, el, er, ig, lich, sam*.\n\nPlusieurs autres adjectifs, surtout les monosyllabes, et ceux terminés en *haft*, forment leurs substantifs avec *keit*, et intercalent, par euphonie, la syllabe *ig*.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e21",
+  "vedette_brute": "Keit"
  },
  {
-  "vedette": "Hin",
+  "vedette": "-hin",
   "categorie": "ad.",
   "etymologie": "",
   "definition": "Cet adverbe, qui sert aussi de préfixe, se joint à quelques adverbes comme finale explicative.",
@@ -3500,10 +3544,12 @@
   ],
   "remarque": "",
   "page_pdf": 64,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e22",
+  "vedette_brute": "Hin"
  },
  {
-  "vedette": "Ich",
+  "vedette": "-ich",
   "categorie": "",
   "etymologie": "",
   "definition": "Les substantifs en *ich* sont tous du genre masculin.",
@@ -3567,10 +3613,12 @@
   "remarque": "Certains substantifs, qui marquent abondance, plénitude, joignent un t à la finale ich.",
   "page_pdf": 64,
   "remarque_brute": "Certains substantifs, qui marquent abondance, plénitude, joignent un *t* à la finale *ich*, comme : *Dickicht*, n. épaisseur d’un bois.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e23",
+  "vedette_brute": "Ich"
  },
  {
-  "vedette": "Icht",
+  "vedette": "-icht",
   "categorie": "",
   "etymologie": "",
   "definition": "*Icht*, comme terminaison d’adjectif, indique une ressemblance avec l’objet exprimé par le mot auquel on ajoute cette désinence.",
@@ -3622,10 +3670,12 @@
   ],
   "remarque": "",
   "page_pdf": 64,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e24",
+  "vedette_brute": "Icht"
  },
  {
-  "vedette": "Ig",
+  "vedette": "-ig",
   "categorie": "suffixe",
   "etymologie": "Igen",
   "definition": "Cette finale, dérivée de eigen, propre, répond aux terminaisons grecques ικός, αικός, et à celles des Latins en icus, ix, ax.",
@@ -3935,10 +3985,12 @@
   "remarque": "De ces adjectifs en ig se forment : 1° plusieurs substantifs, par l’addition de la syllabe keit ; 2° des verbes qui intercalent ig entre la racine et la finale en.\n\nIl faut bien distinguer ig de lich, qui change le sens du mot primitif.\n\nLes exemples suivants peuvent faire connaître la différence qui existe entre les adjectifs terminés en ig, icht, en, ern.",
   "page_pdf": 65,
   "remarque_brute": "De ces adjectifs en ig se forment : 1° plusieurs substantifs, par l’addition de la syllabe keit, comme : ewig, éternel, Ewig-keit, f. éternité ; 2° des verbes qui intercalent ig entre la racine et la finale en, comme :\n\nIl faut bien distinguer ig de lich, qui change le sens du mot primitif comme :\n\nLes exemples suivants peuvent faire connaître la différence qui existe entre les adjectifs terminés en ig, icht, en, ern.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e25",
+  "vedette_brute": "Ig"
  },
  {
-  "vedette": "In",
+  "vedette": "-in",
   "categorie": "suffixe",
   "etymologie": "",
   "definition": "Cette finale, ajoutée à un nom appellatif masculin, en fait un féminin, comme :",
@@ -4184,10 +4236,12 @@
   "remarque": "In ou Inn.\n\nLes substantifs terminés en er rejettent la finale er pour former le féminin ; ex. :\n\nQuelques-uns de ces substantifs changent leurs voyelles radicales a, o, u en ä, ö, ü, comme :\nIl y a des substantifs féminins qui ne se forment pas de leurs masculins, présentent un mot particulier avec une désinence différente, tels que :",
   "page_pdf": 65,
   "remarque_brute": "In ou Inn.\n\nLes substantifs terminés en er rejettent la finale er pour former le féminin ; ex. :\n\nQuelques-uns de ces substantifs changent leurs voyelles radicales a, o, u en ä, ö, ü, comme :\nIl y a des substantifs féminins qui ne se forment pas de leurs masculins, présentent un mot particulier avec une désinence différente, tels que : Mutter, f. mère ; Base, f. cousine ; Stute, f. jument.",
-  "groupes_remarque": 3
+  "groupes_remarque": 3,
+  "id": "e26",
+  "vedette_brute": "In"
  },
  {
-  "vedette": "Ing",
+  "vedette": "-ing",
   "categorie": "",
   "etymologie": "Cet affixe semble dérivé du mot celtique engi, naître",
   "definition": "Donne au mot auquel il est ajouté la signification d’origine.",
@@ -4271,10 +4325,12 @@
   "remarque": "Dans les noms de pays et de villes, cette finale signifie terre. On contracte quelquefois la finale ing en ig.",
   "page_pdf": 66,
   "remarque_brute": "Dans les noms de pays et de villes, cette finale signifie terre. On contracte quelquefois la finale ing en ig.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e27",
+  "vedette_brute": "Ing"
  },
  {
-  "vedette": "Iren, Ieren",
+  "vedette": "-iren, -ieren",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale est affectée aux infinitifs des verbes dérivés des langues étrangères.",
@@ -4311,10 +4367,12 @@
   "remarque": "",
   "page_pdf": 66,
   "remarque_brute": "Stud-iren (L. studeo), étudier. Spaz-ieren (L. spatior), se promener.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e28",
+  "vedette_brute": "Iren, Ieren"
  },
  {
-  "vedette": "Isch",
+  "vedette": "-isch",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale sert à former des adjectifs des noms propres d’hommes, de pays et autres, dont elle marque la nature et la qualité.",
@@ -4670,10 +4728,12 @@
   "remarque": "En parlant des produits d’un pays ou d’une ville, on emploie souvent la finale er au lieu de la finale isch.\nLa désinence lich ajoute aussi quelquefois une idée de mépris au mot primitif, et ne doit pas être confondue avec l’affixe ig ou lich, qui n’indique qu’une manière d’être ou une ressemblance (voy. Lich); et. :",
   "page_pdf": 66,
   "remarque_brute": "En parlant des produits d’un pays ou d’une ville, on emploie souvent la finale er au lieu de la finale isch.\nLa désinence lich ajoute aussi quelquefois une idée de mépris au mot primitif, et ne doit pas être confondue avec l’affixe ig ou lich, qui n’indique qu’une manière d’être ou une ressemblance (voy. Lich); et. :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e29",
+  "vedette_brute": "Isch"
  },
  {
-  "vedette": "Ist",
+  "vedette": "-ist",
   "categorie": "",
   "etymologie": "",
   "definition": "Cet affixe se joint à quelques mots étrangers et sert aussi à désigner la personne qui joue d’un instrument.",
@@ -4737,10 +4797,12 @@
   ],
   "remarque": "",
   "page_pdf": 67,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e30",
+  "vedette_brute": "Ist"
  },
  {
-  "vedette": "K",
+  "vedette": "-k",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette lettre sert à former quelques substantifs de la racine des verbes.",
@@ -4793,20 +4855,24 @@
   "remarque": "R.",
   "page_pdf": 67,
   "remarque_brute": "R.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e31",
+  "vedette_brute": "K"
  },
  {
-  "vedette": "Keit",
+  "vedette": "-keit",
   "categorie": "",
   "etymologie": "",
   "definition": "Voy. Heit.",
   "groupes": [],
   "remarque": "",
   "page_pdf": 67,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e32",
+  "vedette_brute": "Keit"
  },
  {
-  "vedette": "Lei",
+  "vedette": "-lei",
   "categorie": "",
   "etymologie": "ancien mot leî, couleur",
   "definition": "Cet affixe signifie aujourd’hui espèce, et se joint surtout aux noms de nombre et aux pronoms indéfinis.",
@@ -4880,20 +4946,24 @@
   ],
   "remarque": "",
   "page_pdf": 67,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e33",
+  "vedette_brute": "Lei"
  },
  {
-  "vedette": "Lein",
+  "vedette": "-lein",
   "categorie": "",
   "etymologie": "",
   "definition": "Voy. Schein.",
   "groupes": [],
   "remarque": "",
   "page_pdf": 67,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e34",
+  "vedette_brute": "Lein"
  },
  {
-  "vedette": "Lich",
+  "vedette": "-lich",
   "categorie": "",
   "etymologie": "gothique leiks, anglais like",
   "definition": "Ce mot signifie semblable lorsqu’il est ajouté à un substantif.",
@@ -5150,10 +5220,12 @@
   "remarque": "Exemples :\nLes substantifs formés de ces adjectifs prennent tous la finale keit. Il est à remarquer qu’un grand nombre de ces adjectifs ne sont usités qu’avec la particule négative un.",
   "page_pdf": 67,
   "remarque_brute": "Exemples :\nLes substantifs formés de ces adjectifs prennent tous la finale keit. Il est à remarquer qu’un grand nombre de ces adjectifs ne sont usités qu’avec la particule négative un.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e35",
+  "vedette_brute": "Lich"
  },
  {
-  "vedette": "Ling",
+  "vedette": "-ling",
   "categorie": "suff. subst.",
   "etymologie": "langen, appartenir",
   "definition": "Cet affixe marque dérivation, parenté, et sert à former des substantifs masculins, dont quelques-uns s’emploient comme diminutifs et se prennent en mauvaise part.",
@@ -5426,10 +5498,12 @@
   "remarque": "En ajoutant un s à cet affixe, on en forme des adverbes de manière.",
   "page_pdf": 68,
   "remarque_brute": "En ajoutant un s à cet affixe, on en forme des adverbes de manière.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e36",
+  "vedette_brute": "Ling"
  },
  {
-  "vedette": "M",
+  "vedette": "-m",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette lettre sert à former quelques substantifs d’anciens verbes.",
@@ -5481,10 +5555,12 @@
   ],
   "remarque": "",
   "page_pdf": 69,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e37",
+  "vedette_brute": "M"
  },
  {
-  "vedette": "Mal",
+  "vedette": "-mal",
   "categorie": "",
   "etymologie": "",
   "definition": "Ce mot, qui signifie fois, se joint à quelques adverbes et aux noms de nombre.",
@@ -5553,10 +5629,12 @@
   "remarque": "Mal, comme adverbe, prend souvent un ß ; de nouveau. En ajoutant à mal la finale ig, on en fait un adjectif.",
   "page_pdf": 69,
   "remarque_brute": "Mal, comme adverbe, prend souvent un ß ; ex. : Noch-mals, encore une fois, de nouveau. En ajoutant à mal la finale ig, on en fait un adjectif.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e38",
+  "vedette_brute": "Mal"
  },
  {
-  "vedette": "N",
+  "vedette": "-n",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette lettre sert à la formation de quelques substantifs, adjectifs et adverbes.",
@@ -5652,10 +5730,12 @@
   ],
   "remarque": "",
   "page_pdf": 69,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e39",
+  "vedette_brute": "N"
  },
  {
-  "vedette": "Niß",
+  "vedette": "-niß",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette désinence sert à former des substantifs neutres et féminins dérivés des verbes.",
@@ -5970,10 +6050,12 @@
   "remarque": "Le plus grand nombre des mots en niß sont neutres. Les suivants sont féminins : Besorgniß,",
   "page_pdf": 69,
   "remarque_brute": "Le plus grand nombre des mots en niß sont neutres. Les suivants sont féminins : Bedrängniß, embarras ; Bekümmerniß, souci ; Besorgniß,",
-  "groupes_remarque": 2
+  "groupes_remarque": 2,
+  "id": "e40",
+  "vedette_brute": "Niß"
  },
  {
-  "vedette": "O",
+  "vedette": "-o",
   "categorie": "ad.",
   "etymologie": "",
   "definition": "Cette lettre est ajoutée abusivement à certains adverbes dans la conversation.",
@@ -6006,10 +6088,12 @@
   "remarque": "Ces formes sont vicieuses et réprouvées par le bon goût,",
   "page_pdf": 70,
   "remarque_brute": "Ces formes sont vicieuses et réprouvées par le bon goût,",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e41",
+  "vedette_brute": "O"
  },
  {
-  "vedette": "Od",
+  "vedette": "-od",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette ancienne finale germanique ne se rencontre plus que dans le seul mot allemand Klein-od, n. bijou.",
@@ -6031,10 +6115,12 @@
   ],
   "remarque": "",
   "page_pdf": 70,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e42",
+  "vedette_brute": "Od"
  },
  {
-  "vedette": "S",
+  "vedette": "-s",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette lettre sert à former des substantifs.",
@@ -6108,10 +6194,12 @@
   ],
   "remarque": "",
   "page_pdf": 70,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e43",
+  "vedette_brute": "S"
  },
  {
-  "vedette": "Sal, Sel, Selig",
+  "vedette": "-sal, -sel, -selig",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -6228,10 +6316,12 @@
   "remarque": "1. Sal. Cette finale, dérivée de l’ancien mot sal, demeure, signifie être en possession de, et sert à former des substantifs.\n\n2. La finale Sel joue le plus souvent un rôle explétif.\n\n3. Selig. Cet adjectif, dérivé de sal, marque une possession et se joint à quelques substantifs et adjectifs.",
   "page_pdf": 70,
   "remarque_brute": "1. Sal. Cette finale, dérivée de l’ancien mot sal, demeure, signifie être en possession de, et sert à former des substantifs, comme :\n\n2. La finale Sel joue le plus souvent un rôle explétif, comme :\n\n3. Selig. Cet adjectif, dérivé de sal, marque une possession et se joint à quelques substantifs et adjectifs, comme :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e44",
+  "vedette_brute": "Sal, Sel, Selig"
  },
  {
-  "vedette": "Sam",
+  "vedette": "-sam",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale signifie semblable, et répond aux mots latins quasi, similiter, et se rapproche, pour le sens, de la particule Hêß.",
@@ -6469,10 +6559,12 @@
   "remarque": "Pour former des substantifs de ces adjectifs, on y joint la finale keit.\n\nIl ne faut pas confondre les finales sam, bar, ig ou lich.",
   "page_pdf": 70,
   "remarque_brute": "Pour former des substantifs de ces adjectifs, on y joint la finale keit, comme : Fürcht-sam, peureux ; Fürcht-sam-keit, f. poltronnerie.\n\nIl ne faut pas confondre les finales sam, bar, ig ou lich.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e45",
+  "vedette_brute": "Sam"
  },
  {
-  "vedette": "Sch",
+  "vedette": "-sch",
   "categorie": "",
   "etymologie": "isch",
   "definition": "Cette finale, abréviation de isch, sert à former quelques substantifs et quelques adjectifs.",
@@ -6533,10 +6625,12 @@
   ],
   "remarque": "",
   "page_pdf": 71,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e46",
+  "vedette_brute": "Sch"
  },
  {
-  "vedette": "Schaft",
+  "vedette": "-schaft",
   "categorie": "",
   "etymologie": "schaffen",
   "definition": "Cette désinence, dérivée de schaffen, constituer, marque ou une idée collective, ou une idée abstraite d’état ou d’action. Tous les mots en schaft, à l’exception de das Petschaft, cachet, sont du genre neutre.",
@@ -6611,10 +6705,12 @@
   "remarque": "",
   "page_pdf": 71,
   "remarque_brute": "Exemples :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e47",
+  "vedette_brute": "Schaft"
  },
  {
-  "vedette": "Sche",
+  "vedette": "-sche",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale sert à former des substantifs féminins.",
@@ -6666,20 +6762,24 @@
   ],
   "remarque": "",
   "page_pdf": 71,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e48",
+  "vedette_brute": "Sche"
  },
  {
-  "vedette": "Sel, Selig",
+  "vedette": "-sel, -selig",
   "categorie": "",
   "etymologie": "",
   "definition": "Voir: Sal.",
   "groupes": [],
   "remarque": "",
   "page_pdf": 71,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e49",
+  "vedette_brute": "Sel, Selig"
  },
  {
-  "vedette": "St",
+  "vedette": "-st",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette désinence sert à former des substantifs de la racine du verbe, comme :",
@@ -6802,10 +6902,12 @@
   "remarque": "Les formes comparatives sont également données dans le texte.",
   "page_pdf": 71,
   "remarque_brute": "Les formes comparatives höher, plus haut, et näher, plus proche, sont également données dans le texte.",
-  "groupes_remarque": 2
+  "groupes_remarque": 2,
+  "id": "e50",
+  "vedette_brute": "St"
  },
  {
-  "vedette": "Ster",
+  "vedette": "-ster",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale se rencontre dans quelques substantifs.",
@@ -6857,10 +6959,12 @@
   ],
   "remarque": "",
   "page_pdf": 72,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e51",
+  "vedette_brute": "Ster"
  },
  {
-  "vedette": "T",
+  "vedette": "-t",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette lettre sert à former des substantifs.",
@@ -6934,20 +7038,24 @@
   ],
   "remarque": "",
   "page_pdf": 72,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e52",
+  "vedette_brute": "T"
  },
  {
-  "vedette": "Te, Ter",
+  "vedette": "-te, -ter",
   "categorie": "",
   "etymologie": "",
   "definition": "Voy. De, Der.",
   "groupes": [],
   "remarque": "",
   "page_pdf": 72,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e53",
+  "vedette_brute": "Te, Ter"
  },
  {
-  "vedette": "Tel",
+  "vedette": "-tel",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale ajoutée aux nombres cardinaux, tient lieu de Theil, n. partie, comme :",
@@ -6999,10 +7107,12 @@
   ],
   "remarque": "",
   "page_pdf": 72,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e54",
+  "vedette_brute": "Tel"
  },
  {
-  "vedette": "Thum",
+  "vedette": "-thum",
   "categorie": "",
   "etymologie": "",
   "definition": "Cette finale, dérivée d’un ancien mot germanique qui signifiait pouvoir, marque un état, une dignité et une collection.",
@@ -7191,10 +7301,12 @@
   "remarque": "Tous les mots en thum, à l’exception de sont neutres.",
   "page_pdf": 72,
   "remarque_brute": "Tous les mots en thum, à l’exception de Irrthum, m. erreur, et Reichthum, m. richesse, sont neutres.",
-  "groupes_remarque": 2
+  "groupes_remarque": 2,
+  "id": "e55",
+  "vedette_brute": "Thum"
  },
  {
-  "vedette": "Und",
+  "vedette": "-und",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -7266,10 +7378,12 @@
   "remarque": "Cette finale a vieilli et ne se trouve plus que dans les formes corrompues de et de , pour.",
   "page_pdf": 73,
   "remarque_brute": "Cette finale a vieilli et ne se trouve plus que dans les formes corrompues de Leum-und, m. pour Leumde et Leum-ut, f. renom; et de Jeg-und, pour jezt, à présent.",
-  "groupes_remarque": 3
+  "groupes_remarque": 3,
+  "id": "e56",
+  "vedette_brute": "Und"
  },
  {
-  "vedette": "Ung",
+  "vedette": "-ung",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -7459,10 +7573,12 @@
   "remarque": "Les substantifs en ung dérivent presque toujours des verbes, et expriment l’état ou l’action que le verbe indique. Ils se rapprochent beaucoup pour le sens des infinitifs dont ils sont formés, si ce n’est que l’infinitif exprime l’action en général, tandis que la finale ung donne au substantif un sens plus restreint. Il n’est que peu de substantifs en ung qui se forment d’un autre substantif ou d’un autre adjectif. Ils ont tous une signification collective. On ne peut pas former ces substantifs féminins de tous les verbes simples, mais bien des verbes composés. Quelques substantifs masculins se forment directement du mot radical par le changement de la voyelle.",
   "page_pdf": 73,
   "remarque_brute": "Les substantifs en ung dérivent presque toujours des verbes, et expriment l’état ou l’action que le verbe indique. Ils se rapprochent beaucoup pour le sens des infinitifs dont ils sont formés, si ce n’est que l’infinitif exprime l’action en général, tandis que la finale ung donne au substantif un sens plus restreint. Il n’est que peu de substantifs en ung qui se forment d’un autre substantif ou d’un autre adjectif. Ils ont tous une signification collective. On ne peut pas former ces substantifs féminins de tous les verbes simples, mais bien des verbes composés, comme vor-seh-en, prévoir; Vorseh-ung, providence. Quelques substantifs masculins se forment directement du mot radical par le changement de la voyelle, comme : Springen, sauter; Sprung, saut, Ur-sprung, m. origine.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e57",
+  "vedette_brute": "Ung"
  },
  {
-  "vedette": "Uth",
+  "vedette": "-uth",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -7493,10 +7609,12 @@
   "remarque": "Cette désinence peu usitée aujourd’hui sert encore à former quelques substantifs.",
   "page_pdf": 73,
   "remarque_brute": "Cette désinence peu usitée aujourd’hui sert encore à former quelques substantifs, comme : Arm, pauvre; Arm-uth, f. pauvreté.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e58",
+  "vedette_brute": "Uth"
  },
  {
-  "vedette": "Wan, Wen",
+  "vedette": "-wan, -wen",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -7517,10 +7635,12 @@
   "remarque": "Ces désinences des infinitifs, remplacées depuis dans quelques dialectes par an, ne s’emploient plus. On n’admet aujourd’hui que la finale en.",
   "page_pdf": 73,
   "remarque_brute": "Ces désinences des infinitifs, remplacées depuis dans quelques dialectes par an, ne s’emploient plus. On n’admet aujourd’hui que la finale en; c’est ainsi qu’on dit pour hau-wen, battre, hauen.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e59",
+  "vedette_brute": "Wan, Wen"
  },
  {
-  "vedette": "Wärts",
+  "vedette": "-wärts",
   "categorie": "ad.",
   "etymologie": "A. warth, Go. wairths, L. versus. I. vdrášť",
   "definition": "vers",
@@ -7617,10 +7737,12 @@
   "remarque": "Ce mot qui marque une direction, se joint à des substantifs, à des prépositions et à des adverbes.",
   "page_pdf": 74,
   "remarque_brute": "Ce mot qui marque une direction, se joint à des substantifs, à des prépositions et à des adverbes.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e60",
+  "vedette_brute": "Wärts"
  },
  {
-  "vedette": "Z, Ze",
+  "vedette": "-z, -ze",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -7687,10 +7809,12 @@
   "remarque": "Cette lettre est une contraction de l’ancien tz.",
   "page_pdf": 74,
   "remarque_brute": "Cette lettre est une contraction de l’ancien tz. Ze, ancienne forme de te ou fe.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e61",
+  "vedette_brute": "Z, Ze"
  },
  {
-  "vedette": "Zig",
+  "vedette": "-zig",
   "categorie": "",
   "etymologie": "A. ty. Go. tigus, pour zehn, dix",
   "definition": "Cette finale entre dans la composition des noms de nombre",
@@ -7742,6 +7866,8 @@
   ],
   "remarque": "",
   "page_pdf": 74,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e62",
+  "vedette_brute": "Zig"
  }
 ]

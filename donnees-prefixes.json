@@ -1,6 +1,6 @@
 [
  {
-  "vedette": "A",
+  "vedette": "a-",
   "categorie": "",
   "etymologie": "",
   "definition": "sans",
@@ -49,10 +49,12 @@
   "remarque": "Ce signe privatif des Grecs et des Latins, dont on trouve quelques traces dans les anciens dialectes germaniques, n’est presque plus usité en allemand. Ce mot signifie sans.",
   "page_pdf": 42,
   "remarque_brute": "Ce signe privatif des Grecs et des Latins, dont on trouve quelques traces dans les anciens dialectes germaniques, n’est presque plus usité en allemand. Ce mot signifie sans, comme : de a, sans, et muße, loisir.",
-  "groupes_remarque": 2
+  "groupes_remarque": 2,
+  "id": "e0",
+  "vedette_brute": "A"
  },
  {
-  "vedette": "Ab",
+  "vedette": "ab-",
   "categorie": "pr.",
   "etymologie": "A. of. Go. af. L. ab. G. ἀπό, L. apo",
   "definition": "de, loin de",
@@ -193,10 +195,12 @@
   "remarque": "Ce mot marque séparation, éloignement et fin. Ab répond quelquefois au secundum des Latins, que les François rendent par d’après.",
   "page_pdf": 42,
   "remarque_brute": "Ce mot marque séparation, éloignement et fin. Ab répond quelquefois au secundum des Latins, que les François rendent par d’après, comme :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e1",
+  "vedette_brute": "Ab"
  },
  {
-  "vedette": "Aber",
+  "vedette": "aber-",
   "categorie": "ad.",
   "etymologie": "",
   "definition": "éloignement, dégénération",
@@ -227,10 +231,12 @@
   "remarque": "Formé de ab, ce mot marque éloignement, dégénération.",
   "page_pdf": 42,
   "remarque_brute": "Formé de ab, ce mot marque éloignement, dégénération.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e2",
+  "vedette_brute": "Aber"
  },
  {
-  "vedette": "After",
+  "vedette": "after-",
   "categorie": "ad.",
   "etymologie": "de ab, loin. A. after",
   "definition": "après, contraire, faux",
@@ -282,10 +288,12 @@
   ],
   "remarque": "",
   "page_pdf": 42,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e3",
+  "vedette_brute": "After"
  },
  {
-  "vedette": "An",
+  "vedette": "an-",
   "categorie": "pr.",
   "etymologie": "A. an. Go. ana. G. ἀνά. L. anu",
   "definition": "à, vers, sur, en",
@@ -382,10 +390,12 @@
   "remarque": "Ce mot marque rapprochement, application.",
   "page_pdf": 42,
   "remarque_brute": "Ce mot marque rapprochement, application.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e4",
+  "vedette_brute": "An"
  },
  {
-  "vedette": "Ant",
+  "vedette": "ant-",
   "categorie": "préf. insép.",
   "etymologie": "Go. anda. L. ante. G. ἀντί. I. anti",
   "definition": "en face, contre",
@@ -416,10 +426,12 @@
   "remarque": "Ce mot marque opposition, séparation.",
   "page_pdf": 43,
   "remarque_brute": "Ce mot marque opposition, séparation, comme : a. Wort, le mot, Ant-wort, f. réponse.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e5",
+  "vedette_brute": "Ant"
  },
  {
-  "vedette": "Ent",
+  "vedette": "ent-",
   "categorie": "préf. insép.",
   "etymologie": "Go. and. L. ante. G. ἀντί. I. anti",
   "definition": "",
@@ -604,10 +616,12 @@
   "remarque": "Ce préfixe marque opposition, privation, séparation, origine, et se rend souvent en français par de ou dés.",
   "page_pdf": 43,
   "remarque_brute": "Ce préfixe marque opposition, privation, séparation, origine, et se rend souvent en français par de ou dés.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e6",
+  "vedette_brute": "Ent"
  },
  {
-  "vedette": "Emp",
+  "vedette": "emp-",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -682,10 +696,12 @@
   "remarque": "pour Ent. Ce préfixe ne se trouve que dans trois verbes et leurs dérivés, où l’on a changé ent en emp, à cause de l’f qui suit. Ce sont :",
   "page_pdf": 43,
   "remarque_brute": "pour Ent. Ce préfixe ne se trouve que dans trois verbes et leurs dérivés, où l’on a changé ent en emp, à cause de l’f qui suit. Ce sont :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e7",
+  "vedette_brute": "Emp"
  },
  {
-  "vedette": "Auf",
+  "vedette": "auf-",
   "categorie": "pr.",
   "etymologie": "A. up. Go. iup. L. ob. G. ὑπό. I. upa",
   "definition": "sur, dessus, en, pour",
@@ -892,10 +908,12 @@
   "remarque": "Ce mot marque expansion, élévation, et renferme en outre l’idée d’ouvrir, de parvenir et de finir.",
   "page_pdf": 43,
   "remarque_brute": "Ce mot marque expansion, élévation, et renferme en outre l’idée d’ouvrir, de parvenir et de finir.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e8",
+  "vedette_brute": "Auf"
  },
  {
-  "vedette": "Aus",
+  "vedette": "aus-",
   "categorie": "pr., ad.",
   "etymologie": "A. out. Go. us. L. ex. G. ix. I. ul",
   "definition": "de, hors ; fini, passé",
@@ -1102,10 +1120,12 @@
   "remarque": "Ce mot marque départ, exclusion, achèvement.",
   "page_pdf": 44,
   "remarque_brute": "Ce mot marque départ, exclusion, achèvement.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e9",
+  "vedette_brute": "Aus"
  },
  {
-  "vedette": "B",
+  "vedette": "b-",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -1158,10 +1178,12 @@
   "remarque": "Cette lettre s’emploie quelquefois pour le préfixe be.",
   "page_pdf": 44,
   "remarque_brute": "Cette lettre s’emploie quelquefois pour le préfixe be, comme : bleiben, rester, pour be-leiben ; erbarmen, avoir pitié, pour er-be-armen.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e10",
+  "vedette_brute": "B"
  },
  {
-  "vedette": "Be",
+  "vedette": "be-",
   "categorie": "prép. ins.",
   "etymologie": "de bei, auprès. A. be. Go. bi. G. épi. I. pi, api",
   "definition": "près, autour",
@@ -1457,10 +1479,12 @@
   "remarque": "Ce mot marque proximité, accomplissement, et indique que l’action s’étend sur tout l’objet dont on parle. Be prend quelquefois la signification d’ôter.",
   "page_pdf": 44,
   "remarque_brute": "Ce mot marque proximité, accomplissement, et indique que l’action s’étend sur tout l’objet dont on parle. Be prend quelquefois la signification d’ôter, comme : Vortheil, m. avantage ; be-vortheilen, faire préjudice à.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e11",
+  "vedette_brute": "Be"
  },
  {
-  "vedette": "Bei",
+  "vedette": "bei-",
   "categorie": "pr.",
   "etymologie": "A. by. Go. bi. G. ἐπί. I. api",
   "definition": "auprès, chez, à. Ce mot marque proximité.",
@@ -1730,10 +1754,12 @@
   "remarque": "Quelle que soit l'analogie qui existe entre les préfixes be et bei, il ne faut pas les confondre. Pour mieux faire sentir la nuance qui les sépare, nous allons rapprocher quelques exemples où ils sont joints tous les deux à la même racine :",
   "page_pdf": 45,
   "remarque_brute": "Quelle que soit l'analogie qui existe entre les préfixes be et bei, il ne faut pas les confondre. Pour mieux faire sentir la nuance qui les sépare, nous allons rapprocher quelques exemples où ils sont joints tous les deux à la même racine :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e12",
+  "vedette_brute": "Bei"
  },
  {
-  "vedette": "Dar",
+  "vedette": "dar-",
   "categorie": "préf. s'ép.",
   "etymologie": "de der, lui. A. there. Go. thi. L. tum. G. τῶ, I. tha-thā",
   "definition": "là. Quand ce préfixe entre en composition avec des verbes, il tient la place de da, là.",
@@ -1786,10 +1812,12 @@
   "remarque": "Combiné avec des prépositions, dar n'est autre que da avec un r euphonique.",
   "page_pdf": 45,
   "remarque_brute": "Exemples : Stellen, placer ; dar-stellen (placer là), représenter. Thun, faire ; dar-thun, faire voir, démontrer. Combiné avec des prépositions, dar n'est autre que da avec un r euphonique.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e13",
+  "vedette_brute": "Dar"
  },
  {
-  "vedette": "Durch",
+  "vedette": "durch-",
   "categorie": "pr.",
   "etymologie": "A. through. Go. thairh. L. trans. I. tiras",
   "definition": "par, à travers, au moyen de.",
@@ -1839,10 +1867,12 @@
   "remarque": "Le mot durch est accentué et se détache du verbe quand il joue le rôle de préposition inséparable. Quand il joue le rôle de préfixe et d'adverbe, il n'est pas accentué et ne se détache pas du verbe.",
   "page_pdf": 45,
   "remarque_brute": "Le mot durch est accentué et se détache du verbe quand il joue le rôle de préposition inséparable, comme : durchgehen, passer à travers, Prés. ich gehe durch, je passe à travers. Quand il joue le rôle de préfixe et d'adverbe, il n'est pas accentué et ne se détache pas du verbe, comme : durchgehen, parcourir, Prés. ich durchgehe, je parcours.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e14",
+  "vedette_brute": "Durch"
  },
  {
-  "vedette": "Ein",
+  "vedette": "ein-",
   "categorie": "préf.",
   "etymologie": "pour in, dans. A. in. Go. inn. L. in. G. ἐν",
   "definition": "dans, Ein marque repos dans un lieu, ou tendance pour entrer dans un endroit. On l'emploie quelquefois dans le sens de contre et de un, sans.",
@@ -2049,10 +2079,12 @@
   "remarque": "Quelquefois, dans les substantifs et les adverbes, on se sert du mot primitif.",
   "page_pdf": 45,
   "remarque_brute": "Quelquefois, dans les substantifs et les adverbes, on se sert du mot primitif, comme :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e15",
+  "vedette_brute": "Ein"
  },
  {
-  "vedette": "Emp, Ent",
+  "vedette": "emp-, ent-",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -2060,10 +2092,12 @@
   "remarque": "Voy. Ant.",
   "page_pdf": 46,
   "remarque_brute": "Voy. Ant.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e16",
+  "vedette_brute": "Emp, Ent"
  },
  {
-  "vedette": "Er",
+  "vedette": "er-",
   "categorie": "préf. ins.",
   "etymologie": "A. a. Go. us, L. ex. G. ἐκ",
   "definition": "marque un mouvement vers un endroit élevé, la manière d’atteindre un but et l’accomplissement d’une chose.",
@@ -2203,10 +2237,12 @@
   ],
   "remarque": "",
   "page_pdf": 46,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e17",
+  "vedette_brute": "Er"
  },
  {
-  "vedette": "Erz",
+  "vedette": "erz-",
   "categorie": "ad.",
   "etymologie": "A. arch. G. ἄρχω",
   "definition": "très. Ce mot signifie, en composition, ou archi, ou consommé.",
@@ -2258,10 +2294,12 @@
   ],
   "remarque": "",
   "page_pdf": 46,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e18",
+  "vedette_brute": "Erz"
  },
  {
-  "vedette": "Fort",
+  "vedette": "fort-",
   "categorie": "ad.",
   "etymologie": "de vor, avant. A. forth",
   "definition": "loin, parti. Ce préfixe signifie continuation et enlèvement.",
@@ -2313,10 +2351,12 @@
   ],
   "remarque": "",
   "page_pdf": 46,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e19",
+  "vedette_brute": "Fort"
  },
  {
-  "vedette": "Für",
+  "vedette": "für-",
   "categorie": "pr.",
   "etymologie": "A. for. Go. faur. L. pro. G. πρός, I. pra",
   "definition": "pour, à la place de.",
@@ -2418,10 +2458,12 @@
   "remarque": "Ce mot qui marque direction, faveur, et qui n’entre pas dans la composition d’un verbe, a été long-temps confondue avec vor, avant, devant. Mais, aujourd’hui, ces deux prépositions présentent chacune un sens différent; ainsi, für Jemanden fürchten signifie craindre pour qn., tandis que sich vor Jemanden fürchten veut dire avoir peur de qn.\n\nIl n’y a que dans quelques mots composés que l’on a encore conservé les deux formes.",
   "page_pdf": 46,
   "remarque_brute": "Ce mot qui marque direction, faveur, et qui n’entre pas dans la com-\n...position d’un verbe, a été long-temps confondue avec vor, avant, devant. Mais, aujourd’hui, ces deux prépositions présentent chacune un sens différent; ainsi, für Jemanden fürchten signifie craindre pour qn., tandis que sich vor Jemanden fürchten veut dire avoir peur de qn.\n\nIl n’y a que dans quelques mots composés que l’on a encore conservé les deux formes, comme :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e20",
+  "vedette_brute": "Für"
  },
  {
-  "vedette": "G",
+  "vedette": "g-",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -2466,10 +2508,12 @@
   "remarque": "Cette lettre est employée quelquefois pour la syllabe ge, comme b pour la syllabe be.",
   "page_pdf": 47,
   "remarque_brute": "Cette lettre est employée quelquefois pour la syllabe ge, comme b pour la syllabe be.\n\nGnade, f. pour Ge-nade, grâce.\nGlied, n. pour Ge-lied, membre.\nGleich, pour ge-leich, semblable.",
-  "groupes_remarque": 3
+  "groupes_remarque": 3,
+  "id": "e21",
+  "vedette_brute": "G"
  },
  {
-  "vedette": "Ge",
+  "vedette": "ge-",
   "categorie": "préf.",
   "etymologie": "has (A. y. Go. ga. L. co, cum)",
   "definition": "",
@@ -2632,10 +2676,12 @@
   "remarque": "Composé à tous les participes passés, ce préfixe de noms et de verbes marque un assemblage, une réunion, et joue quelquefois un rôle explétif.",
   "page_pdf": 47,
   "remarque_brute": "Composé à tous les participes passés, ce préfixe de noms et de verbes marque un assemblage, une réunion, et joue quelquefois un rôle explétif.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e22",
+  "vedette_brute": "Ge"
  },
  {
-  "vedette": "Gegen",
+  "vedette": "gegen-",
   "categorie": "pr.",
   "etymologie": "de gen. L. contra, cum",
   "definition": "contre, vers",
@@ -2717,10 +2763,12 @@
   "remarque": "Ce préfixe marque mouvement vers un autre objet, sans marquer toujours l’opposition de wider, contre.\n\nOn forme quelques verbes et quelques substantifs de ce mot, et il entra\n\nVo. Formation du verbe.\n... dans la composition de quelques noms; mais dans les verbes composés, c’est über qui prend sa place.",
   "page_pdf": 47,
   "remarque_brute": "Ce préfixe marque mouvement vers un autre objet, sans marquer toujours l’opposition de wider, contre. (C’est ainsi que Gegen-rede veut dire réplique, discours en réponse; wider-rede, réplique, discours opposé ou en opposition.)\n\nOn forme quelques verbes et quelques substantifs de ce mot, et il entra\n\nVo. Formation du verbe.\n... dans la composition de quelques noms; mais dans les verbes composés, c’est über qui prend sa place.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e23",
+  "vedette_brute": "Gegen"
  },
  {
-  "vedette": "Heim",
+  "vedette": "heim-",
   "categorie": "adverbe",
   "etymologie": "A. home. Go. haims. L. humus., G. χῶμα",
   "definition": "au logis, chez soi",
@@ -2795,10 +2843,12 @@
   "remarque": "Dans les composés le sens du mot heim, demeure, est facile à reconnoître. Quelquefois heim prend le sens de secret, caché",
   "page_pdf": 48,
   "remarque_brute": "Dans les composés le sens du mot heim, demeure, est facile à reconnoître. Quelquefois heim prend le sens de secret, caché, comme :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e24",
+  "vedette_brute": "Heim"
  },
  {
-  "vedette": "Her",
+  "vedette": "her-",
   "categorie": "adverbe",
   "etymologie": "A. hither. Go. hidre. L. huc",
   "definition": "ici, après",
@@ -2955,10 +3005,12 @@
   "remarque": "Her et hin sont deux adverbes tout-à-fait opposés. L’un marque rapprochement de la personne qui parle, l’autre au contraire indique l’éloignement de l’endroit où se trouve la personne qui parle. Cette signification ne souffre pas de changement dans la composition. Tous deux se combinent avec des prépositions et d’autres adverbes, avec des substantifs et des verbes. Pour mieux faire sentir la nuance de ces deux mots, nous allons les joindre à deux verbes.",
   "page_pdf": 48,
   "remarque_brute": "Her et hin sont deux adverbes tout-à-fait opposés. L’un marque rapprochement de la personne qui parle, l’autre au contraire indique l’éloignement de l’endroit où se trouve la personne qui parle. Cette signification ne souffre pas de changement dans la composition. Tous deux se combinent avec des prépositions et d’autres adverbes, avec des substantifs et des verbes. Pour mieux faire sentir la nuance de ces deux mots, nous allons les joindre à deux verbes. Her, composé avec um, a deux formes différentes; her-um signifie autour et marque un mouvement circulaire; um-her signifie çà et là.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e25",
+  "vedette_brute": "Her"
  },
  {
-  "vedette": "Hin",
+  "vedette": "hin-",
   "categorie": "adverbe",
   "etymologie": "A. hence. L. hinc",
   "definition": "là, en ce lieu-là, vers",
@@ -2966,10 +3018,12 @@
   "remarque": "Her et hin sont deux adverbes tout-à-fait opposés. L’un marque rapprochement de la personne qui parle, l’autre au contraire indique l’éloignement de l’endroit où se trouve la personne qui parle. Cette signification ne souffre pas de changement dans la composition. Tous deux se combinent avec des prépositions et d’autres adverbes, avec des substantifs et des verbes.",
   "page_pdf": 48,
   "remarque_brute": "Her et hin sont deux adverbes tout-à-fait opposés. L’un marque rapprochement de la personne qui parle, l’autre au contraire indique l’éloignement de l’endroit où se trouve la personne qui parle. Cette signification ne souffre pas de changement dans la composition. Tous deux se combinent avec des prépositions et d’autres adverbes, avec des substantifs et des verbes.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e26",
+  "vedette_brute": "Hin"
  },
  {
-  "vedette": "Hinter",
+  "vedette": "hinter-",
   "categorie": "préposition",
   "etymologie": "A. behind. Go. hinder",
   "definition": "après, derrière",
@@ -3044,10 +3098,12 @@
   "remarque": "Jointe à un verbe, cette préposition se change en préfixe adverbial, perd l’accent toni-\nElle ajoute ordinairement au sens du verbe l’idée de fausseté et de perfidie. Comme composée de substantifs, hinter conserve l’accent tonique et sa première signification.",
   "page_pdf": 48,
   "remarque_brute": "Jointe à un verbe, cette préposition se change en préfixe adverbial, perd l’accent toni-\nElle ajoute ordinairement au sens du verbe l’idée de fausseté et de perfidie. Comme composée de substantifs, hinter conserve l’accent tonique et sa première signification.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e27",
+  "vedette_brute": "Hinter"
  },
  {
-  "vedette": "In",
+  "vedette": "in-",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -3055,10 +3111,12 @@
   "remarque": "Voy. Ein.",
   "page_pdf": 49,
   "remarque_brute": "Voy. Ein.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e28",
+  "vedette_brute": "In"
  },
  {
-  "vedette": "K",
+  "vedette": "k-",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -3079,10 +3137,12 @@
   "remarque": "Cette lettre est employée parfois, dans les mots dérivés, pour g ou pour ge.",
   "page_pdf": 49,
   "remarque_brute": "Cette lettre est employée parfois, dans les mots dérivés, pour g ou pour ge.\n\nExemple : Klug, prudent, pour glug (de glu-en, voir).",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e29",
+  "vedette_brute": "K"
  },
  {
-  "vedette": "Miß",
+  "vedette": "miß-",
   "categorie": "préf.",
   "etymologie": "A. miso. G. missa. G. μίσιον",
   "definition": "mal",
@@ -3179,10 +3239,12 @@
   "remarque": "Ce préfixe donne l’idée de l’erreur et du mal, et répond au mé et mal des Français.",
   "page_pdf": 49,
   "remarque_brute": "Ce préfixe donne l’idée de l’erreur et du mal, et répond au mé et mal des Français.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e30",
+  "vedette_brute": "Miß"
  },
  {
-  "vedette": "Mit",
+  "vedette": "mit-",
   "categorie": "pr.",
   "etymologie": "A. mid. Go. mith. G. μετά. L. mitius",
   "definition": "avec",
@@ -3235,10 +3297,12 @@
   "remarque": "Cette préposition marque réunion et communauté.",
   "page_pdf": 49,
   "remarque_brute": "Cette préposition marque réunion et communauté.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e31",
+  "vedette_brute": "Mit"
  },
  {
-  "vedette": "Nach",
+  "vedette": "nach-",
   "categorie": "pr.",
   "etymologie": "",
   "definition": "après",
@@ -3326,10 +3390,12 @@
   "remarque": "Cette préposition, qui se rattache pour la forme et pour le sens à l’adjectif, marque direction vers un objet. En composition elle indique conformité, imitation ou concession.",
   "page_pdf": 49,
   "remarque_brute": "Cette préposition, qui se rattache pour la forme et pour le sens à l’adjectif nach, près, marque direction vers un objet. En composition elle indique conformité, imitation ou concession.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e32",
+  "vedette_brute": "Nach"
  },
  {
-  "vedette": "Neben",
+  "vedette": "neben-",
   "categorie": "pr.",
   "etymologie": "pour in eben, en égalité",
   "definition": "après, à côté",
@@ -3417,10 +3483,12 @@
   "remarque": "Cette préposition n’entre en composition qu’avec des substantifs ; en\nCe cas elle joue ordinairement le rôle d’un adjectif, et comme opposée de, signifie accessoire ou voisin.",
   "page_pdf": 49,
   "remarque_brute": "Cette préposition n’entre en composition qu’avec des substantifs ; en\nCe cas elle joue ordinairement le rôle d’un adjectif, et comme opposée de Haupt, tête, principal, signifie accessoire ou voisin.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e33",
+  "vedette_brute": "Neben"
  },
  {
-  "vedette": "Nieder",
+  "vedette": "nieder-",
   "categorie": "ad.",
   "etymologie": "A. neath. G. ὑπὸ [?], bas",
   "definition": "bas, à terre",
@@ -3539,10 +3607,12 @@
   "remarque": "Ce mot marque mouvement de haut en bas, et au figuré abaissement.",
   "page_pdf": 50,
   "remarque_brute": "Ce mot marque mouvement de haut en bas, et au figuré abaissement.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e34",
+  "vedette_brute": "Nieder"
  },
  {
-  "vedette": "Ob",
+  "vedette": "ob-",
   "categorie": "pr.",
   "etymologie": "A. up. Go. up. L. ob. G. ἐπί, i. api",
   "definition": "sur, pour",
@@ -3617,10 +3687,12 @@
   "remarque": "Ob vient comme préposition; mais on le trouve dans quelques compositions dans le sens de sur. Ob s’emploie comme préfixe au lieu de oben, en haut, devant des adjectifs formés des verbes, comme : ob-bemeldet, ob-er-mählet, sumner-tionné, etc.",
   "page_pdf": 50,
   "remarque_brute": "Ob vient comme préposition; mais on le trouve dans quelques compositions dans le sens de sur. Ob s’emploie comme préfixe au lieu de oben, en haut, devant des adjectifs formés des verbes, comme : ob-bemeldet, ob-er-mählet, sumner-tionné, etc.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e35",
+  "vedette_brute": "Ob"
  },
  {
-  "vedette": "Ob",
+  "vedette": "ob-",
   "categorie": "c. dub.",
   "etymologie": "A. iſ. Go. iabai. G. ἐπεὶ. A. api",
   "definition": "si, que",
@@ -3671,10 +3743,12 @@
   "remarque": "Ce mot ne se combine qu’avec des adverbes.",
   "page_pdf": 50,
   "remarque_brute": "Ce mot ne se combine qu’avec des adverbes, comme ob-gleich, ob-schon, ob-wohl, ob-zwar, si même, si bien, quoique.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e36",
+  "vedette_brute": "Ob"
  },
  {
-  "vedette": "Ober",
+  "vedette": "ober-",
   "categorie": "a.",
   "etymologie": "de ob, aux. A. uper. Go. uper. L. super. G. ὑπερ",
   "definition": "haut, supérieur",
@@ -3711,10 +3785,12 @@
   "remarque": "Dans les mots composés ober est l’opposé de unter, bas, inférieur.",
   "page_pdf": 50,
   "remarque_brute": "Dans les mots composés ober est l’opposé de unter, bas, inférieur, comme Ober-Rhein, m. Haut-Rhin; Unter-Rhein, Bas-Rhin; mais n’entre jamais en composition avec des verbes.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e37",
+  "vedette_brute": "Ober"
  },
  {
-  "vedette": "Über",
+  "vedette": "über-",
   "categorie": "pr.",
   "etymologie": "",
   "definition": "sur, par dessus",
@@ -3753,10 +3829,12 @@
   "remarque": "Dans les mots composés ober est l’opposé de unter, bas, inférieur.",
   "page_pdf": 50,
   "remarque_brute": "Dans les mots composés ober est l’opposé de unter, bas, inférieur, comme Ober-Rhein, m. Haut-Rhin; Unter-Rhein, Bas-Rhin; mais n’entre jamais en composition avec des verbes.",
-  "groupes_remarque": 2
+  "groupes_remarque": 2,
+  "id": "e38",
+  "vedette_brute": "Über"
  },
  {
-  "vedette": "über",
+  "vedette": "über-",
   "categorie": "",
   "etymologie": "",
   "definition": "marque supériorité et indique qu’un objet s’étend au-dessus d’une autre.",
@@ -3955,10 +4033,12 @@
   "remarque": "Ce préfixe se combine avec des substantifs, des adjectifs et des verbes.\n\nNous avons déjà dit plus haut que über, combiné avec un verbe, est tantôt séparable, tantôt inséparable. Über, jouant le rôle de préposition, se détache du verbe, tandis qu’il fait toujours corps avec le verbe, lorsqu’il en modifie le sens.",
   "page_pdf": 51,
   "remarque_brute": "Ce préfixe se combine avec des substantifs, des adjectifs et des verbes.\n\nNous avons déjà dit plus haut que über, combiné avec un verbe, est tantôt séparable, tantôt inséparable. Über, jouant le rôle de préposition, se détache du verbe, tandis qu’il fait toujours corps avec le verbe, lorsqu’il en modifie le sens.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e39",
+  "vedette_brute": "über"
  },
  {
-  "vedette": "Ohne",
+  "vedette": "ohne-",
   "categorie": "pr.",
   "etymologie": "de um, sans. Go. inuh. G. ǫv́u. I. ūna",
   "definition": "sans",
@@ -4011,20 +4091,24 @@
   "remarque": "Cette préposition, entrant en composition avec des substantifs et des adjectifs, perd sa finale et s’emploie pour la particule négative un.",
   "page_pdf": 51,
   "remarque_brute": "Cette préposition, entrant en composition avec des substantifs et des adjectifs, perd sa finale et s’emploie pour la particule négative un.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e40",
+  "vedette_brute": "Ohne"
  },
  {
-  "vedette": "Über",
+  "vedette": "über-",
   "categorie": "",
   "etymologie": "",
   "definition": "Voy. Sher.",
   "groupes": [],
   "remarque": "",
   "page_pdf": 51,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e41",
+  "vedette_brute": "Über"
  },
  {
-  "vedette": "Um",
+  "vedette": "um-",
   "categorie": "pr.",
   "etymologie": "pour umd. L. amb. G. ąpų I. ąb́u",
   "definition": "autour de, pour",
@@ -4192,10 +4276,12 @@
   "remarque": "Ce préfixe marque un mouvement circulaire autour d’un corps, ou bien changement de position ; combiné avec des verbes, um est tantôt séparable, tantôt inséparable.",
   "page_pdf": 51,
   "remarque_brute": "Ce préfixe marque un mouvement circulaire autour d’un corps, ou bien changement de position ; combiné avec des verbes, um est tantôt séparable, tantôt inséparable.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e42",
+  "vedette_brute": "Um"
  },
  {
-  "vedette": "Un",
+  "vedette": "un-",
   "categorie": "préf. ins.",
   "etymologie": "A. un. Go. un. L. in. G. ἄν, ἄ. I. an, a",
   "definition": "non, dès, mal.",
@@ -4448,10 +4534,12 @@
   "remarque": "Ce préfixe, qui a un sens privatif, marque l’opposé du mot simple qu’il précède.\n\n(Dans ce dernier exemple, le préfixe donne au mot l’idée de mal comme qui diroit : mauvais frais).\n\nLes verbes qui commencent par ce préfixe sont encore précédés de ver.",
   "page_pdf": 52,
   "remarque_brute": "Ce préfixe, qui a un sens privatif, marque l’opposé du mot simple qu’il précède.\n\n(Dans ce dernier exemple, le préfixe donne au mot l’idée de mal comme qui diroit : mauvais frais).\n\nLes verbes qui commencent par ce préfixe sont encore précédés de ver, comme : ver-un-glücken, ne pas réussir, échouer ; ver-un-ehren, déshonorer.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e43",
+  "vedette_brute": "Un"
  },
  {
-  "vedette": "Unter",
+  "vedette": "unter-",
   "categorie": "pr.",
   "etymologie": "A. under. Go. under. L. inter. G. ὑπό, I. antar",
   "definition": "sous, entre, parmi.",
@@ -4584,10 +4672,12 @@
   "remarque": "Cette préposition est ordinairement opposée à über dans les verbes, et à ober dans les substantifs et les adjectifs. Combinée avec des verbes, elle est tantôt séparable, tantôt inséparable.",
   "page_pdf": 52,
   "remarque_brute": "Cette préposition est ordinairement opposée à über dans les verbes, et à ober dans les substantifs et les adjectifs. Combinée avec des verbes, elle est tantôt séparable, tantôt inséparable.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e44",
+  "vedette_brute": "Unter"
  },
  {
-  "vedette": "Ur",
+  "vedette": "ur-",
   "categorie": "préf. ins.",
   "etymologie": "A. a. Go. us. L. ex. G. ἔξ. I. ut",
   "definition": "",
@@ -4595,10 +4685,12 @@
   "remarque": "Ce préfixe, employé souvent pour vor, avant, marque une haute antiquité, une origine primitive.",
   "page_pdf": 52,
   "remarque_brute": "Ce préfixe, employé souvent pour vor, avant, marque une haute antiquité, une origine primitive.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e45",
+  "vedette_brute": "Ur"
  },
  {
-  "vedette": "Ur",
+  "vedette": "ur-",
   "categorie": "",
   "etymologie": "",
   "definition": "",
@@ -4672,10 +4764,12 @@
   ],
   "remarque": "",
   "page_pdf": 53,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e46",
+  "vedette_brute": "Ur"
  },
  {
-  "vedette": "Ver",
+  "vedette": "ver-",
   "categorie": "préf. ins.",
   "etymologie": "A. for. Go. fair. L. per. G. παρὰ. I. parà",
   "definition": "Ce préfixe marque excès, erreur, perte, achèvement ; joue quelquefois un rôle explétif, et, dans certaines compositions, tient lieu de für, pour.",
@@ -4871,10 +4965,12 @@
   "remarque": "Ver dans le sens de mal.\n\nVer dans le sens de pour,",
   "page_pdf": 53,
   "remarque_brute": "Ver dans le sens de mal.\nver-stehen, mal voir, se tromper\nver-führen, (mal parler) se tromper en parlant\nver-führen, (mal conduire) séduire\nver-schreiben, (mal écrire) se tromper en écrivant, user en écrivant\n\nVer dans le sens de pour,\nver-stehen, se pouvoir\nver-sprechen, engager sa parole, promettre\nver-führen, transporter (des marchandises)\nver-schreiben, assurer par écrit, écrire pour faire venir",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e47",
+  "vedette_brute": "Ver"
  },
  {
-  "vedette": "Voll",
+  "vedette": "voll-",
   "categorie": "adjectif",
   "etymologie": "A. full. Go. fulls. L. plenus. G. πλήρης ; I. pulas",
   "definition": "plein ; Ce préfixe marque accomplissement et plénitude.",
@@ -5015,10 +5111,12 @@
   "remarque": "Ce préfixe sert aussi quelquefois d’affixe, en se joignant comme adjectif à un substantif, comme :",
   "page_pdf": 53,
   "remarque_brute": "Ce préfixe sert aussi quelquefois d’affixe, en se joignant comme adjectif à un substantif, comme :",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e48",
+  "vedette_brute": "Voll"
  },
  {
-  "vedette": "Von",
+  "vedette": "von-",
   "categorie": "pr.",
   "etymologie": "",
   "definition": "de, du, par.",
@@ -5050,10 +5148,12 @@
   "remarque": "Cette préposition n’entre en composition qu’avec le pluriel du substantif , dont on a fait un adjectif indéclinable.",
   "page_pdf": 53,
   "remarque_brute": "Cette préposition n’entre en composition qu’avec le pluriel du substantif Noth, besoin, dont on a fait un adjectif indéclinable, von-nöthen, nécessaire.",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e49",
+  "vedette_brute": "Von"
  },
  {
-  "vedette": "Vor",
+  "vedette": "vor-",
   "categorie": "pr.",
   "etymologie": "A. fore. Go. saura. L. pra. G. πρό. I. prā",
   "definition": "avant, devant",
@@ -5212,10 +5312,12 @@
   "remarque": "Cette préposition indique présence et préférence; jointe à un verbe, elle est séparable et conserve l’accent tonique (voy. Für).",
   "page_pdf": 54,
   "remarque_brute": "Cette préposition indique présence et préférence; jointe à un verbe, elle est séparable et conserve l’accent tonique (voy. Für).",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e50",
+  "vedette_brute": "Vor"
  },
  {
-  "vedette": "Weg",
+  "vedette": "weg-",
   "categorie": "préf. sép.",
   "etymologie": "A. way. L. ve. G. αὐτ., L. vadis",
   "definition": "Ce préfixe marque, dans les verbes composés, ou une absence ou un éloignement.",
@@ -5289,10 +5391,12 @@
   ],
   "remarque": "",
   "page_pdf": 54,
-  "remarque_brute": ""
+  "remarque_brute": "",
+  "id": "e51",
+  "vedette_brute": "Weg"
  },
  {
-  "vedette": "Wider",
+  "vedette": "wider-",
   "categorie": "pr.",
   "etymologie": "A. wither. Go. withra",
   "definition": "contre",
@@ -5332,10 +5436,12 @@
   "remarque": "Ce préfixe marque opposition, et, en composition avec des verbes, il en est inséparable et n’a jamais l’accent tonique.",
   "page_pdf": 54,
   "remarque_brute": "Ce préfixe marque opposition, et, en composition avec des verbes, il en est inséparable et n’a jamais l’accent tonique.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e52",
+  "vedette_brute": "Wider"
  },
  {
-  "vedette": "Wieder",
+  "vedette": "wieder-",
   "categorie": "ad.",
   "etymologie": "",
   "definition": "de nouveau, derechef",
@@ -5410,10 +5516,12 @@
   "remarque": "Ce préfixe accentué, qui marque le retour dans un premier état et la répétition de la même action, se rend ordinairement en français par re. (Dans ce mot, wieder est inséparable, n’a pas l’accent tonique et perd l’augment au participe passé).",
   "page_pdf": 54,
   "remarque_brute": "Ce préfixe accentué, qui marque le retour dans un premier état et la répétition de la même action, se rend ordinairement en français par re. (Dans wieder-holen, répéter, wieder est inséparable, n’a pas l’accent tonique et perd l’augment au participe passé).",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e53",
+  "vedette_brute": "Wieder"
  },
  {
-  "vedette": "Zer",
+  "vedette": "zer-",
   "categorie": "préf. insép.",
   "etymologie": "Go. dis. L. dis. G. διά",
   "definition": "préfixe qui marque séparation, destruction; ne se combine qu’avec des verbes et leurs dérivés.",
@@ -5576,10 +5684,12 @@
   "remarque": "Devant les verbes réfléchis, zer- marque ordinairement peine, épuisement.\nLes deux préfixes ver et zer s’emploient quelquefois l’un pour l’autre, mais ne sauraient être confondus, car ver marque une destruction complète, et zer une destruction partielle ou une séparation violente.",
   "page_pdf": 54,
   "remarque_brute": "Devant les verbes réfléchis, zer- marque ordinairement peine, épuisement, comme : abarbeiten, travailler, zer-arbeiten, se tuer à force de travail.\nLes deux préfixes ver et zer s'emploient quelquefois l'un pour l'autre, mais ne sauraient être confondus, car ver marque une destruction complète, et zer une destruction partielle ou une séparation violente.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e54",
+  "vedette_brute": "Zer"
  },
  {
-  "vedette": "Zu",
+  "vedette": "zu-",
   "categorie": "pr.",
   "etymologie": "A. to. Go. du. L. de",
   "definition": "à, au, à la, chez.",
@@ -5698,10 +5808,12 @@
   "remarque": "Zu, en composition avec un verbe, marque addition, direction et fermeture.",
   "page_pdf": 55,
   "remarque_brute": "Zu, en composition avec un verbe, marque addition, direction et fermeture.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e55",
+  "vedette_brute": "Zu"
  },
  {
-  "vedette": "Zurück",
+  "vedette": "zurück-",
   "categorie": "ad.",
   "etymologie": "",
   "definition": "en arrière, de retour.",
@@ -5808,10 +5920,12 @@
   "remarque": "Ce mot ne doit pas être confondu avec .",
   "page_pdf": 55,
   "remarque_brute": "Ce mot ne doit pas être confondu avec wieder, de nouveau. (C'est ainsi que zurückkommen signifie revenir (de voyage), et wiederkommen, revenir (venir de nouveau).",
-  "groupes_remarque": 1
+  "groupes_remarque": 1,
+  "id": "e56",
+  "vedette_brute": "Zurück"
  },
  {
-  "vedette": "Zusammen",
+  "vedette": "zusammen-",
   "categorie": "ad.",
   "etymologie": "de sam, à-la-fois",
   "definition": "ensemble.",
@@ -5908,10 +6022,12 @@
   "remarque": "Ce mot marque réunion, et se joint à des verbes et à leurs dérivés.",
   "page_pdf": 55,
   "remarque_brute": "Ce mot marque réunion, et se joint à des verbes et à leurs dérivés.",
-  "groupes_remarque": 0
+  "groupes_remarque": 0,
+  "id": "e57",
+  "vedette_brute": "Zusammen"
  },
  {
-  "vedette": "Zwischen",
+  "vedette": "zwischen-",
   "categorie": "pr.",
   "etymologie": "de zwei, deux. A. twix. L. dis. I. duis. enlre",
   "definition": "Ce préfixe, qui ne se compose pas avec des verbes, marque un état intermédiaire.",
@@ -6003,6 +6119,8 @@
   "remarque": "Quant aux mots et autres adverbes qui entrent dans la composition de quelques verbes et de leurs dérivés, on les trouve dans le corps de l’ouvrage.",
   "page_pdf": 56,
   "remarque_brute": "Quant aux mots früh, de bonne heure ; recht, droit ; lieb, cher, et autres adverbes qui entrent dans la composition de quelques verbes et de leurs dérivés, on les trouve dans le corps de l’ouvrage.",
-  "groupes_remarque": 3
+  "groupes_remarque": 3,
+  "id": "e58",
+  "vedette_brute": "Zwischen"
  }
 ]

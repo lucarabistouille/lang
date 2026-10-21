@@ -58,6 +58,12 @@ td.hide,.masque{filter:blur(7px);cursor:pointer;user-select:none}
 td.hide:hover{filter:none}
 footer{padding:2rem 16px;color:var(--mut);font:13px system-ui,sans-serif}
 footer a{color:var(--acc)}
+article.mot{padding:.45rem .9rem;margin:0 0 .45rem}
+article.mot .base{margin:.1rem 0}
+article.mot .ety{margin:0 0 .15rem}
+table.pairs.dico tr.base td{padding-top:.55rem}
+table.pairs.dico tr.et td{border-top:none;color:var(--mut);font-size:.88rem;padding-top:0;padding-bottom:.1rem;width:auto}
+table.pairs.dico tr.base.g1 td{border-top:1px solid var(--line)}
 .hidden{display:none}
 @media print{
  body{background:#fff;color:#000;font-size:10.5pt}

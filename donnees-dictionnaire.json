@@ -9,7 +9,7 @@
     "base": {
      "allemand_1855": "Aal",
      "allemand_moderne": "der Aal",
-     "francais": "anguille",
+     "francais": "anguille.",
      "pos": "nom",
      "article": "der",
      "pluriel": "die Aale",
@@ -19,7 +19,7 @@
      {
       "allemand_1855": "Aal-en",
       "allemand_moderne": "aalen",
-      "francais": "prendre des anguilles",
+      "francais": "prendre des anguilles.",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
@@ -28,7 +28,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e0",
+  "vedette_brute": "Aal"
  },
  {
   "vedette": "Aar",
@@ -40,7 +42,7 @@
     "base": {
      "allemand_1855": "Aar",
      "allemand_moderne": "der Aar",
-     "francais": "vautour, aigle",
+     "francais": "vautour, aigle.",
      "pos": "nom",
      "article": "der",
      "pluriel": "die Aare",
@@ -49,7 +51,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e1",
+  "vedette_brute": "Aar"
  },
  {
   "vedette": "Aas",
@@ -61,7 +65,7 @@
     "base": {
      "allemand_1855": "Aas",
      "allemand_moderne": "das Aas",
-     "francais": "pâture, appât, charogne",
+     "francais": "pâture, appât, charogne.",
      "pos": "nom",
      "article": "das",
      "pluriel": "die Äser",
@@ -71,16 +75,16 @@
      {
       "allemand_1855": "Aas-en",
       "allemand_moderne": "aasen",
-      "francais": "fouiller dans l’ordure, appâter",
+      "francais": "fouiller dans l’ordure, appâter.",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ab-aas-en",
-      "allemand_moderne": "abasen",
-      "francais": "pâturer, écharner (les cuirs)",
+      "allemand_1855": "Ab-Aas",
+      "allemand_moderne": "abaasen",
+      "francais": "pâturer, écharner (les cuirs).",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
@@ -89,7 +93,7 @@
      {
       "allemand_1855": "Aas-ig",
       "allemand_moderne": "aasig",
-      "francais": "cadavéreux, puant",
+      "francais": "cadavéreux, puant.",
       "pos": "adjectif",
       "article": "",
       "pluriel": "",
@@ -98,7 +102,7 @@
      {
       "allemand_1855": "Aas-haft",
       "allemand_moderne": "aashaft",
-      "francais": "cadavéreux, puant",
+      "francais": "cadavéreux, puant.",
       "pos": "adjectif",
       "article": "",
       "pluriel": "",
@@ -107,7 +111,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e2",
+  "vedette_brute": "Aas"
  },
  {
   "vedette": "Ab",
@@ -127,8 +133,8 @@
     },
     "derives": [
      {
-      "allemand_1855": "Ab-er",
-      "allemand_moderne": "aber",
+      "allemand_1855": "Ab-aber",
+      "allemand_moderne": "ababer",
       "francais": "en retour, au contraire",
       "pos": "adverbe",
       "article": "",
@@ -147,7 +153,7 @@
      {
       "allemand_1855": "Ab-mal-ig",
       "allemand_moderne": "abmalig",
-      "francais": "réciproque",
+      "francais": "récipr[c].",
       "pos": "adjectif",
       "article": "",
       "pluriel": "",
@@ -156,7 +162,7 @@
      {
       "allemand_1855": "Ab-er",
       "allemand_moderne": "aber",
-      "francais": "mais, cependant",
+      "francais": "mais, cependant.",
       "pos": "autre",
       "article": "",
       "pluriel": "",
@@ -165,7 +171,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e3",
+  "vedette_brute": "Ab"
  },
  {
   "vedette": "Ab-end",
@@ -177,7 +185,7 @@
     "base": {
      "allemand_1855": "Ab-end",
      "allemand_moderne": "der Abend",
-     "francais": "soir, occident",
+     "francais": "soir, occident.",
      "pos": "nom",
      "article": "der",
      "pluriel": "die Abende",
@@ -187,7 +195,7 @@
      {
       "allemand_1855": "Ab-ends",
       "allemand_moderne": "abends",
-      "francais": "au soir",
+      "francais": "au soir.",
       "pos": "adverbe",
       "article": "",
       "pluriel": "",
@@ -196,7 +204,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e4",
+  "vedette_brute": "Ab-end"
  },
  {
   "vedette": "Ab-er",
@@ -204,7 +214,9 @@
   "etymologie": "",
   "definition": "Voy. Ab.",
   "groupes": [],
-  "remarque": ""
+  "remarque": "",
+  "id": "e5",
+  "vedette_brute": "Ab-er"
  },
  {
   "vedette": "Abt",
@@ -216,7 +228,7 @@
     "base": {
      "allemand_1855": "Abt",
      "allemand_moderne": "der Abt",
-     "francais": "abbé",
+     "francais": "abbé.",
      "pos": "nom",
      "article": "der",
      "pluriel": "die Äbte",
@@ -226,52 +238,498 @@
      {
       "allemand_1855": "Abt-ei",
       "allemand_moderne": "die Abtei",
-      "francais": "abbaye",
+      "francais": "abbaye.",
       "pos": "nom",
       "article": "die",
       "pluriel": "die Abteien",
       "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "id": "e6",
+  "vedette_brute": "Abt"
+ },
+ {
+  "vedette": "Äbt-ei-lich",
+  "categorie": "a.",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Äbt-ei-lich",
+     "allemand_moderne": "abteieich",
+     "francais": "abbatiale.",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e7",
+  "vedette_brute": "Äbt-ei-lich"
+ },
+ {
+  "vedette": "Äbt-iss-in",
+  "categorie": "f. en",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Äbt-iss-in",
+     "allemand_moderne": "die Äbtissin",
+     "francais": "abbesse.",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Äbtissinnen",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e8",
+  "vedette_brute": "Äbt-iss-in"
+ },
+ {
+  "vedette": "Ach",
+  "categorie": "i.",
+  "etymologie": "A. ah. L. ah. G. ἄχ",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Ach",
+     "allemand_moderne": "ach",
+     "francais": "ah, hélas.",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e9",
+  "vedette_brute": "Ach"
+ },
+ {
+  "vedette": "Ächz-en",
+  "categorie": "v.",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Ächz-en",
+     "allemand_moderne": "ächzen",
+     "francais": "gémir.",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ab-ächz-en (sich)",
+      "allemand_moderne": "sich abächzen",
+      "francais": "se consumer en gémissements.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
      },
      {
-      "allemand_1855": "Äbt-ei-lich",
-      "allemand_moderne": "abteivlich",
-      "francais": "abbatiale",
+      "allemand_1855": "Aus-ächz-en",
+      "allemand_moderne": "ausächzen",
+      "francais": "cesser de soupirer, expirer en gémissant.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Er-ächz-en",
+      "allemand_moderne": "erächzen",
+      "francais": "obtenir par des gémissements.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Vor-ächz-en",
+      "allemand_moderne": "vorächzen",
+      "francais": "gémir devant quelqu’un.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Geächz-e",
+      "allemand_moderne": "das Geächze",
+      "francais": "gémissement.",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "id": "e10",
+  "vedette_brute": "Ächz-en"
+ },
+ {
+  "vedette": "Ach",
+  "categorie": "f. inus.",
+  "etymologie": "Go. ahva. L. aqua. I. ap",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Ach",
+     "allemand_moderne": "die Ach",
+     "francais": "eau, (terminaison de noms de villes).",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e11",
+  "vedette_brute": "Ach"
+ },
+ {
+  "vedette": "Ach-el",
+  "categorie": "f. n",
+  "etymologie": "de ed, pointe. L. acus. G. ἄχυς",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Ach-el",
+     "allemand_moderne": "die Ächel",
+     "francais": "barbe de blé.",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Ächeln",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e12",
+  "vedette_brute": "Ach-el"
+ },
+ {
+  "vedette": "Achs-e",
+  "categorie": "f. n",
+  "etymologie": "A. axle. L. axis. G. ἄξων",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Achs-e",
+     "allemand_moderne": "die Achse",
+     "francais": "axe, essieu.",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Achsen",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e13",
+  "vedette_brute": "Achs-e"
+ },
+ {
+  "vedette": "Achs-el",
+  "categorie": "f. n",
+  "etymologie": "L. axilla",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Achs-el",
+     "allemand_moderne": "die Achsel",
+     "francais": "épaule.",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Achseln",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e14",
+  "vedette_brute": "Achs-el"
+ },
+ {
+  "vedette": "Acht",
+  "categorie": "nomb.",
+  "etymologie": "A. eight. Go. ahtau. I. octo. G. ὀκτώ. I. astan",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Acht",
+     "allemand_moderne": "acht",
+     "francais": "huit.",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Acht-e",
+      "allemand_moderne": "achte",
+      "francais": "huitième",
       "pos": "adjectif",
       "article": "",
       "pluriel": "",
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Äbt-iss-in",
-      "allemand_moderne": "die Äbtissin",
-      "francais": "abbesse",
+      "allemand_1855": "Acht-el",
+      "allemand_moderne": "das Achtel",
+      "francais": "huitième partie, croche (en musique)",
       "pos": "nom",
-      "article": "die",
-      "pluriel": "die Äbtissinnen",
+      "article": "das",
+      "pluriel": "die Achtel",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Acht-ens",
+      "allemand_moderne": "achtens",
+      "francais": "huitièmement.",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e15",
+  "vedette_brute": "Acht"
  },
  {
-  "vedette": "Ver-ächt-er",
-  "categorie": "m. —er-in, f.",
+  "vedette": "Acht-zehn",
+  "categorie": "nomb.",
   "etymologie": "",
   "definition": "",
   "groupes": [
    {
     "base": {
-     "allemand_1855": "Ver-ächt-er",
-     "allemand_moderne": "der Verächter",
-     "francais": "contempteur",
+     "allemand_1855": "Acht-zehn",
+     "allemand_moderne": "achtzehn",
+     "francais": "dix-huit.",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e16",
+  "vedette_brute": "Acht-zehn"
+ },
+ {
+  "vedette": "Acht-zig",
+  "categorie": "nomb.",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Acht-zig",
+     "allemand_moderne": "achtzig",
+     "francais": "quatre-vingts.",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e17",
+  "vedette_brute": "Acht-zig"
+ },
+ {
+  "vedette": "Acht",
+  "categorie": "f.",
+  "etymologie": "A. awe. T. aha. G. ἄχνη",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Acht",
+     "allemand_moderne": "die Acht",
+     "francais": "réflexion, attention.",
      "pos": "nom",
-     "article": "der",
-     "pluriel": "die Verächter",
+     "article": "die",
+     "pluriel": "",
      "irreguliers": ""
     },
     "derives": [
+     {
+      "allemand_1855": "Acht-en",
+      "allemand_moderne": "achten",
+      "francais": "faire attention, juger, estimer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "achtet, achtete, geachtet"
+     },
+     {
+      "allemand_1855": "Acht-ung",
+      "allemand_moderne": "die Achtung",
+      "francais": "attention, estime.",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Achtungen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Be-acht-en",
+      "allemand_moderne": "beachten",
+      "francais": "remarquer, suivre (un conseil).",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "beachtet, beachtete, beachtet"
+     },
+     {
+      "allemand_1855": "Er-acht-en",
+      "allemand_moderne": "erachten",
+      "francais": "penser, juger",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "erachtet, erachtete, erachtet"
+     },
+     {
+      "allemand_1855": "Er-acht-en",
+      "allemand_moderne": "das Erachten",
+      "francais": "opinion.",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Gut-acht-en",
+      "allemand_moderne": "gutachten",
+      "francais": "juger bon, être d’avis",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "gutachtet, gutachtete, gutgeachtet"
+     },
+     {
+      "allemand_1855": "Gut-acht-en",
+      "allemand_moderne": "das Gutachten",
+      "francais": "avis.",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Gutachten",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Ob-acht",
+      "allemand_moderne": "die Obacht",
+      "francais": "soin, surveillance.",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Be-ob-acht-en",
+      "allemand_moderne": "beobachten",
+      "francais": "observer, remplir (un devoir)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "beobachtet, beobachtete, beobachtet"
+     },
+     {
+      "allemand_1855": "Be-ob-acht-ung",
+      "allemand_moderne": "die Beobachtung",
+      "francais": "observation",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Beobachtungen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Be-ob-acht-er",
+      "allemand_moderne": "der Beobachter",
+      "francais": "observateur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Beobachter",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Be-ob-acht-er-in",
+      "allemand_moderne": "die Beobachterin",
+      "francais": "observatrice.",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Beobachterinnen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Ver-acht-en",
+      "allemand_moderne": "verachten",
+      "francais": "mépriser",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "verachtet, verachtete, verachtet"
+     },
+     {
+      "allemand_1855": "Ver-acht-ung",
+      "allemand_moderne": "die Verachtung",
+      "francais": "mépris.",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Verachtungen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Ver-ächt-er",
+      "allemand_moderne": "der Verächter",
+      "francais": "contempteur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Verächter",
+      "irreguliers": ""
+     },
      {
       "allemand_1855": "Ver-ächt-er-in",
       "allemand_moderne": "die Verächterin",
@@ -293,16 +751,18 @@
      {
       "allemand_1855": "Ver-ächt-lich-keit",
       "allemand_moderne": "die Verächtlichkeit",
-      "francais": "qualité de ce qui est méprisable",
+      "francais": "qualité de ce qui est méprisable.",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Verächtlichkeiten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e18",
+  "vedette_brute": "Acht"
  },
  {
   "vedette": "Acht-bar",
@@ -327,13 +787,15 @@
       "francais": "qualité de ce qui est estimable",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Achtbarkeiten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e19",
+  "vedette_brute": "Acht-bar"
  },
  {
   "vedette": "Acht-los",
@@ -358,13 +820,15 @@
       "francais": "négligence",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Achtlosigkeiten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e20",
+  "vedette_brute": "Acht-los"
  },
  {
   "vedette": "Acht-sam",
@@ -391,29 +855,16 @@
       "article": "die",
       "pluriel": "",
       "irreguliers": ""
-     }
-    ]
-   }
-  ],
-  "remarque": ""
- },
- {
-  "vedette": "Un-acht-sam",
-  "categorie": "a.",
-  "etymologie": "",
-  "definition": "",
-  "groupes": [
-   {
-    "base": {
-     "allemand_1855": "Un-acht-sam",
-     "allemand_moderne": "unachtsam",
-     "francais": "inattentif",
-     "pos": "adjectif",
-     "article": "",
-     "pluriel": "",
-     "irreguliers": ""
-    },
-    "derives": [
+     },
+     {
+      "allemand_1855": "Un-acht-sam",
+      "allemand_moderne": "unachtsam",
+      "francais": "inattentif",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
      {
       "allemand_1855": "Un-acht-sam-keit",
       "allemand_moderne": "die Unachtsamkeit",
@@ -422,32 +873,22 @@
       "article": "die",
       "pluriel": "",
       "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Un-ge-acht-et",
+      "allemand_moderne": "ungeachtet",
+      "francais": "nonobstant",
+      "pos": "autre",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
- },
- {
-  "vedette": "Un-ge-acht-et",
-  "categorie": "pr.",
-  "etymologie": "",
-  "definition": "",
-  "groupes": [
-   {
-    "base": {
-     "allemand_1855": "Un-ge-acht-et",
-     "allemand_moderne": "ungeachtet",
-     "francais": "nonobstant",
-     "pos": "autre",
-     "article": "",
-     "pluriel": "",
-     "irreguliers": ""
-    },
-    "derives": []
-   }
-  ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e21",
+  "vedette_brute": "Acht-sam"
  },
  {
   "vedette": "Acht",
@@ -465,20 +906,35 @@
      "pluriel": "",
      "irreguliers": ""
     },
-    "derives": [
-     {
-      "allemand_1855": "Acht-en",
-      "allemand_moderne": "ächten",
-      "francais": "proscrire",
-      "pos": "verbe",
-      "article": "",
-      "pluriel": "",
-      "irreguliers": ""
-     }
-    ]
+    "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e22",
+  "vedette_brute": "Acht"
+ },
+ {
+  "vedette": "Acht-en",
+  "categorie": "v.",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Acht-en",
+     "allemand_moderne": "achten",
+     "francais": "proscrire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e23",
+  "vedette_brute": "Acht-en"
  },
  {
   "vedette": "Ächz-en",
@@ -486,11 +942,13 @@
   "etymologie": "",
   "definition": "Voy. Ach.",
   "groupes": [],
-  "remarque": ""
+  "remarque": "",
+  "id": "e24",
+  "vedette_brute": "Ächz-en"
  },
  {
   "vedette": "Ack-er",
-  "categorie": "m.* —",
+  "categorie": "m.*",
   "etymologie": "A. acre. Go. akrs. L. ager. G. ἀγρός",
   "definition": "",
   "groupes": [
@@ -515,7 +973,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ab-ack-er-n",
+      "allemand_1855": "Ab-Ack-er-n",
       "allemand_moderne": "abackern",
       "francais": "ôter en labourant",
       "pos": "verbe",
@@ -524,7 +982,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Auf-ack-er-n",
+      "allemand_1855": "Auf-Ack-er-n",
       "allemand_moderne": "aufackern",
       "francais": "déterrer en labourant",
       "pos": "verbe",
@@ -533,7 +991,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Aus-ack-er-n",
+      "allemand_1855": "Aus-Ack-er-n",
       "allemand_moderne": "ausackern",
       "francais": "arracher en labourant",
       "pos": "verbe",
@@ -542,7 +1000,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Be-ack-er-n",
+      "allemand_1855": "Be-Ack-er-n",
       "allemand_moderne": "beackern",
       "francais": "labourer avec la charrue",
       "pos": "verbe",
@@ -551,7 +1009,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Durch-ack-er-n",
+      "allemand_1855": "Durch-Ack-er-n",
       "allemand_moderne": "durchackern",
       "francais": "achever de labourer, percer en labourant",
       "pos": "verbe",
@@ -560,7 +1018,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Er-ack-er-n",
+      "allemand_1855": "Er-Ack-er-n",
       "allemand_moderne": "erackern",
       "francais": "gagner en labourant",
       "pos": "verbe",
@@ -569,7 +1027,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Fort-ack-er-n",
+      "allemand_1855": "Fort-Ack-er-n",
       "allemand_moderne": "fortackern",
       "francais": "continuer à labourer",
       "pos": "verbe",
@@ -578,7 +1036,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Mit-ack-er-n",
+      "allemand_1855": "Mit-Ack-er-n",
       "allemand_moderne": "mitackern",
       "francais": "aider à labourer",
       "pos": "verbe",
@@ -587,7 +1045,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Nach-ack-er-n",
+      "allemand_1855": "Nach-Ack-er-n",
       "allemand_moderne": "nachackern",
       "francais": "labourer après qn.",
       "pos": "verbe",
@@ -596,7 +1054,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Üb-er-ack-er-n",
+      "allemand_1855": "Üb-er-Ack-er-n",
       "allemand_moderne": "überackern",
       "francais": "labourer légèrement, empiéter en labourant",
       "pos": "verbe",
@@ -605,7 +1063,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Um-ack-er-n",
+      "allemand_1855": "Um-Ack-er-n",
       "allemand_moderne": "umackern",
       "francais": "labourer autour, labourer de nouveau",
       "pos": "verbe",
@@ -614,7 +1072,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Vor-ack-er-n",
+      "allemand_1855": "Vor-Ack-er-n",
       "allemand_moderne": "vorackern",
       "francais": "montrer à labourer",
       "pos": "verbe",
@@ -652,7 +1110,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e25",
+  "vedette_brute": "Ack-er"
  },
  {
   "vedette": "Act",
@@ -667,7 +1127,7 @@
      "francais": "acte, document",
      "pos": "nom",
      "article": "der",
-     "pluriel": "die Akte",
+     "pluriel": "die Akten",
      "irreguliers": ""
     },
     "derives": [
@@ -692,7 +1152,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e26",
+  "vedette_brute": "Act"
  },
  {
   "vedette": "Ad-el",
@@ -721,7 +1183,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ent-ad-el-n",
+      "allemand_1855": "Ent-Ad-el-n",
       "allemand_moderne": "entadeln",
       "francais": "dépouiller de la noblesse, dégrader",
       "pos": "verbe",
@@ -730,12 +1192,12 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ent-ad-el-ung",
+      "allemand_1855": "Ent-Ad-el-ung",
       "allemand_moderne": "die Entadelung",
       "francais": "dégradation",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Entadelungen",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
@@ -750,7 +1212,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e27",
+  "vedette_brute": "Ad-el"
  },
  {
   "vedette": "Ad-er",
@@ -790,11 +1254,13 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e28",
+  "vedette_brute": "Ad-er"
  },
  {
-  "vedette": "Adler",
-  "categorie": "m.",
+  "vedette": "Adl-er",
+  "categorie": "m. —",
   "etymologie": "pour Ad-el-ar, noble oiseau",
   "definition": "",
   "groupes": [
@@ -811,10 +1277,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e29",
+  "vedette_brute": "Adl-er"
  },
  {
-  "vedette": "Affe",
+  "vedette": "Aff-e",
   "categorie": "m. n",
   "etymologie": "de ah-en, imiter? A. ape",
   "definition": "",
@@ -849,7 +1317,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Nach-äff-en",
+      "allemand_1855": "Nach-Aff-en",
       "allemand_moderne": "nachäffen",
       "francais": "singer, contrefaire",
       "pos": "verbe",
@@ -869,10 +1337,12 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e30",
+  "vedette_brute": "Aff-e"
  },
  {
-  "vedette": "After",
+  "vedette": "Af-ter",
   "categorie": "ad.",
   "etymologie": "de ab, loin. A. af-ter",
   "definition": "",
@@ -900,10 +1370,12 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e31",
+  "vedette_brute": "Af-ter"
  },
  {
-  "vedette": "Ahle",
+  "vedette": "Ahl-e",
   "categorie": "f. n.",
   "etymologie": "A. awl. L. aculeus. G. ἄχις",
   "definition": "",
@@ -921,10 +1393,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e32",
+  "vedette_brute": "Ahl-e"
  },
  {
-  "vedette": "Ahmen",
+  "vedette": "Ahm-en",
   "categorie": "v. inus.",
   "etymologie": "L. imitator ?",
   "definition": "",
@@ -933,7 +1407,7 @@
     "base": {
      "allemand_1855": "Ahm-en",
      "allemand_moderne": "ahmen",
-     "francais": "",
+     "francais": "penser, pressentir",
      "pos": "verbe",
      "article": "",
      "pluriel": "",
@@ -941,7 +1415,7 @@
     },
     "derives": [
      {
-      "allemand_1855": "Nach-ahm-en",
+      "allemand_1855": "Nach-Ahm-en",
       "allemand_moderne": "nachahmen",
       "francais": "imiter",
       "pos": "verbe",
@@ -950,16 +1424,16 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Nach-ahm-ung",
+      "allemand_1855": "Nach-Ahm-ung",
       "allemand_moderne": "die Nachahmung",
       "francais": "imitation",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Nachahmungen",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Nach-ahm-er",
+      "allemand_1855": "Nach-Ahm-er",
       "allemand_moderne": "der Nachahmer",
       "francais": "imitateur",
       "pos": "nom",
@@ -968,7 +1442,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Nach-ahm-er-in",
+      "allemand_1855": "Nach-Ahm-er-in",
       "allemand_moderne": "die Nachahmerin",
       "francais": "imitatrice",
       "pos": "nom",
@@ -1000,13 +1474,15 @@
       "francais": "inimitabilité",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Unnachahmlichkeiten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e33",
+  "vedette_brute": "Ahm-en"
  },
  {
   "vedette": "Ahn",
@@ -1046,10 +1522,12 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e34",
+  "vedette_brute": "Ahn"
  },
  {
-  "vedette": "Ahne",
+  "vedette": "Ahn-e",
   "categorie": "f. n.",
   "etymologie": "A. awn. G. ἄχυρον",
   "definition": "",
@@ -1067,10 +1545,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e35",
+  "vedette_brute": "Ahn-e"
  },
  {
-  "vedette": "Ahnen",
+  "vedette": "Ahn-en",
   "categorie": "v.",
   "etymologie": "Go. ahia. G. ἄγω",
   "definition": "",
@@ -1098,7 +1578,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e36",
+  "vedette_brute": "Ahn-en"
  },
  {
   "vedette": "Ahnden",
@@ -1119,17 +1601,19 @@
     "derives": [
      {
       "allemand_1855": "Ahnd-ung",
-      "allemand_moderne": "die Ahndung",
+      "allemand_moderne": "Ahndung",
       "francais": "pressentiment",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Ahndungen",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e37",
+  "vedette_brute": "Ahnden"
  },
  {
   "vedette": "Ahnden",
@@ -1150,20 +1634,22 @@
     "derives": [
      {
       "allemand_1855": "Ahnd-ung",
-      "allemand_moderne": "die Ahndung",
+      "allemand_moderne": "Ahndung",
       "francais": "vengeance, punition",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Ahndungen",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e38",
+  "vedette_brute": "Ahnden"
  },
  {
-  "vedette": "Ähnlich",
+  "vedette": "Ahnlich ou änlich",
   "categorie": "a.",
   "etymologie": "pour an-leich, presque égal. A. alih. Go. leiks. G. ἄεικες",
   "definition": "",
@@ -1190,11 +1676,11 @@
      },
      {
       "allemand_1855": "Ähn-lich-keit",
-      "allemand_moderne": "die Ähnlichkeit",
+      "allemand_moderne": "Ähnlichkeit",
       "francais": "ressemblance",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Ähnlichkeiten",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
@@ -1208,20 +1694,22 @@
      },
      {
       "allemand_1855": "Un-ähn-lich-keit",
-      "allemand_moderne": "die Unähnlichkeit",
+      "allemand_moderne": "Unähnlichkeit",
       "francais": "dissemblance",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Unähnlichkeiten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e39",
+  "vedette_brute": "Ahnlich ou änlich"
  },
  {
-  "vedette": "Ahorn",
+  "vedette": "Ahvrn",
   "categorie": "m. e",
   "etymologie": "L. acernus, acer",
   "definition": "",
@@ -1239,10 +1727,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e40",
+  "vedette_brute": "Ahvrn"
  },
  {
-  "vedette": "Ähre",
+  "vedette": "Ahre",
   "categorie": "f. n.",
   "etymologie": "A. ear. Go. aha. L. acus. G. ἄχυρον, ἄχις",
   "definition": "",
@@ -1260,7 +1750,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e41",
+  "vedette_brute": "Ahre"
  },
  {
   "vedette": "Alant",
@@ -1281,7 +1773,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e42",
+  "vedette_brute": "Alant"
  },
  {
   "vedette": "Alaun",
@@ -1299,20 +1793,35 @@
      "pluriel": "die Alaune",
      "irreguliers": ""
     },
-    "derives": [
-     {
-      "allemand_1855": "Al-aun-en",
-      "allemand_moderne": "alaunen",
-      "francais": "aluner",
-      "pos": "verbe",
-      "article": "",
-      "pluriel": "",
-      "irreguliers": ""
-     }
-    ]
+    "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e43",
+  "vedette_brute": "Alaun"
+ },
+ {
+  "vedette": "Alaunen",
+  "categorie": "v.",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Al-aun-en",
+     "allemand_moderne": "alaunen",
+     "francais": "aluner",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "",
+  "id": "e44",
+  "vedette_brute": "Alaunen"
  },
  {
   "vedette": "Albern",
@@ -1333,17 +1842,19 @@
     "derives": [
      {
       "allemand_1855": "Al-bern-heit",
-      "allemand_moderne": "die Albernheit",
+      "allemand_moderne": "Albernheit",
       "francais": "niaiserie",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Albernheiten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e45",
+  "vedette_brute": "Albern"
  },
  {
   "vedette": "Alfanz",
@@ -1351,7 +1862,9 @@
   "etymologie": "",
   "definition": "Voy. Fanz.",
   "groupes": [],
-  "remarque": ""
+  "remarque": "",
+  "id": "e46",
+  "vedette_brute": "Alfanz"
  },
  {
   "vedette": "All",
@@ -1372,11 +1885,11 @@
     "derives": [
      {
       "allemand_1855": "All",
-      "allemand_moderne": "das All",
+      "allemand_moderne": "All",
       "francais": "tout, univers",
       "pos": "nom",
       "article": "das",
-      "pluriel": "die Allen",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
@@ -1391,11 +1904,13 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e47",
+  "vedette_brute": "All"
  },
  {
   "vedette": "Allein",
-  "categorie": "ad. c.",
+  "categorie": "ad.",
   "etymologie": "pour all-ein, tout un",
   "definition": "",
   "groupes": [
@@ -1422,7 +1937,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "c. mais.",
+  "id": "e48",
+  "vedette_brute": "Allein"
  },
  {
   "vedette": "Alp",
@@ -1437,23 +1954,25 @@
      "francais": "gnome, cauchemar",
      "pos": "nom",
      "article": "der",
-     "pluriel": "",
+     "pluriel": "die Alpe",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e49",
+  "vedette_brute": "Alp"
  },
  {
   "vedette": "Alpe",
-  "categorie": "f. n",
+  "categorie": "f. n,",
   "etymologie": "A. alp. L. alpis",
   "definition": "",
   "groupes": [
    {
     "base": {
-     "allemand_1855": "Alpe",
+     "allemand_1855": "Alp-e",
      "allemand_moderne": "die Alpe",
      "francais": "montagne, alpe",
      "pos": "nom",
@@ -1464,15 +1983,19 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e50",
+  "vedette_brute": "Alpe"
  },
  {
-  "vedette": "Al-raun",
+  "vedette": "Alraun",
   "categorie": "",
   "etymologie": "",
   "definition": "Voy. Raun-en.",
   "groupes": [],
-  "remarque": ""
+  "remarque": "",
+  "id": "e51",
+  "vedette_brute": "Alraun"
  },
  {
   "vedette": "Als",
@@ -1521,49 +2044,55 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e52",
+  "vedette_brute": "Als"
  },
  {
   "vedette": "Alse ou Else",
-  "categorie": "f. n",
+  "categorie": "f. n,",
   "etymologie": "A. alose. L. alosa",
   "definition": "",
   "groupes": [
    {
     "base": {
-     "allemand_1855": "Alse ou Else",
-     "allemand_moderne": "die Alse oder Else",
+     "allemand_1855": "Alse ou El-se",
+     "allemand_moderne": "die Alse",
      "francais": "alose (poisson)",
      "pos": "nom",
      "article": "die",
-     "pluriel": "die Alsen oder Elsen",
+     "pluriel": "die Alsen",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e53",
+  "vedette_brute": "Alse ou Else"
  },
  {
   "vedette": "Alster ou Elster",
-  "categorie": "f. n",
+  "categorie": "f. n.",
   "etymologie": "pour A-glast-er, de gall-en, crier",
   "definition": "",
   "groupes": [
    {
     "base": {
      "allemand_1855": "Alst-er ou Elst-er",
-     "allemand_moderne": "die Alster oder Elster",
+     "allemand_moderne": "die Elster",
      "francais": "pie",
      "pos": "nom",
      "article": "die",
-     "pluriel": "die Alstern oder Elstern",
+     "pluriel": "die Elstern",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e54",
+  "vedette_brute": "Alster ou Elster"
  },
  {
   "vedette": "Alt",
@@ -1584,7 +2113,7 @@
     "derives": [
      {
       "allemand_1855": "Alt-er",
-      "allemand_moderne": "das Alter",
+      "allemand_moderne": "Alter",
       "francais": "âge, vieillesse",
       "pos": "nom",
       "article": "das",
@@ -1620,10 +2149,10 @@
      },
      {
       "allemand_1855": "Alt-er-n ou Elt-er-n",
-      "allemand_moderne": "altern oder eltern",
+      "allemand_moderne": "Eltern",
       "francais": "père et mère, parents",
       "pos": "nom",
-      "article": "",
+      "article": "die",
       "pluriel": "die Eltern",
       "irreguliers": ""
      },
@@ -1632,7 +2161,7 @@
       "allemand_moderne": "Großeltern",
       "francais": "grands parents",
       "pos": "nom",
-      "article": "",
+      "article": "die",
       "pluriel": "die Großeltern",
       "irreguliers": ""
      },
@@ -1641,13 +2170,13 @@
       "allemand_moderne": "Vorfahren",
       "francais": "ancêtres",
       "pos": "nom",
-      "article": "",
+      "article": "die",
       "pluriel": "die Vorfahren",
       "irreguliers": ""
      },
      {
       "allemand_1855": "Alt-er-lich",
-      "allemand_moderne": "alterlich",
+      "allemand_moderne": "elterlich",
       "francais": "de père et mère, patrimonial",
       "pos": "adjectif",
       "article": "",
@@ -1666,10 +2195,12 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e55",
+  "vedette_brute": "Alt"
  },
  {
-  "vedette": "Alt-er-thum",
+  "vedette": "Alterthum",
   "categorie": "n. *er",
   "etymologie": "",
   "definition": "",
@@ -1697,7 +2228,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e56",
+  "vedette_brute": "Alterthum"
  },
  {
   "vedette": "Alt",
@@ -1708,20 +2241,22 @@
    {
     "base": {
      "allemand_1855": "Alt",
-     "allemand_moderne": "der Alt",
+     "allemand_moderne": "Alt",
      "francais": "haute-contre",
      "pos": "nom",
      "article": "der",
-     "pluriel": "die Alte",
+     "pluriel": "",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e57",
+  "vedette_brute": "Alt"
  },
  {
-  "vedette": "Alt-an",
+  "vedette": "Altan",
   "categorie": "m. e",
   "etymologie": "L. altum",
   "definition": "",
@@ -1729,7 +2264,7 @@
    {
     "base": {
      "allemand_1855": "Alt-an",
-     "allemand_moderne": "der Altan",
+     "allemand_moderne": "Altan",
      "francais": "plateforme, balcon",
      "pos": "nom",
      "article": "der",
@@ -1739,10 +2274,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e58",
+  "vedette_brute": "Altan"
  },
  {
-  "vedette": "Alt-ar",
+  "vedette": "Altar",
   "categorie": "m. *e",
   "etymologie": "L. altar",
   "definition": "",
@@ -1750,7 +2287,7 @@
    {
     "base": {
      "allemand_1855": "Alt-ar",
-     "allemand_moderne": "der Altar",
+     "allemand_moderne": "Altar",
      "francais": "autel",
      "pos": "nom",
      "article": "der",
@@ -1760,10 +2297,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e59",
+  "vedette_brute": "Altar"
  },
  {
-  "vedette": "Amb-er",
+  "vedette": "Amber",
   "categorie": "m.",
   "etymologie": "de emm-er, braise. L. ambar",
   "definition": "",
@@ -1771,7 +2310,7 @@
    {
     "base": {
      "allemand_1855": "Amb-er",
-     "allemand_moderne": "der Amber",
+     "allemand_moderne": "Amber",
      "francais": "ambre",
      "pos": "nom",
      "article": "der",
@@ -1781,10 +2320,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e60",
+  "vedette_brute": "Amber"
  },
  {
-  "vedette": "Amb-oß",
+  "vedette": "Amboß",
   "categorie": "m. e",
   "etymologie": "de an, sur, et boß-en, battre",
   "definition": "",
@@ -1792,7 +2333,7 @@
    {
     "base": {
      "allemand_1855": "Amb-oß",
-     "allemand_moderne": "der Amboss",
+     "allemand_moderne": "Amboss",
      "francais": "enclume",
      "pos": "nom",
      "article": "der",
@@ -1802,10 +2343,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e61",
+  "vedette_brute": "Amboß"
  },
  {
-  "vedette": "Am-eis-e",
+  "vedette": "Ameise",
   "categorie": "f. n",
   "etymologie": "de ems-e, travail, ou de a-muss-e, sans repos. A. emmet",
   "definition": "",
@@ -1813,7 +2356,7 @@
    {
     "base": {
      "allemand_1855": "Am-eis-e",
-     "allemand_moderne": "die Ameise",
+     "allemand_moderne": "Ameise",
      "francais": "fourmi",
      "pos": "nom",
      "article": "die",
@@ -1823,10 +2366,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e62",
+  "vedette_brute": "Ameise"
  },
  {
-  "vedette": "Amm-e",
+  "vedette": "Amme",
   "categorie": "f. n",
   "etymologie": "L. amita. H. aem. I. ambá",
   "definition": "",
@@ -1834,7 +2379,7 @@
    {
     "base": {
      "allemand_1855": "Amm-e",
-     "allemand_moderne": "die Amme",
+     "allemand_moderne": "Amme",
      "francais": "nourrice",
      "pos": "nom",
      "article": "die",
@@ -1844,10 +2389,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e63",
+  "vedette_brute": "Amme"
  },
  {
-  "vedette": "Amm-et",
+  "vedette": "Ammet",
   "categorie": "m. —",
   "etymologie": "de emm-er, braise. A. hammer",
   "definition": "",
@@ -1855,7 +2402,7 @@
    {
     "base": {
      "allemand_1855": "Amm-et",
-     "allemand_moderne": "der Ammet",
+     "allemand_moderne": "Ammet",
      "francais": "embérise, ortolan jaune",
      "pos": "nom",
      "article": "der",
@@ -1865,10 +2412,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e64",
+  "vedette_brute": "Ammet"
  },
  {
-  "vedette": "Amp-el",
+  "vedette": "Ampel",
   "categorie": "f. n",
   "etymologie": "L. ampulla",
   "definition": "",
@@ -1876,7 +2425,7 @@
    {
     "base": {
      "allemand_1855": "Amp-el",
-     "allemand_moderne": "die Ampel",
+     "allemand_moderne": "Ampel",
      "francais": "lampe",
      "pos": "nom",
      "article": "die",
@@ -1886,10 +2435,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e65",
+  "vedette_brute": "Ampel"
  },
  {
-  "vedette": "Ampf-er",
+  "vedette": "Ampfer",
   "categorie": "m. —",
   "etymologie": "L. asper ?",
   "definition": "",
@@ -1897,7 +2448,7 @@
    {
     "base": {
      "allemand_1855": "Ampf-er",
-     "allemand_moderne": "der Ampfer",
+     "allemand_moderne": "Ampfer",
      "francais": "surette",
      "pos": "nom",
      "article": "der",
@@ -1907,7 +2458,7 @@
     "derives": [
      {
       "allemand_1855": "Sauer-ampfer",
-      "allemand_moderne": "der Sauerampfer",
+      "allemand_moderne": "Sauerampfer",
       "francais": "oseille",
       "pos": "nom",
       "article": "der",
@@ -1917,10 +2468,12 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e66",
+  "vedette_brute": "Ampfer"
  },
  {
-  "vedette": "Ams-e",
+  "vedette": "Amse",
   "categorie": "f. n",
   "etymologie": "de emm-er, braise? A. owsel",
   "definition": "",
@@ -1928,7 +2481,7 @@
    {
     "base": {
      "allemand_1855": "Ams-e",
-     "allemand_moderne": "die Amsel",
+     "allemand_moderne": "Amsel",
      "francais": "merle",
      "pos": "nom",
      "article": "die",
@@ -1938,15 +2491,19 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e67",
+  "vedette_brute": "Amse"
  },
  {
-  "vedette": "Ams-ig",
+  "vedette": "Amsig",
   "categorie": "",
   "etymologie": "",
   "definition": "Voy. Ems-ig.",
   "groupes": [],
-  "remarque": ""
+  "remarque": "",
+  "id": "e68",
+  "vedette_brute": "Amsig"
  },
  {
   "vedette": "Amt",
@@ -1957,8 +2514,8 @@
    {
     "base": {
      "allemand_1855": "Amt",
-     "allemand_moderne": "das Amt",
-     "francais": "charge, fonction, bailliage.",
+     "allemand_moderne": "Amt",
+     "francais": "charge, fonction, bailliage",
      "pos": "nom",
      "article": "das",
      "pluriel": "die Ämter",
@@ -1967,26 +2524,28 @@
     "derives": [
      {
       "allemand_1855": "Amt-mann",
-      "allemand_moderne": "der Amtmann",
-      "francais": "bailli.",
+      "allemand_moderne": "Amtmann",
+      "francais": "bailli",
       "pos": "nom",
       "article": "der",
-      "pluriel": "die Amtleute",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
       "allemand_1855": "Be-amt-e",
-      "allemand_moderne": "der Beamte",
-      "francais": "fonctionnaire.",
+      "allemand_moderne": "Beamte",
+      "francais": "fonctionnaire",
       "pos": "nom",
       "article": "der",
-      "pluriel": "die Beamten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e69",
+  "vedette_brute": "Amt"
  },
  {
   "vedette": "An",
@@ -1998,7 +2557,7 @@
     "base": {
      "allemand_1855": "An",
      "allemand_moderne": "an",
-     "francais": "à, sur, vers, en (marque rapprochement, application).",
+     "francais": "à, sur, vers, en (marque rapprochement, application)",
      "pos": "autre",
      "article": "",
      "pluriel": "",
@@ -2007,7 +2566,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e70",
+  "vedette_brute": "An"
  },
  {
   "vedette": "Ander",
@@ -2019,7 +2580,7 @@
     "base": {
      "allemand_1855": "And-er",
      "allemand_moderne": "ander",
-     "francais": "autre, second.",
+     "francais": "autre, second",
      "pos": "adjectif",
      "article": "",
      "pluriel": "",
@@ -2028,7 +2589,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e71",
+  "vedette_brute": "Ander"
  },
  {
   "vedette": "Ander",
@@ -2040,7 +2603,7 @@
     "base": {
      "allemand_1855": "And-er",
      "allemand_moderne": "ander",
-     "francais": "autre, second.",
+     "francais": "autre, second",
      "pos": "adjectif",
      "article": "",
      "pluriel": "",
@@ -2049,10 +2612,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e72",
+  "vedette_brute": "Ander"
  },
  {
-  "vedette": "Änders",
+  "vedette": "Anders",
   "categorie": "ad.",
   "etymologie": "",
   "definition": "",
@@ -2061,7 +2626,7 @@
     "base": {
      "allemand_1855": "Änd-ers",
      "allemand_moderne": "anders",
-     "francais": "autrement, différemment.",
+     "francais": "autrement, différemment",
      "pos": "adverbe",
      "article": "",
      "pluriel": "",
@@ -2070,7 +2635,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e73",
+  "vedette_brute": "Anders"
  },
  {
   "vedette": "Ändern",
@@ -2092,16 +2659,18 @@
      {
       "allemand_1855": "Änd-er-ung",
       "allemand_moderne": "Änderung",
-      "francais": "changement.",
+      "francais": "changement",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Änderungen",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e74",
+  "vedette_brute": "Ändern"
  },
  {
   "vedette": "Abändern",
@@ -2123,10 +2692,10 @@
      {
       "allemand_1855": "Ab-änd-er-ung",
       "allemand_moderne": "Abänderung",
-      "francais": "modification.",
+      "francais": "modification",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Abänderungen",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
@@ -2141,10 +2710,10 @@
      {
       "allemand_1855": "Um-änd-er-ung",
       "allemand_moderne": "Umänderung",
-      "francais": "métamorphose.",
+      "francais": "métamorphose",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Umänderungen",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
@@ -2162,7 +2731,7 @@
       "francais": "changement",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Veränderungen",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
@@ -2177,47 +2746,36 @@
      {
       "allemand_1855": "Ver-änd-er-lich-keit",
       "allemand_moderne": "Veränderlichkeit",
-      "francais": "variabilité.",
+      "francais": "variabilité",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Veränderlichkeiten",
+      "pluriel": "",
       "irreguliers": ""
-     }
-    ]
-   }
-  ],
-  "remarque": ""
- },
- {
-  "vedette": "Unveränderlich",
-  "categorie": "",
-  "etymologie": "",
-  "definition": "",
-  "groupes": [
-   {
-    "base": {
-     "allemand_1855": "Un-ver-änd-er-lich",
-     "allemand_moderne": "unveränderlich",
-     "francais": "invariable",
-     "pos": "adjectif",
-     "article": "",
-     "pluriel": "",
-     "irreguliers": ""
-    },
-    "derives": [
+     },
+     {
+      "allemand_1855": "Un-ver-änd-er-lich",
+      "allemand_moderne": "unveränderlich",
+      "francais": "invariable",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
      {
       "allemand_1855": "Un-ver-änd-er-lich-keit",
       "allemand_moderne": "Unveränderlichkeit",
-      "francais": "invariabilité.",
+      "francais": "invariabilité",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Unveränderlichkeiten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e75",
+  "vedette_brute": "Abändern"
  },
  {
   "vedette": "Angel",
@@ -2229,7 +2787,7 @@
     "base": {
      "allemand_1855": "Ang-el",
      "allemand_moderne": "die Angel",
-     "francais": "hameçon, ligne, gond d’une porte.",
+     "francais": "hameçon, ligne, gond d’une porte",
      "pos": "nom",
      "article": "die",
      "pluriel": "die Angeln",
@@ -2238,7 +2796,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e76",
+  "vedette_brute": "Angel"
  },
  {
   "vedette": "Angeln",
@@ -2250,7 +2810,7 @@
     "base": {
      "allemand_1855": "Ang-el-n",
      "allemand_moderne": "angeln",
-     "francais": "pêcher à la ligne, aspirer à.",
+     "francais": "pêcher à la ligne, aspirer à",
      "pos": "verbe",
      "article": "",
      "pluriel": "",
@@ -2260,7 +2820,7 @@
      {
       "allemand_1855": "Er-ang-el-n",
       "allemand_moderne": "erangeln",
-      "francais": "prendre à l’hameçon, obtenir par industrie.",
+      "francais": "prendre à l’hameçon, obtenir par industrie",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
@@ -2269,7 +2829,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e77",
+  "vedette_brute": "Angeln"
  },
  {
   "vedette": "Angler",
@@ -2281,16 +2843,18 @@
     "base": {
      "allemand_1855": "Angl-er",
      "allemand_moderne": "der Angler",
-     "francais": "pêcheur, oiseau pêcheur.",
+     "francais": "pêcheur, oiseau pêcheur",
      "pos": "nom",
      "article": "der",
-     "pluriel": "die Angler",
+     "pluriel": "",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e78",
+  "vedette_brute": "Angler"
  },
  {
   "vedette": "Anger",
@@ -2302,16 +2866,18 @@
     "base": {
      "allemand_1855": "Ang-er",
      "allemand_moderne": "der Anger",
-     "francais": "pacage.",
+     "francais": "pacage",
      "pos": "nom",
      "article": "der",
-     "pluriel": "die Anger",
+     "pluriel": "",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e79",
+  "vedette_brute": "Anger"
  },
  {
   "vedette": "Ängerling",
@@ -2323,7 +2889,7 @@
     "base": {
      "allemand_1855": "Äng-er-ling",
      "allemand_moderne": "der Ängerling",
-     "francais": "ver bouvier.",
+     "francais": "ver bouvier",
      "pos": "nom",
      "article": "der",
      "pluriel": "die Ängerlinge",
@@ -2332,7 +2898,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e80",
+  "vedette_brute": "Ängerling"
  },
  {
   "vedette": "Angst",
@@ -2344,7 +2912,7 @@
     "base": {
      "allemand_1855": "Angst",
      "allemand_moderne": "die Angst",
-     "francais": "angoisse, anxiété.",
+     "francais": "angoisse, anxiété",
      "pos": "nom",
      "article": "die",
      "pluriel": "die Ängste",
@@ -2353,7 +2921,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e81",
+  "vedette_brute": "Angst"
  },
  {
   "vedette": "Ängstigen",
@@ -2374,17 +2944,17 @@
     "derives": [
      {
       "allemand_1855": "Ängst-ig-ung",
-      "allemand_moderne": "Ängstigung",
-      "francais": "tourment.",
+      "allemand_moderne": "die Ängstigung",
+      "francais": "tourment",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Ängstigungen",
+      "pluriel": "",
       "irreguliers": ""
      },
      {
       "allemand_1855": "Ab-ängst-ig-en (sich)",
       "allemand_moderne": "sich abängstigen",
-      "francais": "se tourmenter.",
+      "francais": "se tourmenter",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
@@ -2393,7 +2963,7 @@
      {
       "allemand_1855": "Be-ängst-ig-en",
       "allemand_moderne": "beängstigen",
-      "francais": "causer de l’anxiété.",
+      "francais": "causer de l’anxiété",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
@@ -2402,7 +2972,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e82",
+  "vedette_brute": "Ängstigen"
  },
  {
   "vedette": "Ängstlich",
@@ -2423,17 +2995,19 @@
     "derives": [
      {
       "allemand_1855": "Ängst-lich-keit",
-      "allemand_moderne": "Ängstlichkeit",
-      "francais": "inquiétude.",
+      "allemand_moderne": "die Ängstlichkeit",
+      "francais": "inquiétude",
       "pos": "nom",
       "article": "die",
-      "pluriel": "die Ängstlichkeiten",
+      "pluriel": "",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e83",
+  "vedette_brute": "Ängstlich"
  },
  {
   "vedette": "Anke",
@@ -2445,7 +3019,7 @@
     "base": {
      "allemand_1855": "Ank-e",
      "allemand_moderne": "die Anke",
-     "francais": "chignon du cou.",
+     "francais": "chignon du cou",
      "pos": "nom",
      "article": "die",
      "pluriel": "die Anken",
@@ -2454,7 +3028,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e84",
+  "vedette_brute": "Anke"
  },
  {
   "vedette": "Ankel",
@@ -2466,16 +3042,18 @@
     "base": {
      "allemand_1855": "Ankel",
      "allemand_moderne": "der Ankel",
-     "francais": "rotule du pied.",
+     "francais": "rotule du pied",
      "pos": "nom",
      "article": "der",
-     "pluriel": "die Ankel",
+     "pluriel": "",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e85",
+  "vedette_brute": "Ankel"
  },
  {
   "vedette": "Anke",
@@ -2487,7 +3065,7 @@
     "base": {
      "allemand_1855": "Anke",
      "allemand_moderne": "die Anke",
-     "francais": "beurre.",
+     "francais": "beurre",
      "pos": "nom",
      "article": "die",
      "pluriel": "die Anken",
@@ -2496,7 +3074,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e86",
+  "vedette_brute": "Anke"
  },
  {
   "vedette": "Anker",
@@ -2508,17 +3088,17 @@
     "base": {
      "allemand_1855": "Anker",
      "allemand_moderne": "der Anker",
-     "francais": "ancre.",
+     "francais": "ancre",
      "pos": "nom",
      "article": "der",
-     "pluriel": "die Anker",
+     "pluriel": "",
      "irreguliers": ""
     },
     "derives": [
      {
       "allemand_1855": "Anker-n",
       "allemand_moderne": "ankern",
-      "francais": "jeter l’ancre.",
+      "francais": "jeter l’ancre",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
@@ -2527,7 +3107,7 @@
      {
       "allemand_1855": "Er-anker-n",
       "allemand_moderne": "erankern",
-      "francais": "atteindre avec l’ancre.",
+      "francais": "atteindre avec l’ancre",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
@@ -2536,7 +3116,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e87",
+  "vedette_brute": "Anker"
  },
  {
   "vedette": "Ant ou Ent",
@@ -2547,7 +3129,7 @@
    {
     "base": {
      "allemand_1855": "Ant ou Ent",
-     "allemand_moderne": "Ant oder Ent",
+     "allemand_moderne": "ant ou ent",
      "francais": "en face, contre, (marque opposition, séparation)",
      "pos": "autre",
      "article": "",
@@ -2559,35 +3141,37 @@
       "allemand_1855": "Ant-lig",
       "allemand_moderne": "antlig",
       "francais": "Voy. Lig.",
-      "pos": "adjectif",
+      "pos": "autre",
       "article": "",
       "pluriel": "",
       "irreguliers": ""
      },
      {
       "allemand_1855": "Ant-wort",
-      "allemand_moderne": "Antwort",
+      "allemand_moderne": "die Antwort",
       "francais": "Voy. Wort.",
       "pos": "nom",
       "article": "die",
-      "pluriel": "",
+      "pluriel": "die Antworten",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e88",
+  "vedette_brute": "Ant ou Ent"
  },
  {
-  "vedette": "Ante ou Ent-e",
-  "categorie": "f. n",
+  "vedette": "Ant ou Ente",
+  "categorie": "f. n.",
   "etymologie": "L. anas, G. ἦττα",
   "definition": "",
   "groupes": [
    {
     "base": {
-     "allemand_1855": "Ante ou Ent-e",
-     "allemand_moderne": "Ente",
+     "allemand_1855": "Ant-e ou Ent-e",
+     "allemand_moderne": "die Ente",
      "francais": "canard, cane",
      "pos": "nom",
      "article": "die",
@@ -2597,7 +3181,7 @@
     "derives": [
      {
       "allemand_1855": "Ant-er-ich ou Ent-erich",
-      "allemand_moderne": "Enterich",
+      "allemand_moderne": "der Enterich",
       "francais": "canard mâle",
       "pos": "nom",
       "article": "der",
@@ -2607,18 +3191,20 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e89",
+  "vedette_brute": "Ant ou Ente"
  },
  {
   "vedette": "Apfel",
-  "categorie": "m., *",
+  "categorie": "m., * —",
   "etymologie": "A. apple. G. ἄππιον. H. abad",
   "definition": "",
   "groupes": [
    {
     "base": {
      "allemand_1855": "Apfel",
-     "allemand_moderne": "Apfel",
+     "allemand_moderne": "der Apfel",
      "francais": "pomme",
      "pos": "nom",
      "article": "der",
@@ -2629,7 +3215,7 @@
      {
       "allemand_1855": "Apfel-n",
       "allemand_moderne": "apfeln",
-      "francais": "pommeler",
+      "francais": "pom mer",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
@@ -2637,7 +3223,7 @@
      },
      {
       "allemand_1855": "Apfel-baum",
-      "allemand_moderne": "Apfelbaum",
+      "allemand_moderne": "der Apfelbaum",
       "francais": "pommier",
       "pos": "nom",
       "article": "der",
@@ -2646,7 +3232,7 @@
      },
      {
       "allemand_1855": "Apfel-sine-e",
-      "allemand_moderne": "Apfelsine",
+      "allemand_moderne": "die Apfelsine",
       "francais": "pomme de Chine, orange",
       "pos": "nom",
       "article": "die",
@@ -2656,18 +3242,20 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e90",
+  "vedette_brute": "Apfel"
  },
  {
-  "vedette": "Ar-e",
-  "categorie": "f. n",
+  "vedette": "Are",
+  "categorie": "f. n.",
   "etymologie": "L. area",
   "definition": "",
   "groupes": [
    {
     "base": {
      "allemand_1855": "Ar-e",
-     "allemand_moderne": "Are",
+     "allemand_moderne": "die Are",
      "francais": "vestibule, foyer",
      "pos": "nom",
      "article": "die",
@@ -2677,10 +3265,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e91",
+  "vedette_brute": "Are"
  },
  {
-  "vedette": "Ar-en ou Ähr-en",
+  "vedette": "Aren ou Ähren",
   "categorie": "v.",
   "etymologie": "A. are. Go. aria. L. aro. G. ἀρόω. I. arv.",
   "definition": "",
@@ -2688,7 +3278,7 @@
    {
     "base": {
      "allemand_1855": "Ar-en ou Ähr-en",
-     "allemand_moderne": "ahren",
+     "allemand_moderne": "ahnen ou ähren",
      "francais": "labourer, faire",
      "pos": "verbe",
      "article": "",
@@ -2698,7 +3288,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e92",
+  "vedette_brute": "Aren ou Ähren"
  },
  {
   "vedette": "Art",
@@ -2709,7 +3301,7 @@
    {
     "base": {
      "allemand_1855": "Art",
-     "allemand_moderne": "Art",
+     "allemand_moderne": "die Art",
      "francais": "labour",
      "pos": "nom",
      "article": "die",
@@ -2719,10 +3311,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e93",
+  "vedette_brute": "Art"
  },
  {
-  "vedette": "Ar-beit",
+  "vedette": "Arbeit",
   "categorie": "f. en",
   "etymologie": "de ar-en, labourer",
   "definition": "",
@@ -2730,7 +3324,7 @@
    {
     "base": {
      "allemand_1855": "Ar-beit",
-     "allemand_moderne": "Arbeit",
+     "allemand_moderne": "die Arbeit",
      "francais": "travail",
      "pos": "nom",
      "article": "die",
@@ -2749,7 +3343,7 @@
      },
      {
       "allemand_1855": "Ar-beit-er",
-      "allemand_moderne": "Arbeiter",
+      "allemand_moderne": "der Arbeiter",
       "francais": "ouvrier",
       "pos": "nom",
       "article": "der",
@@ -2758,7 +3352,7 @@
      },
      {
       "allemand_1855": "Ar-beit-er-in",
-      "allemand_moderne": "Arbeiterin",
+      "allemand_moderne": "die Arbeiterin",
       "francais": "ouvrière",
       "pos": "nom",
       "article": "die",
@@ -2766,8 +3360,8 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ab-ar-beit",
-      "allemand_moderne": "Abarbeit",
+      "allemand_1855": "Ab-ar-beit-en",
+      "allemand_moderne": "abarbeiten",
       "francais": "ôter en travaillant, s’acquitter par le travail",
       "pos": "verbe",
       "article": "",
@@ -2775,25 +3369,16 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Auf-ar-beit",
+      "allemand_1855": "Auf-ar-beit-en",
       "allemand_moderne": "aufarbeiten",
-      "francais": "ouvrir de force",
+      "francais": "ouvrir de force ; (sich) s’élever en travaillant",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Auf-ar-beit (sich)",
-      "allemand_moderne": "sich aufarbeiten",
-      "francais": "s’élever en travaillant",
-      "pos": "verbe",
-      "article": "",
-      "pluriel": "",
-      "irreguliers": ""
-     },
-     {
-      "allemand_1855": "Aus-ar-beit",
+      "allemand_1855": "Aus-ar-beit-en",
       "allemand_moderne": "ausarbeiten",
       "francais": "composer un ouvrage, cesser de travailler",
       "pos": "verbe",
@@ -2803,7 +3388,7 @@
      },
      {
       "allemand_1855": "Aus-ar-beit-ung",
-      "allemand_moderne": "Ausarbeitung",
+      "allemand_moderne": "die Ausarbeitung",
       "francais": "composition",
       "pos": "nom",
       "article": "die",
@@ -2811,7 +3396,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ack-ar-beit",
+      "allemand_1855": "Ack-ar-beit-en",
       "allemand_moderne": "ackarbeiten",
       "francais": "cultiver la terre, polir",
       "pos": "verbe",
@@ -2821,7 +3406,7 @@
      },
      {
       "allemand_1855": "Ack-ar-beit-ung",
-      "allemand_moderne": "Ackarbeitung",
+      "allemand_moderne": "die Ackarbeitung",
       "francais": "l’action de polir (un ouvrage)",
       "pos": "nom",
       "article": "die",
@@ -2829,25 +3414,16 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Durch-ar-beit",
+      "allemand_1855": "Durch-ar-beit-en",
       "allemand_moderne": "durcharbeiten",
-      "francais": "travailler à fond",
+      "francais": "travailler à fond ; (sich) se faire jour à travers",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Durch-ar-beit (sich)",
-      "allemand_moderne": "sich durcharbeiten",
-      "francais": "se faire jour à travers",
-      "pos": "verbe",
-      "article": "",
-      "pluriel": "",
-      "irreguliers": ""
-     },
-     {
-      "allemand_1855": "Ein-ar-beit (sich)",
+      "allemand_1855": "Ein-ar-beit-en (sich)",
       "allemand_moderne": "sich einarbeiten",
       "francais": "se familiariser avec un travail",
       "pos": "verbe",
@@ -2856,7 +3432,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Empor-ar-beit (sich)",
+      "allemand_1855": "Empor-ar-beit-en (sich)",
       "allemand_moderne": "sich emporarbeiten",
       "francais": "s’élever par le travail",
       "pos": "verbe",
@@ -2865,7 +3441,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ent-gegen-ar-beit",
+      "allemand_1855": "Ent-gegen-ar-beit-en",
       "allemand_moderne": "entgegenarbeiten",
       "francais": "contrempter",
       "pos": "verbe",
@@ -2874,7 +3450,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Er-ar-beit",
+      "allemand_1855": "Er-ar-beit-en",
       "allemand_moderne": "erarbeiten",
       "francais": "gagner en travaillant",
       "pos": "verbe",
@@ -2883,7 +3459,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Mit-ar-beit",
+      "allemand_1855": "Mit-ar-beit-en",
       "allemand_moderne": "mitarbeiten",
       "francais": "aider à travailler",
       "pos": "verbe",
@@ -2892,7 +3468,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Nach-ar-beit",
+      "allemand_1855": "Nach-ar-beit-en",
       "allemand_moderne": "nacharbeiten",
       "francais": "travailler d’après qn., égaler au travail",
       "pos": "verbe",
@@ -2901,25 +3477,16 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Üb-er-ar-beit",
+      "allemand_1855": "Üb-er-ar-beit-en",
       "allemand_moderne": "überarbeiten",
-      "francais": "remanier, retoucher",
+      "francais": "remanier, retoucher ; (sich) s’excéder de travail",
       "pos": "verbe",
       "article": "",
       "pluriel": "",
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Üb-er-ar-beit (sich)",
-      "allemand_moderne": "sich überarbeiten",
-      "francais": "s’excéder de travail",
-      "pos": "verbe",
-      "article": "",
-      "pluriel": "",
-      "irreguliers": ""
-     },
-     {
-      "allemand_1855": "Um-ar-beit",
+      "allemand_1855": "Um-ar-beit-en",
       "allemand_moderne": "umarbeiten",
       "francais": "remuer (la terre), refondre un ouvrage",
       "pos": "verbe",
@@ -2929,7 +3496,7 @@
      },
      {
       "allemand_1855": "Um-ar-beit-ung",
-      "allemand_moderne": "Umarbeitung",
+      "allemand_moderne": "die Umarbeitung",
       "francais": "refonte",
       "pos": "nom",
       "article": "die",
@@ -2937,7 +3504,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ver-ar-beit",
+      "allemand_1855": "Ver-ar-beit-en",
       "allemand_moderne": "verarbeiten",
       "francais": "mettre en œuvre, consommer",
       "pos": "verbe",
@@ -2946,7 +3513,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Vor-ar-beit",
+      "allemand_1855": "Vor-ar-beit-en",
       "allemand_moderne": "vorarbeiten",
       "francais": "travailler devant qn., préparer la besogne",
       "pos": "verbe",
@@ -2956,7 +3523,7 @@
      },
      {
       "allemand_1855": "Vor-arb-eit",
-      "allemand_moderne": "Vorarbeit",
+      "allemand_moderne": "die Vorarbeit",
       "francais": "travail préparatoire",
       "pos": "nom",
       "article": "die",
@@ -2964,8 +3531,8 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Weg-ar-beit",
-      "allemand_moderne": "wegarbeiten",
+      "allemand_1855": "Weg-ar-beit-en",
+      "allemand_moderne": "weg arbeiten",
       "francais": "ôter à force le travail",
       "pos": "verbe",
       "article": "",
@@ -2975,10 +3542,12 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e94",
+  "vedette_brute": "Arbeit"
  },
  {
-  "vedette": "Arb-eit-sam",
+  "vedette": "Arbeitsam",
   "categorie": "a.",
   "etymologie": "",
   "definition": "",
@@ -2996,7 +3565,7 @@
     "derives": [
      {
       "allemand_1855": "Arb-eit-sam-keit",
-      "allemand_moderne": "Arbeitsamkeit",
+      "allemand_moderne": "die Arbeitsamkeit",
       "francais": "activité",
       "pos": "nom",
       "article": "die",
@@ -3006,18 +3575,20 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e95",
+  "vedette_brute": "Arbeitsam"
  },
  {
   "vedette": "Arche",
-  "categorie": "f. n",
+  "categorie": "f. n.",
   "etymologie": "A. ark. G. arka. G. ἄρχος",
   "definition": "",
   "groupes": [
    {
     "base": {
      "allemand_1855": "Arche",
-     "allemand_moderne": "Arche",
+     "allemand_moderne": "die Arche",
      "francais": "arche, vaisseau",
      "pos": "nom",
      "article": "die",
@@ -3027,7 +3598,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e96",
+  "vedette_brute": "Arche"
  },
  {
   "vedette": "Arg",
@@ -3048,7 +3621,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e97",
+  "vedette_brute": "Arg"
  },
  {
   "vedette": "Ar-g-e",
@@ -3059,7 +3634,7 @@
    {
     "base": {
      "allemand_1855": "Ar-g-e",
-     "allemand_moderne": "Arge",
+     "allemand_moderne": "das Arge",
      "francais": "mal, méchanceté",
      "pos": "nom",
      "article": "das",
@@ -3069,7 +3644,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e98",
+  "vedette_brute": "Ar-g-e"
  },
  {
   "vedette": "Ärger",
@@ -3080,7 +3657,7 @@
    {
     "base": {
      "allemand_1855": "Ärger",
-     "allemand_moderne": "Ärger",
+     "allemand_moderne": "der Ärger",
      "francais": "dépit, colère",
      "pos": "nom",
      "article": "der",
@@ -3090,7 +3667,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e99",
+  "vedette_brute": "Ärger"
  },
  {
   "vedette": "Ärger-n",
@@ -3102,7 +3681,7 @@
     "base": {
      "allemand_1855": "Ärger-n",
      "allemand_moderne": "ärgern",
-     "francais": "trouver mauvais, prendre en mal",
+     "francais": "fâcher, scandaliser",
      "pos": "verbe",
      "article": "",
      "pluriel": "",
@@ -3121,7 +3700,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e100",
+  "vedette_brute": "Ärger-n"
  },
  {
   "vedette": "Ärger-n",
@@ -3142,7 +3723,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e101",
+  "vedette_brute": "Ärger-n"
  },
  {
   "vedette": "Ärger-lich",
@@ -3163,7 +3746,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e102",
+  "vedette_brute": "Ärger-lich"
  },
  {
   "vedette": "Ärger-niß",
@@ -3174,7 +3759,7 @@
    {
     "base": {
      "allemand_1855": "Ärger-niß",
-     "allemand_moderne": "Ärgernis",
+     "allemand_moderne": "das Ärgernis",
      "francais": "dépit, scandale",
      "pos": "nom",
      "article": "die",
@@ -3184,7 +3769,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e103",
+  "vedette_brute": "Ärger-niß"
  },
  {
   "vedette": "Arg-los",
@@ -3205,7 +3792,7 @@
     "derives": [
      {
       "allemand_1855": "Arg-los-ig-keit",
-      "allemand_moderne": "Arglosigkeit",
+      "allemand_moderne": "die Arglosigkeit",
       "francais": "ingénuité, droiture",
       "pos": "nom",
       "article": "die",
@@ -3215,7 +3802,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e104",
+  "vedette_brute": "Arg-los"
  },
  {
   "vedette": "Arg-list",
@@ -3226,7 +3815,7 @@
    {
     "base": {
      "allemand_1855": "Arg-list",
-     "allemand_moderne": "Arglist",
+     "allemand_moderne": "die Arglist",
      "francais": "astuce, perfidie",
      "pos": "nom",
      "article": "die",
@@ -3236,7 +3825,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e105",
+  "vedette_brute": "Arg-list"
  },
  {
   "vedette": "Arg-wöhn",
@@ -3247,7 +3838,7 @@
    {
     "base": {
      "allemand_1855": "Arg-wöhn",
-     "allemand_moderne": "Argwohn",
+     "allemand_moderne": "der Argwohn",
      "francais": "soupçon",
      "pos": "nom",
      "article": "der",
@@ -3257,7 +3848,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e106",
+  "vedette_brute": "Arg-wöhn"
  },
  {
   "vedette": "Arg-wöhn-en",
@@ -3278,10 +3871,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e107",
+  "vedette_brute": "Arg-wöhn-en"
  },
  {
-  "vedette": "Arie",
+  "vedette": "Ar-ie",
   "categorie": "f. n",
   "etymologie": "de ār-en, faire ? Ir. aria",
   "definition": "",
@@ -3289,7 +3884,7 @@
    {
     "base": {
      "allemand_1855": "Ar-ie",
-     "allemand_moderne": "Arie",
+     "allemand_moderne": "die Arie",
      "francais": "air, ariette",
      "pos": "nom",
      "article": "die",
@@ -3299,7 +3894,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e108",
+  "vedette_brute": "Ar-ie"
  },
  {
   "vedette": "Arm",
@@ -3320,10 +3917,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e109",
+  "vedette_brute": "Arm"
  },
  {
-  "vedette": "Armuth",
+  "vedette": "Arm-uth",
   "categorie": "f.",
   "etymologie": "",
   "definition": "",
@@ -3331,7 +3930,7 @@
    {
     "base": {
      "allemand_1855": "Arm-uth",
-     "allemand_moderne": "Armut",
+     "allemand_moderne": "die Armut",
      "francais": "pauvreté",
      "pos": "nom",
      "article": "die",
@@ -3341,10 +3940,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e110",
+  "vedette_brute": "Arm-uth"
  },
  {
-  "vedette": "Armlich",
+  "vedette": "Arm-lich",
   "categorie": "a.",
   "etymologie": "",
   "definition": "",
@@ -3352,41 +3953,32 @@
    {
     "base": {
      "allemand_1855": "Arm-lich",
-     "allemand_moderne": "armlich",
+     "allemand_moderne": "ärmlich",
      "francais": "pauvre",
      "pos": "adjectif",
      "article": "",
      "pluriel": "",
      "irreguliers": ""
     },
-    "derives": []
+    "derives": [
+     {
+      "allemand_1855": "Ver-arm-en",
+      "allemand_moderne": "verarmen",
+      "francais": "devenir pauvre",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e111",
+  "vedette_brute": "Arm-lich"
  },
  {
-  "vedette": "Verarmen",
-  "categorie": "v.",
-  "etymologie": "",
-  "definition": "",
-  "groupes": [
-   {
-    "base": {
-     "allemand_1855": "Ver-arm-en",
-     "allemand_moderne": "verarmen",
-     "francais": "devenir pauvre",
-     "pos": "verbe",
-     "article": "",
-     "pluriel": "",
-     "irreguliers": ""
-    },
-    "derives": []
-   }
-  ],
-  "remarque": ""
- },
- {
-  "vedette": "Armselig",
+  "vedette": "Arm-sel-ig",
   "categorie": "",
   "etymologie": "composé avec sal, plein",
   "definition": "",
@@ -3404,7 +3996,7 @@
     "derives": [
      {
       "allemand_1855": "Arm-sel-ig-keit",
-      "allemand_moderne": "Armseligkeit",
+      "allemand_moderne": "die Armseligkeit",
       "francais": "pauvreté, misère",
       "pos": "nom",
       "article": "die",
@@ -3414,7 +4006,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e112",
+  "vedette_brute": "Arm-sel-ig"
  },
  {
   "vedette": "Arm",
@@ -3425,7 +4019,7 @@
    {
     "base": {
      "allemand_1855": "Arm",
-     "allemand_moderne": "Arm",
+     "allemand_moderne": "der Arm",
      "francais": "bras",
      "pos": "nom",
      "article": "der",
@@ -3435,10 +4029,12 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e113",
+  "vedette_brute": "Arm"
  },
  {
-  "vedette": "Ärmel",
+  "vedette": "Ärm-el",
   "categorie": "m.",
   "etymologie": "",
   "definition": "",
@@ -3446,7 +4042,7 @@
    {
     "base": {
      "allemand_1855": "Ärm-el",
-     "allemand_moderne": "Ärmel",
+     "allemand_moderne": "der Ärmel",
      "francais": "manche",
      "pos": "nom",
      "article": "der",
@@ -3456,18 +4052,20 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e114",
+  "vedette_brute": "Ärm-el"
  },
  {
-  "vedette": "Ärndte",
+  "vedette": "Ärndte ou Erndte",
   "categorie": "f. n",
   "etymologie": "de ār-en, travailler. A. earning",
   "definition": "",
   "groupes": [
    {
     "base": {
-     "allemand_1855": "Ärndt-e",
-     "allemand_moderne": "Ernte",
+     "allemand_1855": "Ärndt-e ou Erndt-e",
+     "allemand_moderne": "die Ernte",
      "francais": "moisson",
      "pos": "nom",
      "article": "die",
@@ -3477,7 +4075,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e115",
+  "vedette_brute": "Ärndte ou Erndte"
  },
  {
   "vedette": "Ärndten",
@@ -3498,7 +4098,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e116",
+  "vedette_brute": "Ärndten"
  },
  {
   "vedette": "Ärndtmīer",
@@ -3509,7 +4111,7 @@
    {
     "base": {
      "allemand_1855": "Ärndt-mīer",
-     "allemand_moderne": "Erntemäher",
+     "allemand_moderne": "der Erntemäher",
      "francais": "moissonneur",
      "pos": "nom",
      "article": "der",
@@ -3518,8 +4120,8 @@
     },
     "derives": [
      {
-      "allemand_1855": "Ärndt-wer-in",
-      "allemand_moderne": "Erntemäherin",
+      "allemand_1855": "Ärndt-mīer-in",
+      "allemand_moderne": "die Erntemäherin",
       "francais": "moissonneuse",
       "pos": "nom",
       "article": "die",
@@ -3529,7 +4131,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e117",
+  "vedette_brute": "Ärndtmīer"
  },
  {
   "vedette": "Arsch",
@@ -3540,7 +4144,7 @@
    {
     "base": {
      "allemand_1855": "Arsch",
-     "allemand_moderne": "Arsch",
+     "allemand_moderne": "der Arsch",
      "francais": "cul, derrière",
      "pos": "nom",
      "article": "der",
@@ -3550,7 +4154,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e118",
+  "vedette_brute": "Arsch"
  },
  {
   "vedette": "Art",
@@ -3561,7 +4167,7 @@
    {
     "base": {
      "allemand_1855": "Art",
-     "allemand_moderne": "Art",
+     "allemand_moderne": "die Art",
      "francais": "genre, mode, sorte",
      "pos": "nom",
      "article": "die",
@@ -3571,7 +4177,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e119",
+  "vedette_brute": "Art"
  },
  {
   "vedette": "Arten",
@@ -3591,7 +4199,7 @@
     },
     "derives": [
      {
-      "allemand_1855": "Ab-art-en",
+      "allemand_1855": "Ab-Art-en",
       "allemand_moderne": "abarten",
       "francais": "dégénérer",
       "pos": "verbe",
@@ -3600,7 +4208,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Aus-art-en",
+      "allemand_1855": "aus-Art-en",
       "allemand_moderne": "ausarten",
       "francais": "dégénérer",
       "pos": "verbe",
@@ -3609,7 +4217,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Nach-art-en",
+      "allemand_1855": "Nach-Art-en",
       "allemand_moderne": "nacharten",
       "francais": "ressembler, tenir de",
       "pos": "verbe",
@@ -3620,7 +4228,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e120",
+  "vedette_brute": "Arten"
  },
  {
   "vedette": "Artig",
@@ -3641,17 +4251,19 @@
     "derives": [
      {
       "allemand_1855": "Art-ig-keit",
-      "allemand_moderne": "Artigkeit",
+      "allemand_moderne": "die Artigkeit",
       "francais": "politesse",
       "pos": "nom",
       "article": "die",
-      "pluriel": "",
+      "pluriel": "die Artigkeiten",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e121",
+  "vedette_brute": "Artig"
  },
  {
   "vedette": "Abart",
@@ -3662,69 +4274,47 @@
    {
     "base": {
      "allemand_1855": "Ab-art",
-     "allemand_moderne": "Abart",
+     "allemand_moderne": "die Abart",
      "francais": "race dégénérée, variété",
      "pos": "nom",
      "article": "die",
-     "pluriel": "",
-     "irreguliers": ""
-    },
-    "derives": []
-   }
-  ],
-  "remarque": ""
- },
- {
-  "vedette": "Unart",
-  "categorie": "f.",
-  "etymologie": "",
-  "definition": "",
-  "groupes": [
-   {
-    "base": {
-     "allemand_1855": "Un-art",
-     "allemand_moderne": "Unart",
-     "francais": "mauvaise conduite",
-     "pos": "nom",
-     "article": "die",
-     "pluriel": "",
-     "irreguliers": ""
-    },
-    "derives": []
-   }
-  ],
-  "remarque": ""
- },
- {
-  "vedette": "Unartig",
-  "categorie": "a.",
-  "etymologie": "",
-  "definition": "",
-  "groupes": [
-   {
-    "base": {
-     "allemand_1855": "Un-art-ig",
-     "allemand_moderne": "unartig",
-     "francais": "impoli, méchant",
-     "pos": "adjectif",
-     "article": "",
-     "pluriel": "",
+     "pluriel": "die Abarten",
      "irreguliers": ""
     },
     "derives": [
      {
+      "allemand_1855": "Un-art",
+      "allemand_moderne": "die Unart",
+      "francais": "mauvaise conduite",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Unarten",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Un-art-ig",
+      "allemand_moderne": "unartig",
+      "francais": "impoli, méchant",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
       "allemand_1855": "Un-art-ig-keit",
-      "allemand_moderne": "Unartigkeit",
+      "allemand_moderne": "die Unartigkeit",
       "francais": "impolitesse",
       "pos": "nom",
       "article": "die",
-      "pluriel": "",
+      "pluriel": "die Unartigkeiten",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e122",
+  "vedette_brute": "Abart"
  },
  {
   "vedette": "Arzt",
@@ -3735,7 +4325,7 @@
    {
     "base": {
      "allemand_1855": "Arzt",
-     "allemand_moderne": "Arzt",
+     "allemand_moderne": "der Arzt",
      "francais": "médecin",
      "pos": "nom",
      "article": "der",
@@ -3745,7 +4335,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e123",
+  "vedette_brute": "Arzt"
  },
  {
   "vedette": "Arzney",
@@ -3756,7 +4348,7 @@
    {
     "base": {
      "allemand_1855": "Arzney",
-     "allemand_moderne": "Arznei",
+     "allemand_moderne": "die Arznei",
      "francais": "médicament",
      "pos": "nom",
      "article": "die",
@@ -3766,7 +4358,7 @@
     "derives": [
      {
       "allemand_1855": "Arzney-kund-e",
-      "allemand_moderne": "Arzneikunde",
+      "allemand_moderne": "die Arzneikunde",
       "francais": "médecine",
       "pos": "nom",
       "article": "die",
@@ -3776,7 +4368,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "composé avec kund-e, notion",
+  "id": "e124",
+  "vedette_brute": "Arzney"
  },
  {
   "vedette": "Aß ou As",
@@ -3787,17 +4381,19 @@
    {
     "base": {
      "allemand_1855": "Aß ou As",
-     "allemand_moderne": "das Aß oder As",
+     "allemand_moderne": "das Ass",
      "francais": "unité",
      "pos": "nom",
      "article": "das",
-     "pluriel": "die Aße",
+     "pluriel": "die Asse",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e125",
+  "vedette_brute": "Aß ou As"
  },
  {
   "vedette": "Aß",
@@ -3805,10 +4401,12 @@
   "etymologie": "",
   "definition": "Voy. Ess-en.",
   "groupes": [],
-  "remarque": ""
+  "remarque": "",
+  "id": "e126",
+  "vedette_brute": "Aß"
  },
  {
-  "vedette": "Asch-e",
+  "vedette": "Asche",
   "categorie": "f.",
   "etymologie": "de ait-en, brûler, A. ash. Go. azgo. G. ἄχ(α)",
   "definition": "",
@@ -3827,7 +4425,7 @@
      {
       "allemand_1855": "Asch-ig",
       "allemand_moderne": "aschig",
-      "francais": "cendreux",
+      "francais": "cendreux, cendré",
       "pos": "adjectif",
       "article": "",
       "pluriel": "",
@@ -3836,7 +4434,7 @@
      {
       "allemand_1855": "Asch-icht",
       "allemand_moderne": "aschicht",
-      "francais": "cendré",
+      "francais": "cendreux, cendré",
       "pos": "adjectif",
       "article": "",
       "pluriel": "",
@@ -3845,10 +4443,12 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e127",
+  "vedette_brute": "Asche"
  },
  {
-  "vedette": "Asch-er-n",
+  "vedette": "Aschern",
   "categorie": "v.",
   "etymologie": "",
   "definition": "",
@@ -3856,7 +4456,7 @@
    {
     "base": {
      "allemand_1855": "Asch-er-n",
-     "allemand_moderne": "aschern",
+     "allemand_moderne": "äschern",
      "francais": "incendier",
      "pos": "verbe",
      "article": "",
@@ -3865,8 +4465,8 @@
     },
     "derives": [
      {
-      "allemand_1855": "Asch-er-n",
-      "allemand_moderne": "aschern",
+      "allemand_1855": "ein-Asch-er-n",
+      "allemand_moderne": "einäschern",
       "francais": "incendier",
       "pos": "verbe",
       "article": "",
@@ -3874,18 +4474,20 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Asch-er-n-ung",
-      "allemand_moderne": "Ascherung",
+      "allemand_1855": "Asch-er-ung",
+      "allemand_moderne": "die Äscherung",
       "francais": "action d’incendier",
       "pos": "nom",
       "article": "die",
-      "pluriel": "",
+      "pluriel": "die Äscherungen",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e128",
+  "vedette_brute": "Aschern"
  },
  {
   "vedette": "Assel",
@@ -3906,7 +4508,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e129",
+  "vedette_brute": "Assel"
  },
  {
   "vedette": "Ast",
@@ -3937,7 +4541,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e130",
+  "vedette_brute": "Ast"
  },
  {
   "vedette": "Astrich ou Estrich",
@@ -3948,17 +4554,19 @@
    {
     "base": {
      "allemand_1855": "Astrich ou Estrich",
-     "allemand_moderne": "der Astrich oder Estrich",
+     "allemand_moderne": "der Estrich",
      "francais": "carreau (parquet)",
      "pos": "nom",
      "article": "der",
-     "pluriel": "die Astriche oder Estriche",
+     "pluriel": "die Estriche",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e131",
+  "vedette_brute": "Astrich ou Estrich"
  },
  {
   "vedette": "Athem",
@@ -4007,7 +4615,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e132",
+  "vedette_brute": "Athem"
  },
  {
   "vedette": "Atte",
@@ -4018,7 +4628,7 @@
    {
     "base": {
      "allemand_1855": "Atte",
-     "allemand_moderne": "der Atte",
+     "allemand_moderne": "Atte",
      "francais": "père",
      "pos": "nom",
      "article": "der",
@@ -4028,7 +4638,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e133",
+  "vedette_brute": "Atte"
  },
  {
   "vedette": "Att-ich",
@@ -4039,7 +4651,7 @@
    {
     "base": {
      "allemand_1855": "Att-ich",
-     "allemand_moderne": "der Attich",
+     "allemand_moderne": "Attich",
      "francais": "hièble",
      "pos": "nom",
      "article": "der",
@@ -4049,7 +4661,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e134",
+  "vedette_brute": "Att-ich"
  },
  {
   "vedette": "Atze-i ou Hätze-e",
@@ -4060,17 +4674,19 @@
    {
     "base": {
      "allemand_1855": "Atze-i ou Hätze-e",
-     "allemand_moderne": "die Atzei oder Hätze",
+     "allemand_moderne": "Atzei oder Hätze",
      "francais": "pie",
      "pos": "nom",
      "article": "die",
-     "pluriel": "die Atzeien oder Hätzen",
+     "pluriel": "die Atzeien oder die Hätzen",
      "irreguliers": ""
     },
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e135",
+  "vedette_brute": "Atze-i ou Hätze-e"
  },
  {
   "vedette": "Aß-en",
@@ -4091,7 +4707,7 @@
     "derives": [
      {
       "allemand_1855": "Aß-ätz",
-      "allemand_moderne": "ätz",
+      "allemand_moderne": "ätzend",
       "francais": "corrosif",
       "pos": "adjectif",
       "article": "",
@@ -4099,7 +4715,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Aß-en-ung",
+      "allemand_1855": "Aß-ung",
       "allemand_moderne": "Ätzung",
       "francais": "becquée, appât",
       "pos": "nom",
@@ -4146,7 +4762,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e136",
+  "vedette_brute": "Aß-en"
  },
  {
   "vedette": "Au",
@@ -4157,7 +4775,7 @@
    {
     "base": {
      "allemand_1855": "Au",
-     "allemand_moderne": "das Au",
+     "allemand_moderne": "Au",
      "francais": "œil",
      "pos": "nom",
      "article": "das",
@@ -4167,7 +4785,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e137",
+  "vedette_brute": "Au"
  },
  {
   "vedette": "Auch",
@@ -4188,7 +4808,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e138",
+  "vedette_brute": "Auch"
  },
  {
   "vedette": "Au-e ou Au",
@@ -4199,7 +4821,7 @@
    {
     "base": {
      "allemand_1855": "Au-e ou Au",
-     "allemand_moderne": "die Aue oder Au",
+     "allemand_moderne": "Aue oder Au",
      "francais": "prairie, plaine",
      "pos": "nom",
      "article": "die",
@@ -4209,7 +4831,9 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e139",
+  "vedette_brute": "Au-e ou Au"
  },
  {
   "vedette": "Au-er",
@@ -4230,7 +4854,7 @@
     "derives": [
      {
       "allemand_1855": "Au-er-hahn",
-      "allemand_moderne": "der Auerhahn",
+      "allemand_moderne": "Auerhahn",
       "francais": "coq de bruyère",
       "pos": "nom",
       "article": "der",
@@ -4239,7 +4863,7 @@
      },
      {
       "allemand_1855": "Au-er-ochs",
-      "allemand_moderne": "der Auerochs",
+      "allemand_moderne": "Aurochs",
       "francais": "bœuf sauvage; aurochs",
       "pos": "nom",
       "article": "der",
@@ -4249,7 +4873,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e140",
+  "vedette_brute": "Au-er"
  },
  {
   "vedette": "Auf",
@@ -4269,7 +4895,7 @@
     },
     "derives": [
      {
-      "allemand_1855": "Her-Auf",
+      "allemand_1855": "Her-auf",
       "allemand_moderne": "herauf",
       "francais": "ici en haut",
       "pos": "adverbe",
@@ -4278,7 +4904,7 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Hin-Auf",
+      "allemand_1855": "Hin-auf",
       "allemand_moderne": "hinauf",
       "francais": "là en haut",
       "pos": "adverbe",
@@ -4289,7 +4915,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e141",
+  "vedette_brute": "Auf"
  },
  {
   "vedette": "Aug-e",
@@ -4300,7 +4928,7 @@
    {
     "base": {
      "allemand_1855": "Aug-e",
-     "allemand_moderne": "das Auge",
+     "allemand_moderne": "Auge",
      "francais": "œil, vue, point (aux cartes)",
      "pos": "nom",
      "article": "das",
@@ -4310,7 +4938,7 @@
     "derives": [
      {
       "allemand_1855": "Aug-lein",
-      "allemand_moderne": "das Äuglein",
+      "allemand_moderne": "Äuglein",
       "francais": "petit œil",
       "pos": "nom",
       "article": "das",
@@ -4328,7 +4956,7 @@
      },
      {
       "allemand_1855": "Aug-el-n ou lieb-äugel-n",
-      "allemand_moderne": "äugeln ou liebäugeln",
+      "allemand_moderne": "äugeln oder liebäugeln",
       "francais": "lancer des œillades",
       "pos": "verbe",
       "article": "",
@@ -4337,7 +4965,7 @@
      },
      {
       "allemand_1855": "Aug-en blick",
-      "allemand_moderne": "der Augenblick",
+      "allemand_moderne": "Augenblick",
       "francais": "clin-d’œil, instant",
       "pos": "nom",
       "article": "der",
@@ -4347,7 +4975,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e142",
+  "vedette_brute": "Aug-e"
  },
  {
   "vedette": "Aus",
@@ -4396,7 +5026,9 @@
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e143",
+  "vedette_brute": "Aus"
  },
  {
   "vedette": "Äuß-er-n",
@@ -4416,12 +5048,12 @@
     },
     "derives": [
      {
-      "allemand_1855": "Äuß-er-n-ung",
+      "allemand_1855": "Äuß-er-ung",
       "allemand_moderne": "Äußerung",
       "francais": "manifestation",
       "pos": "nom",
       "article": "die",
-      "pluriel": "",
+      "pluriel": "die Äußerungen",
       "irreguliers": ""
      },
      {
@@ -4434,12 +5066,12 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ent-Äuß-er-n-ung",
+      "allemand_1855": "Ent-Äuß-er-ung",
       "allemand_moderne": "Entäußerung",
       "francais": "aliénation, renonciation",
       "pos": "nom",
       "article": "die",
-      "pluriel": "",
+      "pluriel": "die Entäußerungen",
       "irreguliers": ""
      },
      {
@@ -4452,21 +5084,23 @@
       "irreguliers": ""
      },
      {
-      "allemand_1855": "Ver-Äuß-er-n-ung",
+      "allemand_1855": "Ver-Äuß-er-ung",
       "allemand_moderne": "Veräußerung",
       "francais": "aliénation",
       "pos": "nom",
       "article": "die",
-      "pluriel": "",
+      "pluriel": "die Veräußerungen",
       "irreguliers": ""
      }
     ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e144",
+  "vedette_brute": "Äuß-er-n"
  },
  {
-  "vedette": "Äußere",
+  "vedette": "Äuß-er-e",
   "categorie": "n.",
   "etymologie": "",
   "definition": "",
@@ -4474,7 +5108,7 @@
    {
     "base": {
      "allemand_1855": "Äuß-er-e",
-     "allemand_moderne": "das Äußere",
+     "allemand_moderne": "Äußere",
      "francais": "extérieur",
      "pos": "nom",
      "article": "das",
@@ -4484,11 +5118,13 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e145",
+  "vedette_brute": "Äuß-er-e"
  },
  {
-  "vedette": "Äußerst",
-  "categorie": "a. ; ad.",
+  "vedette": "Äu-ßer-st",
+  "categorie": "a.",
   "etymologie": "",
   "definition": "",
   "groupes": [
@@ -4496,19 +5132,31 @@
     "base": {
      "allemand_1855": "Äu-ßer-st",
      "allemand_moderne": "äußerst",
-     "francais": "extrême ; extrêmement",
-     "pos": "autre",
+     "francais": "extrême",
+     "pos": "adjectif",
      "article": "",
      "pluriel": "",
      "irreguliers": ""
     },
-    "derives": []
+    "derives": [
+     {
+      "allemand_1855": "Äu-ßer-st",
+      "allemand_moderne": "äußerst",
+      "francais": "extrêmement",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e146",
+  "vedette_brute": "Äu-ßer-st"
  },
  {
-  "vedette": "Äußerlich",
+  "vedette": "Äuß-er-lich",
   "categorie": "a.",
   "etymologie": "",
   "definition": "",
@@ -4526,6 +5174,8 @@
     "derives": []
    }
   ],
-  "remarque": ""
+  "remarque": "",
+  "id": "e147",
+  "vedette_brute": "Äuß-er-lich"
  }
 ]
