@@ -12,6 +12,9 @@ nav.top{display:flex;gap:.5rem;flex-wrap:wrap;margin:.8rem 0 1rem}
 nav.top a,.btn{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:.3rem .75rem;border-radius:999px;text-decoration:none;font:14px system-ui,sans-serif;cursor:pointer}
 nav.top a.on,.btn.on{background:var(--acc);color:#fff;border-color:var(--acc)}
 nav.top #theme{margin-left:auto}
+nav.top.sub2{margin-top:-.4rem}
+nav.top.sub2 a{font-size:13px;padding:.2rem .65rem;border-style:dashed}
+nav.top.sub2 a.on{border-style:solid}
 .hero{margin:.5rem 0 1.5rem}.hero p{max-width:42rem}
 .sections{display:grid;gap:.9rem;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));margin:1rem 0}
 .sections .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.4rem}
@@ -36,6 +39,8 @@ article h2{margin:0;font-size:1.35rem;color:var(--acc)}
 .ex{margin:.4rem 0 .2rem;padding-left:1rem;border-left:3px solid var(--line)}
 .ex p{margin:.15rem 0}
 .grp{margin:.45rem 0}
+.notes-titre,table.pairs tr.nt td{font:600 12px system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--mut);margin:.8rem 0 .1rem}
+table.pairs tr.nt td{padding-top:.8rem;border-top:none;width:auto}
 .grp .der{margin-left:1.4rem}
 .fl,.der .fl{color:var(--mut)}
 table.pairs tr.der td.de{padding-left:1.9rem}
