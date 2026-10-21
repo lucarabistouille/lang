@@ -1,0 +1,5572 @@
+[
+ {
+  "vedette": "A",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "sans",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "bie Ameise",
+      "allemand_moderne": "die Ameise",
+      "francais": "la fourmi",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Ameisen",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce signe privatif des Grecs et des Latins, dont on trouve quelques traces dans les anciens dialectes germaniques, n’est presque plus usité en allemand. Ce mot signifie sans, comme : de a, sans, et muße, loisir.",
+  "page_pdf": 42
+ },
+ {
+  "vedette": "Ab",
+  "categorie": "pr.",
+  "etymologie": "A. of. Go. af. L. ab. G. ἀπό, L. apo",
+  "definition": "de, loin de",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Schneiden",
+     "allemand_moderne": "schneiden",
+     "francais": "couper",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schneidet, schnitt, geschnitten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ab-schneiden",
+      "allemand_moderne": "abschneiden",
+      "francais": "découper",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "schneidet ab, schnitt ab, abgeschnitten"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gott",
+     "allemand_moderne": "Gott",
+     "francais": "dieu",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Götter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ab-gott",
+      "allemand_moderne": "Abgott",
+      "francais": "faux dieu, idole",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Abgötter",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Thun",
+     "allemand_moderne": "tun",
+     "francais": "faire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "tut, tat, getan"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ab-thun",
+      "allemand_moderne": "abtun",
+      "francais": "terminer (une affaire)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "tut ab, tat ab, abgetan"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Malen",
+     "allemand_moderne": "malen",
+     "francais": "peindre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ab-malen",
+      "allemand_moderne": "abmalen",
+      "francais": "(peindre d’après), copier (une peinture)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zeichnen",
+     "allemand_moderne": "zeichnen",
+     "francais": "dessiner",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ab-zeichnen",
+      "allemand_moderne": "abzeichnen",
+      "francais": "(dessiner d’après), copier (un dessin)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schreiben",
+     "allemand_moderne": "schreiben",
+     "francais": "écrire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schreibt, schrieb, geschrieben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ab-schreiben",
+      "allemand_moderne": "abschreiben",
+      "francais": "(écrire d’après), copier (un livre, un écrit)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "schreibt ab, schrieb ab, abgeschrieben"
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot marque séparation, éloignement et fin. Ab répond quelquefois au secundum des Latins, que les François rendent par d’après, comme :",
+  "page_pdf": 42
+ },
+ {
+  "vedette": "Aber",
+  "categorie": "ad.",
+  "etymologie": "",
+  "definition": "éloignement, dégénération",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Glaube",
+     "allemand_moderne": "Glaube",
+     "francais": "foi, croyance",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Glauben",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Aber-glaube",
+      "allemand_moderne": "Aberglaube",
+      "francais": "fausse croyance, superstition",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Aberglauben",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Formé de ab, ce mot marque éloignement, dégénération.",
+  "page_pdf": 42
+ },
+ {
+  "vedette": "After",
+  "categorie": "ad.",
+  "etymologie": "de ab, loin. A. after",
+  "definition": "après, contraire, faux",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Lehen",
+     "allemand_moderne": "Lehen",
+     "francais": "fief",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Lehen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "After-lehn",
+      "allemand_moderne": "Afterlehen",
+      "francais": "arrière-fief",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Afterlehen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "König",
+     "allemand_moderne": "König",
+     "francais": "roi",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Könige",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "After-könig",
+      "allemand_moderne": "Afterkönig",
+      "francais": "faux roi",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Afterkönige",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 42
+ },
+ {
+  "vedette": "An",
+  "categorie": "pr.",
+  "etymologie": "A. an. Go. ana. G. ἀνά. L. anu",
+  "definition": "à, vers, sur, en",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Fangen",
+     "allemand_moderne": "fangen",
+     "francais": "prendre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "fängt, fing, gefangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "an-fangen",
+      "allemand_moderne": "anfangen",
+      "francais": "commencer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "fängt … an, fing … an, angefangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Binden",
+     "allemand_moderne": "binden",
+     "francais": "lier",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bindet, band, gebunden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "an-binden",
+      "allemand_moderne": "anbinden",
+      "francais": "lier à, attacher",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bindet … an, band … an, angebunden"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Laufen",
+     "allemand_moderne": "laufen",
+     "francais": "courir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "läuft, lief, ist gelaufen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "an-laufen",
+      "allemand_moderne": "anlaufen",
+      "francais": "courir vers",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "läuft … an, lief … an, ist angelaufen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Blicken",
+     "allemand_moderne": "blicken",
+     "francais": "voir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "an-blicken",
+      "allemand_moderne": "anblicken",
+      "francais": "regarder, jeter un regard sur",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot marque rapprochement, application.",
+  "page_pdf": 42
+ },
+ {
+  "vedette": "Ant",
+  "categorie": "préf. insép.",
+  "etymologie": "Go. anda. L. ante. G. ἀντί. I. anti",
+  "definition": "en face, contre",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Wort",
+     "allemand_moderne": "Wort",
+     "francais": "le mot",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Wörter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ant-wort",
+      "allemand_moderne": "Antwort",
+      "francais": "réponse",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Antworten",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot marque opposition, séparation, comme : a. Wort, le mot, Ant-wort, f. réponse.",
+  "page_pdf": 43
+ },
+ {
+  "vedette": "Ent",
+  "categorie": "préf. insép.",
+  "etymologie": "Go. and. L. ante. G. ἀντί. I. anti",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Gegen",
+     "allemand_moderne": "gegen",
+     "francais": "contre",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ent-gegen",
+      "allemand_moderne": "entgegen",
+      "francais": "répliquer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Bieten",
+     "allemand_moderne": "bieten",
+     "francais": "offrir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bietet, bot, geboten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ent-bieten",
+      "allemand_moderne": "entbieten",
+      "francais": "faire savoir, mander",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "entbietet, entbot, entboten"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kleiden",
+     "allemand_moderne": "kleiden",
+     "francais": "habiller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ent-kleiden",
+      "allemand_moderne": "entkleiden",
+      "francais": "déshabiller",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Haupt",
+     "allemand_moderne": "Haupt",
+     "francais": "tête",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Häupter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ent-haupten",
+      "allemand_moderne": "enthaupten",
+      "francais": "décapiter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zwei",
+     "allemand_moderne": "zwei",
+     "francais": "deux",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ent-zweien",
+      "allemand_moderne": "entzweien",
+      "francais": "désunir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Binden",
+     "allemand_moderne": "binden",
+     "francais": "lier, engager",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bindet, band, gebunden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ent-binden",
+      "allemand_moderne": "entbinden",
+      "francais": "délier, dégager",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "entbindet, entband, entbunden"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Ehre",
+     "allemand_moderne": "Ehre",
+     "francais": "honneur",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Ehren",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ent-ehren",
+      "allemand_moderne": "entehren",
+      "francais": "déshonorer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stehen",
+     "allemand_moderne": "stehen",
+     "francais": "se tenir debout",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "steht, stand, gestanden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ent-stehen",
+      "allemand_moderne": "entstehen",
+      "francais": "provenir, naître",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "entsteht, entstand, ist entstanden"
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe marque opposition, privation, séparation, origine, et se rend souvent en français par de ou dés.",
+  "page_pdf": 43
+ },
+ {
+  "vedette": "Emp",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Fangen",
+     "allemand_moderne": "fangen",
+     "francais": "prendre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "fängt, fing, gefangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "emp-fangen",
+      "allemand_moderne": "empfangen",
+      "francais": "recevoir, accueillir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "empfängt, empfing, empfangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fehlen",
+     "allemand_moderne": "fehlen",
+     "francais": "couvrir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "emp-fehlen",
+      "allemand_moderne": "empfehlen",
+      "francais": "recommander",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "empfiehlt, empfahl, empfohlen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Finden",
+     "allemand_moderne": "finden",
+     "francais": "trouver",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "findet, fand, gefunden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "emp-finden",
+      "allemand_moderne": "empfinden",
+      "francais": "ressentir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "empfindet, empfand, empfunden"
+     }
+    ]
+   }
+  ],
+  "remarque": "pour Ent. Ce préfixe ne se trouve que dans trois verbes et leurs dérivés, où l’on a changé ent en emp, à cause de l’f qui suit. Ce sont :",
+  "page_pdf": 43
+ },
+ {
+  "vedette": "Auf",
+  "categorie": "pr.",
+  "etymologie": "A. up. Go. iup. L. ob. G. ὑπό. I. upa",
+  "definition": "sur, dessus, en, pour",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Bauen",
+     "allemand_moderne": "bauen",
+     "francais": "bâtir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-bauen",
+      "allemand_moderne": "aufbauen",
+      "francais": "élever (un bâtiment)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "baut … auf, baute … auf, aufgebaut"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, ist gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-gehen",
+      "allemand_moderne": "aufgehen",
+      "francais": "se lever (du soleil)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht … auf, ging … auf, ist aufgegangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, ist gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-gehen",
+      "allemand_moderne": "aufgehen",
+      "francais": "s’ouvrir (d’une blessure)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht … auf, ging … auf, ist aufgegangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Legen",
+     "allemand_moderne": "legen",
+     "francais": "poser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-legen",
+      "allemand_moderne": "auflegen",
+      "francais": "poser dessus, imposer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "legt … auf, legte … auf, aufgelegt"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sein",
+     "allemand_moderne": "sein",
+     "francais": "être",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "ist, war, gewesen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-sein",
+      "allemand_moderne": "aufsein",
+      "francais": "être levé",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "ist auf, war auf, aufgeเป็น"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stehen",
+     "allemand_moderne": "stehen",
+     "francais": "se tenir debout",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "steht, stand, gestanden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-stehen",
+      "allemand_moderne": "aufstehen",
+      "francais": "se lever",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "steht … auf, stand … auf, ist aufgestanden"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schneiden",
+     "allemand_moderne": "schneiden",
+     "francais": "couper",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schneidet, schnitt, geschnitten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-schneiden",
+      "allemand_moderne": "aufschneiden",
+      "francais": "ouvrir en coupant",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "schneidet … auf, schnitt … auf, aufgeschnitten"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "hören",
+     "allemand_moderne": "hören",
+     "francais": "écouter, agir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-hören",
+      "allemand_moderne": "aufhören",
+      "francais": "cesser d’agir, discontinuêr",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Essen",
+     "allemand_moderne": "essen",
+     "francais": "manger",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "isst, aß, gegessen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "auf-essen",
+      "allemand_moderne": "aufessen",
+      "francais": "manger tout, achever de manger",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "isst … auf, aß … auf, aufgegessen"
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot marque expansion, élévation, et renferme en outre l’idée d’ouvrir, de parvenir et de finir.",
+  "page_pdf": 43
+ },
+ {
+  "vedette": "Aus",
+  "categorie": "pr., ad.",
+  "etymologie": "A. out. Go. us. L. ex. G. ix. I. ul",
+  "definition": "de, hors ; fini, passé",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "aus-gehen",
+      "allemand_moderne": "ausgehen",
+      "francais": "aller dehors, sortir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht … aus, ging … aus, ausgegangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Brechen",
+     "allemand_moderne": "brechen",
+     "francais": "rompre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bricht, brach, gebrochen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "aus-brechen",
+      "allemand_moderne": "ausbrechen",
+      "francais": "éclater (feu, rire)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bricht … aus, brach … aus, ausgebrochen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stoßen",
+     "allemand_moderne": "stoßen",
+     "francais": "pousser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "stößt, stieß, gestoßen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "aus-stoßen",
+      "allemand_moderne": "ausstoßen",
+      "francais": "pousser dehors, expulser",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "stößt … aus, stieß … aus, ausgestoßen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Löschen",
+     "allemand_moderne": "löschen",
+     "francais": "effacer, éteindre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "aus-löschen",
+      "allemand_moderne": "auslöschen",
+      "francais": "effacer, éteindre entièrement",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Trinken",
+     "allemand_moderne": "trinken",
+     "francais": "boire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "trinkt, trank, getrunken"
+    },
+    "derives": [
+     {
+      "allemand_1855": "aus-trinken",
+      "allemand_moderne": "austrinken",
+      "francais": "vider (un verre)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "trinkt … aus, trank … aus, ausgetrunken"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sein",
+     "allemand_moderne": "sein",
+     "francais": "être",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "ist, war, gewesen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "aus-sein",
+      "allemand_moderne": "aussein",
+      "francais": "être fini",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "ist aus, war aus, aus gewesen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Besser",
+     "allemand_moderne": "besser",
+     "francais": "meilleur",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "aus-bessern",
+      "allemand_moderne": "ausbessern",
+      "francais": "raccommoder",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Breit",
+     "allemand_moderne": "breit",
+     "francais": "large",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "aus-breiten",
+      "allemand_moderne": "ausbreiten",
+      "francais": "étendre",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Bund",
+     "allemand_moderne": "Bund",
+     "francais": "lien, faisceau",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Bünde",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Aus-bund",
+      "allemand_moderne": "Ausbund",
+      "francais": "modèle (en bien, en mal)",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Ausbünde",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot marque départ, exclusion, achèvement.",
+  "page_pdf": 44
+ },
+ {
+  "vedette": "B",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "bleiben",
+     "allemand_moderne": "bleiben",
+     "francais": "rester",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bleibt, blieb, geblieben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-leiben",
+      "allemand_moderne": "beleiben",
+      "francais": "",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "erbarmen",
+     "allemand_moderne": "erbarmen",
+     "francais": "avoir pitié",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "er-be-armen",
+      "allemand_moderne": "erbearmen",
+      "francais": "",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Cette lettre s’emploie quelquefois pour le préfixe be, comme : bleiben, rester, pour be-leiben ; erbarmen, avoir pitié, pour er-be-armen.",
+  "page_pdf": 44
+ },
+ {
+  "vedette": "Be",
+  "categorie": "prép. ins.",
+  "etymologie": "de bei, auprès. A. be. Go. bi. G. épi. I. pi, api",
+  "definition": "près, autour",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Schreiben",
+     "allemand_moderne": "schreiben",
+     "francais": "écrire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schreibt, schrieb, geschrieben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-schreiben",
+      "allemand_moderne": "beschreiben",
+      "francais": "couvrir d’écriture, décrire",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Decken",
+     "allemand_moderne": "decken",
+     "francais": "couvrir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-decken",
+      "allemand_moderne": "bedecken",
+      "francais": "couvrir entièrement",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Nennen",
+     "allemand_moderne": "nennen",
+     "francais": "nommer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-nennen",
+      "allemand_moderne": "benennen",
+      "francais": "dénommer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Malen",
+     "allemand_moderne": "malen",
+     "francais": "peindre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-malen",
+      "allemand_moderne": "bemalen",
+      "francais": "orner de peintures, barbouiller",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sitzen",
+     "allemand_moderne": "sitzen",
+     "francais": "être assis",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "sitzt, saß, gesessen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-sitzen",
+      "allemand_moderne": "besitzen",
+      "francais": "posséder",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "besitzt, besaß, besessen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Suchen",
+     "allemand_moderne": "suchen",
+     "francais": "chercher",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-suchen",
+      "allemand_moderne": "besuchen",
+      "francais": "visiter, faire une visite",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Trinken",
+     "allemand_moderne": "trinken",
+     "francais": "boire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "trinkt, trank, getrunken"
+    },
+    "derives": [
+     {
+      "allemand_1855": "sich be-trinken",
+      "allemand_moderne": "sich betrinken",
+      "francais": "s’enivrer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "betrinkt sich, betrank sich, betrunken"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Graben",
+     "allemand_moderne": "graben",
+     "francais": "creuser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "gräbt, grub, gegraben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-graben",
+      "allemand_moderne": "begraben",
+      "francais": "enterrer (un mort)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "begräbt, begrub, begraben"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mann",
+     "allemand_moderne": "Mann",
+     "francais": "homme",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Männer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-mannen",
+      "allemand_moderne": "bemannen",
+      "francais": "équiper (un vaisseau)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Seele",
+     "allemand_moderne": "Seele",
+     "francais": "âme",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Seelen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-seelen",
+      "allemand_moderne": "beseelen",
+      "francais": "animer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mächtig",
+     "allemand_moderne": "mächtig",
+     "francais": "puissant",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-mächtigen",
+      "allemand_moderne": "bemächtigen",
+      "francais": "s’emparer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Frei",
+     "allemand_moderne": "frei",
+     "francais": "libre",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-freien",
+      "allemand_moderne": "befreien",
+      "francais": "délivrer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot marque proximité, accomplissement, et indique que l’action s’étend sur tout l’objet dont on parle. Be prend quelquefois la signification d’ôter, comme : Vortheil, m. avantage ; be-vortheilen, faire préjudice à.",
+  "page_pdf": 44
+ },
+ {
+  "vedette": "Bei",
+  "categorie": "pr.",
+  "etymologie": "A. by. Go. bi. G. ἐπί. I. api",
+  "definition": "auprès, chez, à. Ce mot marque proximité.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Stehen",
+     "allemand_moderne": "stehen",
+     "francais": "se tenir debout",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "bei-stehen",
+      "allemand_moderne": "beistehen",
+      "francais": "se tenir près, assister",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "steht bei, stand bei, beigestanden"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Tragen",
+     "allemand_moderne": "tragen",
+     "francais": "porter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "trägt, trug, getragen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "bei-tragen",
+      "allemand_moderne": "beitragen",
+      "francais": "contribuer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "trägt bei, trug bei, beigetragen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sitzen",
+     "allemand_moderne": "sitzen",
+     "francais": "être assis",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "sitzt, saß, gesessen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-sitzen",
+      "allemand_moderne": "besitzen",
+      "francais": "posséder",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "besitzt, besaß, besessen"
+     },
+     {
+      "allemand_1855": "bei-sitzen",
+      "allemand_moderne": "beisitzen",
+      "francais": "siéger auprès, assister",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "sitzt bei, saß bei, beigesessen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stehen",
+     "allemand_moderne": "stehen",
+     "francais": "être debout",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-stehen",
+      "allemand_moderne": "bestehen",
+      "francais": "consister",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "besteht, bestand, bestanden"
+     },
+     {
+      "allemand_1855": "bei-stehen",
+      "allemand_moderne": "beistehen",
+      "francais": "assister, prêter secours",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "steht bei, stand bei, beigestanden"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Treten",
+     "allemand_moderne": "treten",
+     "francais": "marcher, poser le pied",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "tritt, trat, getreten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-treten",
+      "allemand_moderne": "betreten",
+      "francais": "fouler, entrer dans",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "betritt, betrat, betreten"
+     },
+     {
+      "allemand_1855": "bei-treten",
+      "allemand_moderne": "beitreten",
+      "francais": "accéder",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "tritt bei, trat bei, beigetreten"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Steuer",
+     "allemand_moderne": "Steuer",
+     "francais": "impôt",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Steuern",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-steuern",
+      "allemand_moderne": "besteuern",
+      "francais": "imposer une taxe",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "besteuert, besteuerte, besteuert"
+     },
+     {
+      "allemand_1855": "bei-steuern",
+      "allemand_moderne": "beisteuern",
+      "francais": "contribuer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "steuert bei, steuerte bei, beigesteuert"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wohnen",
+     "allemand_moderne": "wohnen",
+     "francais": "demeurer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-wohnen",
+      "allemand_moderne": "bewohnen",
+      "francais": "habiter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bewohnt, bewohnte, bewohnt"
+     },
+     {
+      "allemand_1855": "bei-wohnen",
+      "allemand_moderne": "beiwohnen",
+      "francais": "assister (à une fête)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "wohnt bei, wohnte bei, beigewohnt"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Drucken",
+     "allemand_moderne": "drucken",
+     "francais": "imprimer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-drucken",
+      "allemand_moderne": "bedrucken",
+      "francais": "couvrir d’impression",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bedruckt, bedruckte, bedruckt"
+     },
+     {
+      "allemand_1855": "bei-drucken",
+      "allemand_moderne": "beidrucken",
+      "francais": "imprimer avec, à côté",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "druckt bei, druckte bei, beigedruckt"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stimmen",
+     "allemand_moderne": "stimmen",
+     "francais": "voter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-stimmen",
+      "allemand_moderne": "bestimmen",
+      "francais": "fixer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bestimmt, bestimmte, bestimmt"
+     },
+     {
+      "allemand_1855": "bei-stimmen",
+      "allemand_moderne": "beistimmen",
+      "francais": "donner son consentement",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "stimmt bei, stimmte bei, beigestimmt"
+     }
+    ]
+   }
+  ],
+  "remarque": "Quelle que soit l'analogie qui existe entre les préfixes be et bei, il ne faut pas les confondre. Pour mieux faire sentir la nuance qui les sépare, nous allons rapprocher quelques exemples où ils sont joints tous les deux à la même racine :",
+  "page_pdf": 45
+ },
+ {
+  "vedette": "Dar",
+  "categorie": "préf. s'ép.",
+  "etymologie": "de der, lui. A. there. Go. thi. L. tum. G. τῶ, I. tha-thā",
+  "definition": "là. Quand ce préfixe entre en composition avec des verbes, il tient la place de da, là.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Stellen",
+     "allemand_moderne": "stellen",
+     "francais": "placer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "dar-stellen",
+      "allemand_moderne": "darstellen",
+      "francais": "représenter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "stellt dar, stellte dar, dargestellt"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Thun",
+     "allemand_moderne": "tun",
+     "francais": "faire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "tut, tat, getan"
+    },
+    "derives": [
+     {
+      "allemand_1855": "dar-thun",
+      "allemand_moderne": "dartun",
+      "francais": "faire voir, démontrer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "tut dar, tat dar, dargetan"
+     }
+    ]
+   }
+  ],
+  "remarque": "Exemples : Stellen, placer ; dar-stellen (placer là), représenter. Thun, faire ; dar-thun, faire voir, démontrer. Combiné avec des prépositions, dar n'est autre que da avec un r euphonique.",
+  "page_pdf": 45
+ },
+ {
+  "vedette": "Durch",
+  "categorie": "pr.",
+  "etymologie": "A. through. Go. thairh. L. trans. I. tiras",
+  "definition": "par, à travers, au moyen de.",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "durchgehen",
+      "allemand_moderne": "durchgehen",
+      "francais": "passer à travers",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht durch, ging durch, durchgegangen"
+     },
+     {
+      "allemand_1855": "ich gehe durch",
+      "allemand_moderne": "ich gehe durch",
+      "francais": "je passe à travers",
+      "pos": "autre",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "durchgehen",
+      "allemand_moderne": "durchgehen",
+      "francais": "parcourir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "durchgeht, durchging, durchgegangen"
+     },
+     {
+      "allemand_1855": "ich durchgehe",
+      "allemand_moderne": "ich durchgehe",
+      "francais": "je parcours",
+      "pos": "autre",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Le mot durch est accentué et se détache du verbe quand il joue le rôle de préposition inséparable, comme : durchgehen, passer à travers, Prés. ich gehe durch, je passe à travers. Quand il joue le rôle de préfixe et d'adverbe, il n'est pas accentué et ne se détache pas du verbe, comme : durchgehen, parcourir, Prés. ich durchgehe, je parcours.",
+  "page_pdf": 45
+ },
+ {
+  "vedette": "Ein",
+  "categorie": "préf.",
+  "etymologie": "pour in, dans. A. in. Go. inn. L. in. G. ἐν",
+  "definition": "dans, Ein marque repos dans un lieu, ou tendance pour entrer dans un endroit. On l'emploie quelquefois dans le sens de contre et de un, sans.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Binden",
+     "allemand_moderne": "binden",
+     "francais": "lier",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bindet, band, gebunden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ein-binden",
+      "allemand_moderne": "einbinden",
+      "francais": "lier dans, relier",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bindet … ein, band … ein, eingebunden"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Brechen",
+     "allemand_moderne": "brechen",
+     "francais": "rompre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bricht, brach, gebrochen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ein-brechen",
+      "allemand_moderne": "einbrechen",
+      "francais": "irrumpo, entrer par effraction",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bricht … ein, brach … ein, eingebrochen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schreiben",
+     "allemand_moderne": "schreiben",
+     "francais": "écrire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schreibt, schrieb, geschrieben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ein-schreiben",
+      "allemand_moderne": "einschreiben",
+      "francais": "inscrire",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "schreibt … ein, schrieb … ein, eingeschrieben"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fließen",
+     "allemand_moderne": "fließen",
+     "francais": "couler",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "fließt, floss, geflossen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ein-fließen",
+      "allemand_moderne": "einfließen",
+      "francais": "couler dans",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "fließt … ein, floss … ein, eingeflossen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wenden",
+     "allemand_moderne": "wenden",
+     "francais": "tourner",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ein-wenden",
+      "allemand_moderne": "einwenden",
+      "francais": "objecter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kälte",
+     "allemand_moderne": "Kälte",
+     "francais": "pli",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ein-kalt",
+      "allemand_moderne": "einkalt",
+      "francais": "sans pli, simplicité",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Haben",
+     "allemand_moderne": "haben",
+     "francais": "avoir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "hat, hatte, gehabt"
+    },
+    "derives": [
+     {
+      "allemand_1855": "In-haber",
+      "allemand_moderne": "Inhaber",
+      "francais": "possesseur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Inhaber",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schrift",
+     "allemand_moderne": "Schrift",
+     "francais": "écriture, écrit",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Schriften",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "In-schrift",
+      "allemand_moderne": "Inschrift",
+      "francais": "inscription",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Inschriften",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wendig",
+     "allemand_moderne": "wendig",
+     "francais": "tourné",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "in-wendig",
+      "allemand_moderne": "inwendig",
+      "francais": "tourné dedans, intérieur",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Quelquefois, dans les substantifs et les adverbes, on se sert du mot primitif, comme :",
+  "page_pdf": 45
+ },
+ {
+  "vedette": "Emp, Ent",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [],
+  "remarque": "Voy. Ant.",
+  "page_pdf": 46
+ },
+ {
+  "vedette": "Er",
+  "categorie": "préf. ins.",
+  "etymologie": "A. a. Go. us, L. ex. G. ἐκ",
+  "definition": "marque un mouvement vers un endroit élevé, la manière d’atteindre un but et l’accomplissement d’une chose.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Heben",
+     "allemand_moderne": "heben",
+     "francais": "lever",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "hebt, hob, gehoben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "er-heben",
+      "allemand_moderne": "erheben",
+      "francais": "élever, exalter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "erhebt, erhob, erhoben"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Bitten",
+     "allemand_moderne": "bitten",
+     "francais": "prier",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bittet, bat, gebeten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "er-bitten",
+      "allemand_moderne": "erbitten",
+      "francais": "obtenir en priant",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "erbittet, erbat, erbeten"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kennen",
+     "allemand_moderne": "kennen",
+     "francais": "connaître",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "er-kennen",
+      "allemand_moderne": "erkennen",
+      "francais": "reconnaître",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Reichen",
+     "allemand_moderne": "reichen",
+     "francais": "tendre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "er-reichen",
+      "allemand_moderne": "erreichen",
+      "francais": "atteindre",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schöpfen",
+     "allemand_moderne": "schöpfen",
+     "francais": "puiser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "er-schöpfen",
+      "allemand_moderne": "erschöpfen",
+      "francais": "épuiser",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Wärmen",
+     "allemand_moderne": "wärmen",
+     "francais": "chauffer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "er-wärmen",
+      "allemand_moderne": "erwärmen",
+      "francais": "réchauffer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 46
+ },
+ {
+  "vedette": "Erz",
+  "categorie": "ad.",
+  "etymologie": "A. arch. G. ἄρχω",
+  "definition": "très. Ce mot signifie, en composition, ou archi, ou consommé.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Engel",
+     "allemand_moderne": "Engel",
+     "francais": "ange",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Engel",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Erz-engel",
+      "allemand_moderne": "Erzengel",
+      "francais": "archange",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Erzengel",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schelm",
+     "allemand_moderne": "Schelm",
+     "francais": "fripon",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Schelme",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Erz-schelm",
+      "allemand_moderne": "Erzschelm",
+      "francais": "fripon consommé",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Erzschelme",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 46
+ },
+ {
+  "vedette": "Fort",
+  "categorie": "ad.",
+  "etymologie": "de vor, avant. A. forth",
+  "definition": "loin, parti. Ce préfixe signifie continuation et enlèvement.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Rauchen",
+     "allemand_moderne": "rauchen",
+     "francais": "fumer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "fort-rauchen",
+      "allemand_moderne": "fortrauchen",
+      "francais": "continuer à fumer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schneiden",
+     "allemand_moderne": "schneiden",
+     "francais": "couper",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schneidet, schnitt, geschnitten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "fort-schneiden",
+      "allemand_moderne": "fortschneiden",
+      "francais": "enlever en coupant",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "schneidet … fort, schnitt … fort, fortgeschnitten"
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 46
+ },
+ {
+  "vedette": "Für",
+  "categorie": "pr.",
+  "etymologie": "A. for. Go. faur. L. pro. G. πρός, I. pra",
+  "definition": "pour, à la place de.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Bitte",
+     "allemand_moderne": "Bitte",
+     "francais": "la prière",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Bitten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Fürbitte",
+      "allemand_moderne": "Fürbitte",
+      "francais": "intercession, sollicitation",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Fürbitten",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Vorbitte",
+      "allemand_moderne": "Vorbitte",
+      "francais": "intercession, sollicitation",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Vorbitten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sprache",
+     "allemand_moderne": "Sprache",
+     "francais": "langue",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Sprachen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Fürsprache",
+      "allemand_moderne": "Fürsprache",
+      "francais": "médiation, intercession",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Fürsprachen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Vorsprache",
+      "allemand_moderne": "Vorsprache",
+      "francais": "médiation, intercession",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Vorsprachen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sorge",
+     "allemand_moderne": "Sorge",
+     "francais": "souci",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Sorgen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Fürsorge",
+      "allemand_moderne": "Fürsorge",
+      "francais": "précaution",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Fürsorgen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Vorsorge",
+      "allemand_moderne": "Vorsorge",
+      "francais": "précaution",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Vorsorgen",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot qui marque direction, faveur, et qui n’entre pas dans la com-\n...position d’un verbe, a été long-temps confondue avec vor, avant, devant. Mais, aujourd’hui, ces deux prépositions présentent chacune un sens différent; ainsi, für Jemanden fürchten signifie craindre pour qn., tandis que sich vor Jemanden fürchten veut dire avoir peur de qn.\n\nIl n’y a que dans quelques mots composés que l’on a encore conservé les deux formes, comme :",
+  "page_pdf": 46
+ },
+ {
+  "vedette": "G",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Gnade",
+     "allemand_moderne": "Gnade",
+     "francais": "grâce",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Gnaden",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Glied",
+     "allemand_moderne": "Glied",
+     "francais": "membre",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Glieder",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Gleich",
+     "allemand_moderne": "gleich",
+     "francais": "semblable",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "Cette lettre est employée quelquefois pour la syllabe ge, comme b pour la syllabe be.\n\nGnade, f. pour Ge-nade, grâce.\nGlied, n. pour Ge-lied, membre.\nGleich, pour ge-leich, semblable.",
+  "page_pdf": 47
+ },
+ {
+  "vedette": "Ge",
+  "categorie": "préf.",
+  "etymologie": "has (A. y. Go. ga. L. co, cum)",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Stern",
+     "allemand_moderne": "Stern",
+     "francais": "astre",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Sterne",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ge-stirn",
+      "allemand_moderne": "Gestirn",
+      "francais": "constellation",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Gestirne",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Feld",
+     "allemand_moderne": "Feld",
+     "francais": "le champ",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Felder",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ge-filde",
+      "allemand_moderne": "Gefilde",
+      "francais": "champs, campagnes",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Gefilde",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Holz",
+     "allemand_moderne": "Holz",
+     "francais": "bois",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Hölzer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ge-hölz",
+      "allemand_moderne": "Gehölz",
+      "francais": "petit bois, petite forêt",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Gehölze",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Denken",
+     "allemand_moderne": "denken",
+     "francais": "penser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ge-danke",
+      "allemand_moderne": "Gedanke",
+      "francais": "la pensée",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Gedanken",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Setzen",
+     "allemand_moderne": "setzen",
+     "francais": "poser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ge-setz",
+      "allemand_moderne": "Gesetz",
+      "francais": "loi",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Gesetze",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Leiten",
+     "allemand_moderne": "leiten",
+     "francais": "diriger",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ge-leiten",
+      "allemand_moderne": "geleiten",
+      "francais": "accompagner",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Treue",
+     "allemand_moderne": "Treue",
+     "francais": "fidélité",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Treuen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ge-treu",
+      "allemand_moderne": "getreu",
+      "francais": "fidèle",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Composé à tous les participes passés, ce préfixe de noms et de verbes marque un assemblage, une réunion, et joue quelquefois un rôle explétif.",
+  "page_pdf": 47
+ },
+ {
+  "vedette": "Gegen",
+  "categorie": "pr.",
+  "etymologie": "de gen. L. contra, cum",
+  "definition": "contre, vers",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Gegen",
+     "allemand_moderne": "Gegen",
+     "francais": "envers, contre",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "be-gegen-en",
+      "allemand_moderne": "begegnen",
+      "francais": "rencontrer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "ent-gegen",
+      "allemand_moderne": "entgegen",
+      "francais": "répondre, riposter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Gegen-er",
+      "allemand_moderne": "Gegner",
+      "francais": "adversaire",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Gegner",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Gegen-wart",
+      "allemand_moderne": "Gegenwart",
+      "francais": "temps présent",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe marque mouvement vers un autre objet, sans marquer toujours l’opposition de wider, contre. (C’est ainsi que Gegen-rede veut dire réplique, discours en réponse; wider-rede, réplique, discours opposé ou en opposition.)\n\nOn forme quelques verbes et quelques substantifs de ce mot, et il entra\n\nVo. Formation du verbe.\n... dans la composition de quelques noms; mais dans les verbes composés, c’est über qui prend sa place.",
+  "page_pdf": 47
+ },
+ {
+  "vedette": "Heim",
+  "categorie": "adverbe",
+  "etymologie": "A. home. Go. haims. L. humus., G. χῶμα",
+  "definition": "au logis, chez soi",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Kehren",
+     "allemand_moderne": "kehren",
+     "francais": "tourner",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "heim-kehren",
+      "allemand_moderne": "heimkehren",
+      "francais": "retourner chez soi",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Weh",
+     "allemand_moderne": "Weh",
+     "francais": "mal",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Heim-weh",
+      "allemand_moderne": "Heimweh",
+      "francais": "mal du pays",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Rüke",
+     "allemand_moderne": "Rüke",
+     "francais": "méchanceté",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Heim-tücke",
+      "allemand_moderne": "Heimtücke",
+      "francais": "méchanceté cachée astuce",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Dans les composés le sens du mot heim, demeure, est facile à reconnoître. Quelquefois heim prend le sens de secret, caché, comme :",
+  "page_pdf": 48
+ },
+ {
+  "vedette": "Her",
+  "categorie": "adverbe",
+  "etymologie": "A. hither. Go. hidre. L. huc",
+  "definition": "ici, après",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Auf",
+     "allemand_moderne": "auf",
+     "francais": "en haut",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "her-auf",
+      "allemand_moderne": "herauf",
+      "francais": "en haut, vers ici",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "hinauf",
+      "allemand_moderne": "hinauf",
+      "francais": "en haut, auprès, vers là",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Komm her-auf",
+     "allemand_moderne": "Komm herauf",
+     "francais": "monte ici",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "geh hin-auf",
+     "allemand_moderne": "geh hinauf",
+     "francais": "monte là-bas",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   },
+   {
+    "base": {
+     "allemand_1855": "Reise",
+     "allemand_moderne": "Reise",
+     "francais": "voyage",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Reisen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "her-reise",
+      "allemand_moderne": "Herreise",
+      "francais": "voyage vers ce lieu-ci",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Herreisen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "hin-reise",
+      "allemand_moderne": "Hinreise",
+      "francais": "voyage pour départ",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Hinreisen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Führen",
+     "allemand_moderne": "führen",
+     "francais": "conduire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "her-führen",
+      "allemand_moderne": "herführen",
+      "francais": "conduire ici (amener auprès)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "hin-führen",
+      "allemand_moderne": "hinführen",
+      "francais": "conduire là (amener loin de)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "um",
+     "allemand_moderne": "um",
+     "francais": "",
+     "pos": "autre",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "her-um",
+      "allemand_moderne": "herum",
+      "francais": "autour",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "um-her",
+      "allemand_moderne": "umher",
+      "francais": "çà et là",
+      "pos": "adverbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Her et hin sont deux adverbes tout-à-fait opposés. L’un marque rapprochement de la personne qui parle, l’autre au contraire indique l’éloignement de l’endroit où se trouve la personne qui parle. Cette signification ne souffre pas de changement dans la composition. Tous deux se combinent avec des prépositions et d’autres adverbes, avec des substantifs et des verbes. Pour mieux faire sentir la nuance de ces deux mots, nous allons les joindre à deux verbes. Her, composé avec um, a deux formes différentes; her-um signifie autour et marque un mouvement circulaire; um-her signifie çà et là.",
+  "page_pdf": 48
+ },
+ {
+  "vedette": "Hin",
+  "categorie": "adverbe",
+  "etymologie": "A. hence. L. hinc",
+  "definition": "là, en ce lieu-là, vers",
+  "groupes": [],
+  "remarque": "Her et hin sont deux adverbes tout-à-fait opposés. L’un marque rapprochement de la personne qui parle, l’autre au contraire indique l’éloignement de l’endroit où se trouve la personne qui parle. Cette signification ne souffre pas de changement dans la composition. Tous deux se combinent avec des prépositions et d’autres adverbes, avec des substantifs et des verbes.",
+  "page_pdf": 48
+ },
+ {
+  "vedette": "Hinter",
+  "categorie": "préposition",
+  "etymologie": "A. behind. Go. hinder",
+  "definition": "après, derrière",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "bringen",
+     "allemand_moderne": "bringen",
+     "francais": "apporter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bringt, brachte, gebracht"
+    },
+    "derives": [
+     {
+      "allemand_1855": "hinter-bringen",
+      "allemand_moderne": "hinterbringen",
+      "francais": "rapporter clandestinement",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bringt … hinter, brachte … hinter, hintergebracht"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "hinter-gehen",
+      "allemand_moderne": "hintergehen",
+      "francais": "circonvenir, tromper",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht … hinter, ging … hinter, hintergangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Thür",
+     "allemand_moderne": "Tür",
+     "francais": "porte",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Türen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Hinter-thür",
+      "allemand_moderne": "Hintertür",
+      "francais": "porte de derrière",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Hintertüren",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Jointe à un verbe, cette préposition se change en préfixe adverbial, perd l’accent toni-\nElle ajoute ordinairement au sens du verbe l’idée de fausseté et de perfidie. Comme composée de substantifs, hinter conserve l’accent tonique et sa première signification.",
+  "page_pdf": 48
+ },
+ {
+  "vedette": "In",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [],
+  "remarque": "Voy. Ein.",
+  "page_pdf": 49
+ },
+ {
+  "vedette": "K",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Klug",
+     "allemand_moderne": "klug",
+     "francais": "prudent",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": []
+   }
+  ],
+  "remarque": "Cette lettre est employée parfois, dans les mots dérivés, pour g ou pour ge.\n\nExemple : Klug, prudent, pour glug (de glu-en, voir).",
+  "page_pdf": 49
+ },
+ {
+  "vedette": "Miß",
+  "categorie": "préf.",
+  "etymologie": "A. miso. G. missa. G. μίσιον",
+  "definition": "mal",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Heurath",
+     "allemand_moderne": "Heirat",
+     "francais": "mariage",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Heiraten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Miß-Heurath",
+      "allemand_moderne": "Missehe",
+      "francais": "mésalliance",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Missehen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Väter",
+     "allemand_moderne": "Väter",
+     "francais": "l’auteur (d’un fait)",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Väter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Miß-Väter",
+      "allemand_moderne": "Missetäter",
+      "francais": "malfaiteur",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Missetäter",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Billigen",
+     "allemand_moderne": "billigen",
+     "francais": "approuver",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "miß-billigen",
+      "allemand_moderne": "missbilligen",
+      "francais": "désapprouver",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Deuten",
+     "allemand_moderne": "deuten",
+     "francais": "interpréter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "miß-deuten",
+      "allemand_moderne": "missdeuten",
+      "francais": "interpréter mal",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe donne l’idée de l’erreur et du mal, et répond au mé et mal des Français.",
+  "page_pdf": 49
+ },
+ {
+  "vedette": "Mit",
+  "categorie": "pr.",
+  "etymologie": "A. mid. Go. mith. G. μετά. L. mitius",
+  "definition": "avec",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "mitgehen",
+      "allemand_moderne": "mitgehen",
+      "francais": "aller avec, accompagner",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht mit, ging mit, mitgegangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schüler",
+     "allemand_moderne": "Schüler",
+     "francais": "écolier",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Schüler",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Mit-Schüler",
+      "allemand_moderne": "Mitschüler",
+      "francais": "condisciple",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Mitschüler",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Cette préposition marque réunion et communauté.",
+  "page_pdf": 49
+ },
+ {
+  "vedette": "Nach",
+  "categorie": "pr.",
+  "etymologie": "",
+  "definition": "après",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Bilden",
+     "allemand_moderne": "bilden",
+     "francais": "former",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "nach-bilden",
+      "allemand_moderne": "nachbilden",
+      "francais": "copier (un modèle)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Machen",
+     "allemand_moderne": "machen",
+     "francais": "faire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "nach-machen",
+      "allemand_moderne": "nachmachen",
+      "francais": "imiter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Geben",
+     "allemand_moderne": "geben",
+     "francais": "donner",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "gibt, gab, gegeben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "nach-geben",
+      "allemand_moderne": "nachgeben",
+      "francais": "condescendre, céder",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "gibt nach, gab nach, nachgegeben"
+     }
+    ]
+   }
+  ],
+  "remarque": "Cette préposition, qui se rattache pour la forme et pour le sens à l’adjectif nach, près, marque direction vers un objet. En composition elle indique conformité, imitation ou concession.",
+  "page_pdf": 49
+ },
+ {
+  "vedette": "Neben",
+  "categorie": "pr.",
+  "etymologie": "pour in eben, en égalité",
+  "definition": "après, à côté",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Sache",
+     "allemand_moderne": "Sache",
+     "francais": "chose",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Sachen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Neben-sache",
+      "allemand_moderne": "Nebensache",
+      "francais": "chose accessoire",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Nebensachen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zimmer",
+     "allemand_moderne": "Zimmer",
+     "francais": "la chambre",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Zimmer",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Neben-zimmer",
+      "allemand_moderne": "Nebenzimmer",
+      "francais": "chambre voisine, chambre de côté",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Nebenzimmer",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mensch",
+     "allemand_moderne": "Mensch",
+     "francais": "homme",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Menschen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Neben-mensch",
+      "allemand_moderne": "Nebenmensch",
+      "francais": "prochain",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Nebenmenschen",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Cette préposition n’entre en composition qu’avec des substantifs ; en\nCe cas elle joue ordinairement le rôle d’un adjectif, et comme opposée de Haupt, tête, principal, signifie accessoire ou voisin.",
+  "page_pdf": 49
+ },
+ {
+  "vedette": "Nieder",
+  "categorie": "ad.",
+  "etymologie": "A. neath. G. ὑπὸ [?], bas",
+  "definition": "bas, à terre",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Schlagen",
+     "allemand_moderne": "schlagen",
+     "francais": "battre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schlägt, schlug, geschlagen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "nieder-schlagen",
+      "allemand_moderne": "niederschlagen",
+      "francais": "abattre, terrasser",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "schlägt … nieder, schlug … nieder, niedergeschlagen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Blicken",
+     "allemand_moderne": "blicken",
+     "francais": "voir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "nieder-blicken",
+      "allemand_moderne": "niederblicken",
+      "francais": "regarder en bas",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Drücken",
+     "allemand_moderne": "drücken",
+     "francais": "presser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "nieder-drücken",
+      "allemand_moderne": "niederdrücken",
+      "francais": "affaisser, opprimer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Brennen",
+     "allemand_moderne": "brennen",
+     "francais": "brûler",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "nieder-brennen",
+      "allemand_moderne": "niederbrennen",
+      "francais": "brûler de fond en comble",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Legen",
+     "allemand_moderne": "legen",
+     "francais": "poser",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "nieder-legen",
+      "allemand_moderne": "niederlegen",
+      "francais": "déposer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot marque mouvement de haut en bas, et au figuré abaissement.",
+  "page_pdf": 50
+ },
+ {
+  "vedette": "Ob",
+  "categorie": "pr.",
+  "etymologie": "A. up. Go. up. L. ob. G. ἐπί, i. api",
+  "definition": "sur, pour",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Acht",
+     "allemand_moderne": "Acht",
+     "francais": "attention",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Ächte",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ob-acht",
+      "allemand_moderne": "Obacht",
+      "francais": "surveillance",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Hut",
+     "allemand_moderne": "Hut",
+     "francais": "garde",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Hüte",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ob-hut",
+      "allemand_moderne": "Obhut",
+      "francais": "sauvegarde, surveillant",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Siegen",
+     "allemand_moderne": "siegen",
+     "francais": "vaincre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ob-siegen",
+      "allemand_moderne": "obsiegen",
+      "francais": "triompher",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ob vient comme préposition; mais on le trouve dans quelques compositions dans le sens de sur. Ob s’emploie comme préfixe au lieu de oben, en haut, devant des adjectifs formés des verbes, comme : ob-bemeldet, ob-er-mählet, sumner-tionné, etc.",
+  "page_pdf": 50
+ },
+ {
+  "vedette": "Ob",
+  "categorie": "c. dub.",
+  "etymologie": "A. iſ. Go. iabai. G. ἐπεὶ. A. api",
+  "definition": "si, que",
+  "groupes": [],
+  "remarque": "Ce mot ne se combine qu’avec des adverbes, comme ob-gleich, ob-schon, ob-wohl, ob-zwar, si même, si bien, quoique.",
+  "page_pdf": 50
+ },
+ {
+  "vedette": "Ober",
+  "categorie": "a.",
+  "etymologie": "de ob, aux. A. uper. Go. uper. L. super. G. ὑπερ",
+  "definition": "haut, supérieur",
+  "groupes": [
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Ober-Rhein",
+      "allemand_moderne": "Oberrhein",
+      "francais": "Haut-Rhin",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": null,
+    "derives": [
+     {
+      "allemand_1855": "Unter-Rhein",
+      "allemand_moderne": "Unterrhein",
+      "francais": "Bas-Rhin",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Dans les mots composés ober est l’opposé de unter, bas, inférieur, comme Ober-Rhein, m. Haut-Rhin; Unter-Rhein, Bas-Rhin; mais n’entre jamais en composition avec des verbes.",
+  "page_pdf": 50
+ },
+ {
+  "vedette": "Über",
+  "categorie": "pr.",
+  "etymologie": "",
+  "definition": "sur, par dessus",
+  "groupes": [],
+  "remarque": "Dans les mots composés ober est l’opposé de unter, bas, inférieur, comme Ober-Rhein, m. Haut-Rhin; Unter-Rhein, Bas-Rhin; mais n’entre jamais en composition avec des verbes.",
+  "page_pdf": 50
+ },
+ {
+  "vedette": "über",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "marque supériorité et indique qu’un objet s’étend au-dessus d’une autre.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Rock",
+     "allemand_moderne": "Rock",
+     "francais": "habit",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Röcke",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "über-rock",
+      "allemand_moderne": "Überrock",
+      "francais": "surtout",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Überröcke",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Reich",
+     "allemand_moderne": "reich",
+     "francais": "riche",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "über-reich",
+      "allemand_moderne": "überreich",
+      "francais": "extrêmement riche",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Springen",
+     "allemand_moderne": "springen",
+     "francais": "sauter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "springt, sprang, gesprungen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "über-springen",
+      "allemand_moderne": "überspringen",
+      "francais": "sauter par dessus",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "überspringt, übersprang, übersprungen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "über-gehen",
+      "allemand_moderne": "übergehen",
+      "francais": "(transc.) passer de l’autre côté. Ex. : Ich gehe über die Brücke, je passe à l’ennemi",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht … über, ging … über, übergegangen"
+     },
+     {
+      "allemand_1855": "über-gehen",
+      "allemand_moderne": "übergehen",
+      "francais": "omettre, oublier. Ex. : Ich übergehe diese Stelle, j’omets ce passage",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "übergeht, überging, übergangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "legen",
+     "allemand_moderne": "legen",
+     "francais": "mettre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "über-legen",
+      "allemand_moderne": "überlegen",
+      "francais": "mettre dessus",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "legt … über, legte … über, übergelegt"
+     },
+     {
+      "allemand_1855": "über-legen",
+      "allemand_moderne": "überlegen",
+      "francais": "réfléchir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "fahren",
+     "allemand_moderne": "fahren",
+     "francais": "passer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "fährt, fuhr, gefahren"
+    },
+    "derives": [
+     {
+      "allemand_1855": "über-fahren",
+      "allemand_moderne": "überfahren",
+      "francais": "passer de l’autre côté",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "fährt … über, fuhr … über, überfahren"
+     },
+     {
+      "allemand_1855": "über-fahren",
+      "allemand_moderne": "überfahren",
+      "francais": "traduire (un passage)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "überfährt, überfuhr, überfahren"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "treten",
+     "allemand_moderne": "treten",
+     "francais": "marcher, fouler",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "tritt, trat, getreten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "über-treten",
+      "allemand_moderne": "übertreten",
+      "francais": "franchir, passer du côté de",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "tritt … über, trat … über, übergetreten"
+     },
+     {
+      "allemand_1855": "über-treten",
+      "allemand_moderne": "übertreten",
+      "francais": "transgresser un ordre",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "übertritt, übertrat, übertreten"
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe se combine avec des substantifs, des adjectifs et des verbes.\n\nNous avons déjà dit plus haut que über, combiné avec un verbe, est tantôt séparable, tantôt inséparable. Über, jouant le rôle de préposition, se détache du verbe, tandis qu’il fait toujours corps avec le verbe, lorsqu’il en modifie le sens.",
+  "page_pdf": 51
+ },
+ {
+  "vedette": "Ohne",
+  "categorie": "pr.",
+  "etymologie": "de um, sans. Go. inuh. G. ǫv́u. I. ūna",
+  "definition": "sans",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Macht",
+     "allemand_moderne": "Macht",
+     "francais": "la puissance",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Mächte",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ohnmacht",
+      "allemand_moderne": "Ohnmacht",
+      "francais": "impuissance",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Ohnmächte",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "mächtig",
+     "allemand_moderne": "mächtig",
+     "francais": "",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ohn-mächtig",
+      "allemand_moderne": "ohnmächtig",
+      "francais": "impuissant",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Cette préposition, entrant en composition avec des substantifs et des adjectifs, perd sa finale et s’emploie pour la particule négative un.",
+  "page_pdf": 51
+ },
+ {
+  "vedette": "Über",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "Voy. Sher.",
+  "groupes": [],
+  "remarque": "",
+  "page_pdf": 51
+ },
+ {
+  "vedette": "Um",
+  "categorie": "pr.",
+  "etymologie": "pour umd. L. amb. G. ąpų I. ąb́u",
+  "definition": "autour de, pour",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Stand",
+     "allemand_moderne": "Stand",
+     "francais": "état",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Stände",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Um-stand",
+      "allemand_moderne": "Umstand",
+      "francais": "circonstance",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Umstände",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kreis",
+     "allemand_moderne": "Kreis",
+     "francais": "cercle",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Kreise",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Um-kreis",
+      "allemand_moderne": "Umkreis",
+      "francais": "circonférence",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Umkreise",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Weg",
+     "allemand_moderne": "Weg",
+     "francais": "chemin",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Wege",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Um-weg",
+      "allemand_moderne": "Umweg",
+      "francais": "détour",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Umwege",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "um-gehen",
+      "allemand_moderne": "umgehen",
+      "francais": "faire un détour, fréquenter qn.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht … um, ging … um, umgegangen"
+     },
+     {
+      "allemand_1855": "um-gehen",
+      "allemand_moderne": "umgehen",
+      "francais": "éluder.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "umgeht, umging, umgangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "schreiben",
+     "allemand_moderne": "schreiben",
+     "francais": "écrire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schreibt, schrieb, geschrieben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "um-schreiben",
+      "allemand_moderne": "umschreiben",
+      "francais": "écrire autrement, transcrire.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "schreibt … um, schrieb … um, umgeschrieben"
+     },
+     {
+      "allemand_1855": "um-schreiben",
+      "allemand_moderne": "umschreiben",
+      "francais": "paraphraser.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "umschreibt, umschrieb, umschrieben"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "fahren",
+     "allemand_moderne": "fahren",
+     "francais": "aller en voiture, se ber-teau",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "fährt, fuhr, gefahren"
+    },
+    "derives": [
+     {
+      "allemand_1855": "um-fahren",
+      "allemand_moderne": "umfahren",
+      "francais": "renverser avec une voiture, faire un détour en voiture.",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "fährt … um, fuhr … um, umgefahren"
+     },
+     {
+      "allemand_1855": "um-fahren",
+      "allemand_moderne": "umfahren",
+      "francais": "doubler, cingler (un cap).",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "umfährt, umfuhr, umfahren"
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe marque un mouvement circulaire autour d’un corps, ou bien changement de position ; combiné avec des verbes, um est tantôt séparable, tantôt inséparable.",
+  "page_pdf": 51
+ },
+ {
+  "vedette": "Un",
+  "categorie": "préf. ins.",
+  "etymologie": "A. un. Go. un. L. in. G. ἄν, ἄ. I. an, a",
+  "definition": "non, dès, mal.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Ehre",
+     "allemand_moderne": "Ehre",
+     "francais": "honneur",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Ehren",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Un-ehre",
+      "allemand_moderne": "Unehre",
+      "francais": "déshonneur",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Unehren",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Glück",
+     "allemand_moderne": "Glück",
+     "francais": "bonheur",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Glücke",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Un-glück",
+      "allemand_moderne": "Unglück",
+      "francais": "malheur",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "die Unglücke",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mensch",
+     "allemand_moderne": "Mensch",
+     "francais": "homme",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Menschen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Un-mensch",
+      "allemand_moderne": "Unmensch",
+      "francais": "barbare",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Unmenschen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schuld",
+     "allemand_moderne": "Schuld",
+     "francais": "faute, dette",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Schulden",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Un-schuld",
+      "allemand_moderne": "Unschuld",
+      "francais": "innocence",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Geschickt",
+     "allemand_moderne": "geschickt",
+     "francais": "adroit",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "un-geschickt",
+      "allemand_moderne": "ungeschickt",
+      "francais": "maladroit",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sicher",
+     "allemand_moderne": "sicher",
+     "francais": "certain",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "un-sicher",
+      "allemand_moderne": "unsicher",
+      "francais": "incertain",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kraut",
+     "allemand_moderne": "Kraut",
+     "francais": "herbe",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Kräuter",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "un-Kraut",
+      "allemand_moderne": "Unkraut",
+      "francais": "mauvaise herbe (ivraie)",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "That",
+     "allemand_moderne": "Tat",
+     "francais": "action, fait",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Taten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "un-that",
+      "allemand_moderne": "Untat",
+      "francais": "méfait",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Untaten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Maß",
+     "allemand_moderne": "Maß",
+     "francais": "mesure",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Maße",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "un-maß",
+      "allemand_moderne": "Unmaß",
+      "francais": "excès",
+      "pos": "nom",
+      "article": "das",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kosten",
+     "allemand_moderne": "Kosten",
+     "francais": "frais, coût",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Kosten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "un-kosten",
+      "allemand_moderne": "Unkosten",
+      "francais": "frais, dépens",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Unkosten",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe, qui a un sens privatif, marque l’opposé du mot simple qu’il précède.\n\n(Dans ce dernier exemple, le préfixe donne au mot l’idée de mal comme qui diroit : mauvais frais).\n\nLes verbes qui commencent par ce préfixe sont encore précédés de ver, comme : ver-un-glücken, ne pas réussir, échouer ; ver-un-ehren, déshonorer.",
+  "page_pdf": 52
+ },
+ {
+  "vedette": "Unter",
+  "categorie": "pr.",
+  "etymologie": "A. under. Go. under. L. inter. G. ὑπό, I. antar",
+  "definition": "sous, entre, parmi.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Lippe",
+     "allemand_moderne": "Lippe",
+     "francais": "lèvre",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Lippen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Ober-lippe",
+      "allemand_moderne": "Oberlippe",
+      "francais": "lèvre supérieure",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Oberlippen",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Unter-lippe",
+      "allemand_moderne": "Unterlippe",
+      "francais": "lèvre inférieure",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Unterlippen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "über-gehen",
+      "allemand_moderne": "übergehen",
+      "francais": "passer de l’autre côté (omettre)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht über, ging über, übergegangen"
+     },
+     {
+      "allemand_1855": "unter-gehen",
+      "allemand_moderne": "untergehen",
+      "francais": "périr, se coucher (soleil)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht unter, ging unter, ist untergegangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "halten",
+     "allemand_moderne": "halten",
+     "francais": "tenir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "hält, hielt, gehalten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "unter halten",
+      "allemand_moderne": "unterhalten",
+      "francais": "tenir dessous",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "hält unter, hielt unter, untergehalten"
+     },
+     {
+      "allemand_1855": "unter halten",
+      "allemand_moderne": "unterhalten",
+      "francais": "entretenir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "unterhält, unterhielt, unterhalten"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "ziehen",
+     "allemand_moderne": "ziehen",
+     "francais": "tirer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "zieht, zog, gezogen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "unter-ziehen",
+      "allemand_moderne": "unterziehen",
+      "francais": "passer ou tirer dessous",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "zieht unter, zog unter, untergezogen"
+     },
+     {
+      "allemand_1855": "unter-ziehen",
+      "allemand_moderne": "unterziehen",
+      "francais": "oser, se permettre",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "unterzieht, unterzog, unterzogen"
+     }
+    ]
+   }
+  ],
+  "remarque": "Cette préposition est ordinairement opposée à über dans les verbes, et à ober dans les substantifs et les adjectifs. Combinée avec des verbes, elle est tantôt séparable, tantôt inséparable.",
+  "page_pdf": 52
+ },
+ {
+  "vedette": "Ur",
+  "categorie": "préf. ins.",
+  "etymologie": "A. a. Go. us. L. ex. G. ἔξ. I. ut",
+  "definition": "",
+  "groupes": [],
+  "remarque": "Ce préfixe, employé souvent pour vor, avant, marque une haute antiquité, une origine primitive.",
+  "page_pdf": 52
+ },
+ {
+  "vedette": "Ur",
+  "categorie": "",
+  "etymologie": "",
+  "definition": "",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Welt",
+     "allemand_moderne": "Welt",
+     "francais": "monde",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Welten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ur-welt",
+      "allemand_moderne": "urwelt",
+      "francais": "monde primitif",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Urwelten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sache",
+     "allemand_moderne": "Sache",
+     "francais": "chose",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Sachen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ur-sache",
+      "allemand_moderne": "Ursache",
+      "francais": "(chose première), cause",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Ursachen",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Alt",
+     "allemand_moderne": "alt",
+     "francais": "vieux, ancien",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ur-alt",
+      "allemand_moderne": "uralt",
+      "francais": "antique, de la plus haute antiquité",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 53
+ },
+ {
+  "vedette": "Ver",
+  "categorie": "préf. ins.",
+  "etymologie": "A. for. Go. fair. L. per. G. παρὰ. I. parà",
+  "definition": "Ce préfixe marque excès, erreur, perte, achèvement ; joue quelquefois un rôle explétif, et, dans certaines compositions, tient lieu de für, pour.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Nicht",
+     "allemand_moderne": "nicht",
+     "francais": "pas",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ver-nichten",
+      "allemand_moderne": "vernichten",
+      "francais": "anéantir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Spielen",
+     "allemand_moderne": "spielen",
+     "francais": "jouer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ver-spielen",
+      "allemand_moderne": "verspielen",
+      "francais": "perdre au jeu",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Rathen",
+     "allemand_moderne": "raten",
+     "francais": "conseiller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "räth, rieth, gerathen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ver-rathen",
+      "allemand_moderne": "verraten",
+      "francais": "mal conseiller, trahir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "verräth, verrieth, verrathen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schlafen",
+     "allemand_moderne": "schlafen",
+     "francais": "dormir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schläft, schlief, geschlafen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ver-schlafen",
+      "allemand_moderne": "verschlafen",
+      "francais": "passer (l’heure) en dormant",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "verschläft, verschlief, verschlafen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Bleiben",
+     "allemand_moderne": "bleiben",
+     "francais": "rester",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bleibt, blieb, geblieben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ver-bleiben",
+      "allemand_moderne": "verbleiben",
+      "francais": "demeurer, persévérer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "verbleibt, verblieb, verblieben"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Größer",
+     "allemand_moderne": "größer",
+     "francais": "plus grand",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "ver-größern",
+      "allemand_moderne": "vergrößern",
+      "francais": "agrandir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Stehen",
+     "allemand_moderne": "stehen",
+     "francais": "se tenir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "steht, stand, gestanden"
+    },
+    "derives": [
+     {
+      "allemand_1855": "ver-stehen",
+      "allemand_moderne": "verstehen",
+      "francais": "(tenir pour, répondre), comprendre",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "versteht, verstand, verstanden"
+     }
+    ]
+   }
+  ],
+  "remarque": "Ver dans le sens de mal.\nver-stehen, mal voir, se tromper\nver-führen, (mal parler) se tromper en parlant\nver-führen, (mal conduire) séduire\nver-schreiben, (mal écrire) se tromper en écrivant, user en écrivant\n\nVer dans le sens de pour,\nver-stehen, se pouvoir\nver-sprechen, engager sa parole, promettre\nver-führen, transporter (des marchandises)\nver-schreiben, assurer par écrit, écrire pour faire venir",
+  "page_pdf": 53
+ },
+ {
+  "vedette": "Voll",
+  "categorie": "adjectif",
+  "etymologie": "A. full. Go. fulls. L. plenus. G. πλήρης ; I. pulas",
+  "definition": "plein ; Ce préfixe marque accomplissement et plénitude.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Führen",
+     "allemand_moderne": "führen",
+     "francais": "conduire",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "voll-führen",
+      "allemand_moderne": "vollführen",
+      "francais": "conduire à fin, effectuer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Macht",
+     "allemand_moderne": "Macht",
+     "francais": "pouvoir",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Mächte",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Voll-macht",
+      "allemand_moderne": "Vollmacht",
+      "francais": "plein pouvoir",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Vollmachten",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Mond",
+     "allemand_moderne": "Mond",
+     "francais": "lune",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Monde",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Voll-mond",
+      "allemand_moderne": "Vollmond",
+      "francais": "pleine lune",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Vollmonde",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zahl",
+     "allemand_moderne": "Zahl",
+     "francais": "nombre",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Zahlen",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "voll-zählig",
+      "allemand_moderne": "vollzählig",
+      "francais": "ayant le nombre requis, complet",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gültig",
+     "allemand_moderne": "gültig",
+     "francais": "valable",
+     "pos": "adjectif",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "voll-gültig",
+      "allemand_moderne": "vollgültig",
+      "francais": "qui a la valeur requise",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Geheimniß",
+     "allemand_moderne": "Geheimnis",
+     "francais": "mystère",
+     "pos": "nom",
+     "article": "das",
+     "pluriel": "die Geheimnisse",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "geheimniß-voll",
+      "allemand_moderne": "geheimnisvoll",
+      "francais": "mystérieux",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe sert aussi quelquefois d’affixe, en se joignant comme adjectif à un substantif, comme :",
+  "page_pdf": 53
+ },
+ {
+  "vedette": "Von",
+  "categorie": "pr.",
+  "etymologie": "",
+  "definition": "de, du, par.",
+  "groupes": [],
+  "remarque": "Cette préposition n’entre en composition qu’avec le pluriel du substantif Noth, besoin, dont on a fait un adjectif indéclinable, von-nöthen, nécessaire.",
+  "page_pdf": 53
+ },
+ {
+  "vedette": "Vor",
+  "categorie": "pr.",
+  "etymologie": "A. fore. Go. saura. L. pra. G. πρό. I. prā",
+  "definition": "avant, devant",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Arbeiten",
+     "allemand_moderne": "arbeiten",
+     "francais": "travailler",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "vor-arbeiten",
+      "allemand_moderne": "vorarbeiten",
+      "francais": "travailler en présence, devancer, préparer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Tragen",
+     "allemand_moderne": "tragen",
+     "francais": "porter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "trägt, trug, getragen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "vor-tragen",
+      "allemand_moderne": "vortragen",
+      "francais": "porter devant, proposer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "trägt vor, trug vor, vorgetragen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Setzen",
+     "allemand_moderne": "setzen",
+     "francais": "placer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "vor-setzen",
+      "allemand_moderne": "vorsetzen",
+      "francais": "placer devant, préposer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "(sich) vor-setzen",
+      "allemand_moderne": "(sich) vorsetzen",
+      "francais": "se proposer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     },
+     {
+      "allemand_1855": "Vor-setz-lich",
+      "allemand_moderne": "vorsetzlich",
+      "francais": "prémédité",
+      "pos": "adjectif",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Werfen",
+     "allemand_moderne": "werfen",
+     "francais": "jeter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "wirft, warf, geworfen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "vor-werfen",
+      "allemand_moderne": "vorwerfen",
+      "francais": "jeter devant, reprocher",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "wirft vor, warf vor, vorgeworfen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Liebe",
+     "allemand_moderne": "Liebe",
+     "francais": "amour",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Lieben",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Vor-liebe",
+      "allemand_moderne": "Vorliebe",
+      "francais": "prédilection",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Vorlieben",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Bote",
+     "allemand_moderne": "Bote",
+     "francais": "messager",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Boten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Vor-bote",
+      "allemand_moderne": "Vor bote",
+      "francais": "précurseur, présage",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Vorboten",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Cette préposition indique présence et préférence; jointe à un verbe, elle est séparable et conserve l’accent tonique (voy. Für).",
+  "page_pdf": 54
+ },
+ {
+  "vedette": "Weg",
+  "categorie": "préf. sép.",
+  "etymologie": "A. way. L. ve. G. αὐτ., L. vadis",
+  "definition": "Ce préfixe marque, dans les verbes composés, ou une absence ou un éloignement.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Sein",
+     "allemand_moderne": "sein",
+     "francais": "être",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "ist, war, gewesen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "weg-sein",
+      "allemand_moderne": "weg sein",
+      "francais": "être absent, n’être plus",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "ist weg, war weg, weg gewesen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "weg-gehen",
+      "allemand_moderne": "weggehen",
+      "francais": "s’en aller",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht weg, ging weg, weggegangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Nehmen",
+     "allemand_moderne": "nehmen",
+     "francais": "prendre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "nimmt, nahm, genommen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "weg-nehmen",
+      "allemand_moderne": "wegnehmen",
+      "francais": "enlever, ôter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "nimmt weg, nahm weg, weggenommen"
+     }
+    ]
+   }
+  ],
+  "remarque": "",
+  "page_pdf": 54
+ },
+ {
+  "vedette": "Wider",
+  "categorie": "pr.",
+  "etymologie": "A. wither. Go. withra",
+  "definition": "contre",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Sprechen",
+     "allemand_moderne": "sprechen",
+     "francais": "dire, parler",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "spricht, sprach, gesprochen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "wider-sprechen",
+      "allemand_moderne": "widersprechen",
+      "francais": "contredire",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "spricht wider, sprach wider, widersprochen"
+     },
+     {
+      "allemand_1855": "Wider-spruch",
+      "allemand_moderne": "Widerspruch",
+      "francais": "contradiction",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Widersprüche",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe marque opposition, et, en composition avec des verbes, il en est inséparable et n’a jamais l’accent tonique.",
+  "page_pdf": 54
+ },
+ {
+  "vedette": "Wieder",
+  "categorie": "ad.",
+  "etymologie": "",
+  "definition": "de nouveau, derechef",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Anfangen",
+     "allemand_moderne": "anfangen",
+     "francais": "commencer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "fängt an, fing an, angefangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "wieder-anfangen",
+      "allemand_moderne": "wiederanfangen",
+      "francais": "recommencer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "fängt wieder an, fing wieder an, wieder angefangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Kauen",
+     "allemand_moderne": "kauen",
+     "francais": "mâcher",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "wieder-kauen",
+      "allemand_moderne": "wiederkauen",
+      "francais": "mâcher de nouveau, ruminer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Holen",
+     "allemand_moderne": "holen",
+     "francais": "aller chercher",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "wieder-holen",
+      "allemand_moderne": "wiederholen",
+      "francais": "chercher de nouveau, reprendre",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce préfixe accentué, qui marque le retour dans un premier état et la répétition de la même action, se rend ordinairement en français par re. (Dans wieder-holen, répéter, wieder est inséparable, n’a pas l’accent tonique et perd l’augment au participe passé).",
+  "page_pdf": 54
+ },
+ {
+  "vedette": "Zer",
+  "categorie": "préf. insép.",
+  "etymologie": "Go. dis. L. dis. G. διά",
+  "definition": "préfixe qui marque séparation, destruction; ne se combine qu’avec des verbes et leurs dérivés.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Schlagen",
+     "allemand_moderne": "schlagen",
+     "francais": "battre, frapper",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schlägt, schlug, geschlagen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zer-schlagen",
+      "allemand_moderne": "zerschlagen",
+      "francais": "mettre en morceaux, briser",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "zerschlägt, zerschlug, zerschlagen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Schneiden",
+     "allemand_moderne": "schneiden",
+     "francais": "couper",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "schneidet, schnitt, geschnitten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zer-schneiden",
+      "allemand_moderne": "zerschneiden",
+      "francais": "decouper",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "zerschneidet, zerschnitt, zerschnitten"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "abarbeiten",
+     "allemand_moderne": "abarbeiten",
+     "francais": "travailler",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zer-arbeiten",
+      "allemand_moderne": "zerarbeiten",
+      "francais": "se tuer à force de travail",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "beissen",
+     "allemand_moderne": "beißen",
+     "francais": "mordre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "beißt, biss, gebissen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zer-beissen",
+      "allemand_moderne": "zerbeißen",
+      "francais": "détruire en mordant, serrer les dents (pour étouffer la douleur)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "zerbeißt, zerbiss, zerbissen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "nicht",
+     "allemand_moderne": "nicht",
+     "francais": "pas",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zer-nichten",
+      "allemand_moderne": "zernichten",
+      "francais": "anéantir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "beissen",
+     "allemand_moderne": "beißen",
+     "francais": "mordre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "beißt, biss, gebissen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zer-beissen",
+      "allemand_moderne": "zerbeißen",
+      "francais": "casser avec les dents (mordre un gland)",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "zerbeißt, zerbiss, zerbissen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "nicht",
+     "allemand_moderne": "nicht",
+     "francais": "pas",
+     "pos": "adverbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zer-nichten",
+      "allemand_moderne": "zernichten",
+      "francais": "détruire, réduire en morceaux",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Devant les verbes réfléchis, zer- marque ordinairement peine, épuisement, comme : abarbeiten, travailler, zer-arbeiten, se tuer à force de travail.\nLes deux préfixes ver et zer s'emploient quelquefois l'un pour l'autre, mais ne sauraient être confondus, car ver marque une destruction complète, et zer une destruction partielle ou une séparation violente.",
+  "page_pdf": 54
+ },
+ {
+  "vedette": "Zu",
+  "categorie": "pr.",
+  "etymologie": "A. to. Go. du. L. de",
+  "definition": "à, au, à la, chez.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "legen",
+     "allemand_moderne": "legen",
+     "francais": "mettre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zu-legen",
+      "allemand_moderne": "zulegen",
+      "francais": "mettre à, ajouter",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Gehen",
+     "allemand_moderne": "gehen",
+     "francais": "aller",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "geht, ging, gegangen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zu-gehen",
+      "allemand_moderne": "zugehen",
+      "francais": "aller vers, continuer de marcher",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "geht ... zu, ging ... zu, zugegangen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Decken",
+     "allemand_moderne": "decken",
+     "francais": "couvrir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zu-decken",
+      "allemand_moderne": "zudecken",
+      "francais": "fermer en couvrant",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Machen",
+     "allemand_moderne": "machen",
+     "francais": "faire, rendre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zu-machen",
+      "allemand_moderne": "zumachen",
+      "francais": "rendre clos, fermer",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Nehmen",
+     "allemand_moderne": "nehmen",
+     "francais": "prendre",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "nimmt, nahm, genommen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zu-nehmen",
+      "allemand_moderne": "zunehmen",
+      "francais": "accroître",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "nimmt ... zu, nahm ... zu, zugenommen"
+     }
+    ]
+   }
+  ],
+  "remarque": "Zu, en composition avec un verbe, marque addition, direction et fermeture.",
+  "page_pdf": 55
+ },
+ {
+  "vedette": "Zurück",
+  "categorie": "ad.",
+  "etymologie": "",
+  "definition": "en arrière, de retour.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Bleiben",
+     "allemand_moderne": "bleiben",
+     "francais": "rester",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bleibt, blieb, geblieben"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zurück-bleiben",
+      "allemand_moderne": "zurückbleiben",
+      "francais": "rester en arrière",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bleibt ... zurück, blieb ... zurück, zurückgeblieben"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Halten",
+     "allemand_moderne": "halten",
+     "francais": "tenir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "hält, hielt, gehalten"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zurück-halten",
+      "allemand_moderne": "zurückhalten",
+      "francais": "retenir",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "hält ... zurück, hielt ... zurück, zurückgehalten"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Sein",
+     "allemand_moderne": "sein",
+     "francais": "être",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "ist, war, gewesen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zurück-sein",
+      "allemand_moderne": "zurücksein",
+      "francais": "être de retour",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "ist ... zurück, war ... zurück, zurück gewesen"
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot ne doit pas être confondu avec wieder, de nouveau. (C'est ainsi que zurückkommen signifie revenir (de voyage), et wiederkommen, revenir (venir de nouveau).",
+  "page_pdf": 55
+ },
+ {
+  "vedette": "Zusammen",
+  "categorie": "ad.",
+  "etymologie": "de sam, à-la-fois",
+  "definition": "ensemble.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Bringen",
+     "allemand_moderne": "bringen",
+     "francais": "apporter",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "bringt, brachte, gebracht"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zusammen-bringen",
+      "allemand_moderne": "zusammenbringen",
+      "francais": "porter ensemble, assembler",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "bringt ... zusammen, brachte ... zusammen, zusammengebracht"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Fallen",
+     "allemand_moderne": "fallen",
+     "francais": "tomber",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": "fällt, fiel, gefallen"
+    },
+    "derives": [
+     {
+      "allemand_1855": "zusammen-fallen",
+      "allemand_moderne": "zusammenfallen",
+      "francais": "(tomber ensemble), s'écrouler",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": "fällt ... zusammen, fiel ... zusammen, zusammengefallen"
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "halten",
+     "allemand_moderne": "halten",
+     "francais": "tenir",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zusammen-halten",
+      "allemand_moderne": "zusammenhalten",
+      "francais": "tenir ensemble, être d’accord",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Rechnen",
+     "allemand_moderne": "rechnen",
+     "francais": "calculer",
+     "pos": "verbe",
+     "article": "",
+     "pluriel": "",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "zusammen-rechnen",
+      "allemand_moderne": "zusammenrechnen",
+      "francais": "sommer, additionner",
+      "pos": "verbe",
+      "article": "",
+      "pluriel": "",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Ce mot marque réunion, et se joint à des verbes et à leurs dérivés.",
+  "page_pdf": 55
+ },
+ {
+  "vedette": "Zwischen",
+  "categorie": "pr.",
+  "etymologie": "de zwei, deux. A. twix. L. dis. I. duis. enlre",
+  "definition": "Ce préfixe, qui ne se compose pas avec des verbes, marque un état intermédiaire.",
+  "groupes": [
+   {
+    "base": {
+     "allemand_1855": "Raum",
+     "allemand_moderne": "Raum",
+     "francais": "espace",
+     "pos": "nom",
+     "article": "der",
+     "pluriel": "die Räume",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zwischen-raum",
+      "allemand_moderne": "Zwischenraum",
+      "francais": "intervalle",
+      "pos": "nom",
+      "article": "der",
+      "pluriel": "die Zwischenräume",
+      "irreguliers": ""
+     }
+    ]
+   },
+   {
+    "base": {
+     "allemand_1855": "Zeit",
+     "allemand_moderne": "Zeit",
+     "francais": "temps",
+     "pos": "nom",
+     "article": "die",
+     "pluriel": "die Zeiten",
+     "irreguliers": ""
+    },
+    "derives": [
+     {
+      "allemand_1855": "Zwischenzeit",
+      "allemand_moderne": "Zwischenzeit",
+      "francais": "entre-temps, intervalle",
+      "pos": "nom",
+      "article": "die",
+      "pluriel": "die Zwischenzeiten",
+      "irreguliers": ""
+     }
+    ]
+   }
+  ],
+  "remarque": "Quant aux mots früh, de bonne heure ; recht, droit ; lieb, cher, et autres adverbes qui entrent dans la composition de quelques verbes et de leurs dérivés, on les trouve dans le corps de l’ouvrage.",
+  "page_pdf": 56
+ }
+]
