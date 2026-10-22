@@ -1,6 +1,6 @@
 # Ma liste — format de `dictionnaire.json`
 
-Le fichier se remplit à la main. Après modification, lancer à la racine du projet :
+Le fichier se remplit à la main. Il alimente deux pages générées en HTML complet (rien n'est lu en JSON par le navigateur) : `index.html` (la liste en arborescence) et `apprentissage.html` (colonnes allemand | français, avec masquage d'une colonne pour se tester, recherche, curseur de police). Après modification, lancer à la racine du projet :
 
 ```
 python build_jardin.py        # régénère seulement cette page

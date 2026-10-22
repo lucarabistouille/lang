@@ -58,6 +58,13 @@ td.hide,.masque{filter:blur(7px);cursor:pointer;user-select:none}
 td.hide:hover{filter:none}
 footer{padding:2rem 16px;color:var(--mut);font:13px system-ui,sans-serif}
 footer a{color:var(--acc)}
+details.az2{margin:0 0 1rem;font:14px system-ui,sans-serif}
+details.az2 summary{cursor:pointer;color:var(--mut)}
+.vo{display:none}
+body.v-o .vm{display:none}
+body.v-o .vo{display:inline}
+body.m-de td.de,body.m-fr td.fr{filter:blur(7px);cursor:pointer;user-select:none}
+body td.rev{filter:none!important}
 a.src{font:11px system-ui,sans-serif;color:var(--mut);text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:0 .35rem;margin-left:.5rem;white-space:nowrap;font-weight:400;vertical-align:middle}
 a.src:hover{color:var(--acc);border-color:var(--acc)}
 a.src-r{float:right;margin:.1rem 0 0 .5rem}
