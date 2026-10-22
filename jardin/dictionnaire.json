@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "titre": "Nouveau jardin des Racines Allemandes",
+    "auteur": "Luc Absil",
+    "intro": "Un recueil personnel de vocabulaire et de notes prises au gré de ma lecture du Herkunftswörterbuch (Duden), organisé par famille étymologique sur le modèle d’anciens manuels.",
+    "tri": true
+  },
+  "entrees": [
+    {
+      "de": "Aal",
+      "article": "der",
+      "pluriel": "die Aale",
+      "fr": "l’anguille",
+      "etym": "cf. lat. anguilla, gr. égchelys",
+      "enfants": [
+        {
+          "de": "aalen",
+          "type": "mot",
+          "fr": "se prélasser"
+        },
+        {
+          "de": "aal[[glatt]]",
+          "type": "derive",
+          "fr": "glissant comme une anguille",
+          "enfants": [
+            {
+              "type": "prov",
+              "de": "sich drehen und winden wie ein Aal",
+              "fr": "se faufiler comme une anguille"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "de": "glatt",
+      "type": "mot",
+      "fr": "lisse, glissant"
+    },
+    {
+      "de": "Adler",
+      "article": "der",
+      "pluriel": "die Adler",
+      "fr": "l’aigle (mot courant)",
+      "etym": "de Edel-aar, « noble aigle »",
+      "enfants": [
+        {
+          "de": "Aar",
+          "type": "derive",
+          "article": "der",
+          "fr": "l’aigle (poétique)"
+        }
+      ]
+    },
+    {
+      "de": "Abend",
+      "article": "der",
+      "pluriel": "die Abende",
+      "fr": "le soir, la soirée",
+      "etym": "cf. angl. eve/ning, norrois aptann",
+      "enfants": [
+        {
+          "de": "abends",
+          "type": "mot",
+          "fr": "le soir, ce soir (adv.)"
+        },
+        {
+          "de": "Abendland",
+          "type": "mot",
+          "article": "das",
+          "fr": "l’Occident"
+        },
+        {
+          "type": "note",
+          "fr": "voir aussi [[Aal]] (exemple de lien entre entrées)"
+        }
+      ]
+    }
+  ]
+}

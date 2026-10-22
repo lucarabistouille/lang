@@ -1,8 +1,96 @@
 <!doctype html><html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Eichhoff (1855) — Dictionnaire étymologique des racines allemandes</title><script src="theme.js"></script><link rel="stylesheet" href="style.css"></head><body>
-<header><h1>Eichhoff (1855) — Dictionnaire étymologique des racines allemandes</h1><nav class="top"><a href="index.html" class=on>Accueil</a><a href="prefixes.html">Préfixes</a><a href="desinences.html">Désinences</a><a href="dictionnaire.html">Dictionnaire</a><button class="btn" id="theme" type="button" aria-label="Basculer entre thème clair et sombre" title="Thème clair / sombre">◐</button></nav></header><main><section class="hero">
-<p>Édition numérisée et annotée du <em>Dictionnaire étymologique des racines allemandes, avec leur signification française, et leurs dérivés classés par familles</em> de Frédéric-Gustave Eichhoff (1855).</p>
-<p>Chaque entrée existe en deux versions : l'orthographe de 1855, et une version où seule l'orthographe de l'<strong>allemand</strong> est modernisée (<em>Thun</em> → <em>tun</em>). Le français d'époque est conservé tel quel. Les noms reçoivent leur article et leur pluriel, les verbes forts leurs formes irrégulières ; verbes, adjectifs et adverbes sont en minuscules pour se distinguer des noms.</p>
-<p class="stats">1450 mots annotés</p></section>
-<section class="sections"><div class="card"><span class="badge ok">Disponible</span><h2>§ 1 — Liste alphabétique des préfixes</h2><span class="pages">pp. XXXVIII–LII (PDF 42–56) · 59 entrées, 485 mots</span><div class="actions"><a href="prefixes.html">Lire</a><a href="prefixes-apprentissage.html">Apprendre</a><a href="eichhoff-prefixes.pdf">PDF ↓</a></div></div><div class="card"><span class="badge ok">Disponible</span><h2>§ 2 — Liste alphabétique des désinences</h2><span class="pages">pp. LIII–LXX (PDF 57–74) · 63 entrées, 624 mots</span><div class="actions"><a href="desinences.html">Lire</a><a href="desinences-apprentissage.html">Apprendre</a><a href="eichhoff-desinences.pdf">PDF ↓</a></div></div><div class="card"><span class="badge ok">Disponible</span><h2>Dictionnaire — Racines allemandes et dérivés par familles</h2><span class="pages">lettre A pour l&#x27;instant (PDF 103–110) · 148 entrées, 341 mots</span><div class="actions"><a href="dictionnaire.html">Lire</a><a href="dictionnaire-apprentissage.html">Apprendre</a><a href="eichhoff-dictionnaire.pdf">PDF ↓</a></div></div></section></main><footer><p>Transcription numérisée d'après l'édition de 1855 (Google Livres). Les entrées « moderne » ne modifient que l'orthographe de l'allemand (noms avec article et pluriel, formes irrégulières des verbes ajoutés automatiquement) ; le français est conservé tel quel. Transcription automatique : des erreurs sont possibles.</p></footer></body></html>
+<title>Lemmes allemands</title><script>(function(){
+var r=document.documentElement;
+try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light')r.dataset.theme=t;}catch(e){}
+function eff(){return r.dataset.theme||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}
+function maj(b){var d=eff()==='dark';b.textContent=d?'\u2600':'\u263E';b.title=d?'Passer au thème clair':'Passer au thème sombre';}
+document.addEventListener('DOMContentLoaded',function(){
+ var b=document.getElementById('theme');if(!b)return;maj(b);
+ b.addEventListener('click',function(){
+  var n=eff()==='dark'?'light':'dark';r.dataset.theme=n;
+  try{localStorage.setItem('theme',n);}catch(e){}
+  maj(b);});
+});})();
+</script>
+<style>
+:root{color-scheme:light;--bg:#fbf8f1;--fg:#231f1a;--mut:#7a6f60;--acc:#8a2b1d;--line:#e2d9c6;--card:#fffdf8;--de:#1d4e6b;--fr:#6b3d1d}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){color-scheme:dark;--bg:#171512;--fg:#ebe4d6;--mut:#a39a89;--acc:#e08a74;--line:#34302a;--card:#1f1c18;--de:#8cc3e2;--fr:#e2b88c}}
+:root[data-theme=dark]{color-scheme:dark;--bg:#171512;--fg:#ebe4d6;--mut:#a39a89;--acc:#e08a74;--line:#34302a;--card:#1f1c18;--de:#8cc3e2;--fr:#e2b88c}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.55 Georgia,'Times New Roman',serif}
+header,main,footer{max-width:60rem;margin:0 auto;padding:0 16px}
+header{padding-top:28px}
+h1{font-size:1.5rem;margin:0 0 .2rem}
+.sub{color:var(--mut);margin:0 0 1rem}
+nav.top{display:flex;gap:.5rem;flex-wrap:wrap;margin:.8rem 0 1rem}
+nav.top a,.btn{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:.3rem .75rem;border-radius:999px;text-decoration:none;font:14px system-ui,sans-serif;cursor:pointer}
+nav.top a.on,.btn.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+nav.top #theme{margin-left:auto}
+nav.top.sub2{margin-top:-.4rem}
+nav.top.sub2 a{font-size:13px;padding:.2rem .65rem;border-style:dashed}
+nav.top.sub2 a.on{border-style:solid}
+.hero{margin:.5rem 0 1.5rem}.hero p{max-width:42rem}
+.sections{display:grid;gap:.9rem;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));margin:1rem 0}
+.sections .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.4rem}
+.sections h2{margin:0;font-size:1.15rem;color:var(--acc)}
+.sections .pages{color:var(--mut);font:13px system-ui,sans-serif}
+.sections .actions{display:flex;gap:.4rem;flex-wrap:wrap;margin-top:auto;padding-top:.5rem}
+.sections .actions a{border:1px solid var(--line);border-radius:999px;padding:.25rem .7rem;text-decoration:none;color:var(--fg);font:14px system-ui,sans-serif}
+.sections .actions a:hover{background:var(--acc);color:#fff;border-color:var(--acc)}
+.badge{align-self:flex-start;font:12px system-ui,sans-serif;border-radius:999px;padding:.1rem .6rem;border:1px solid var(--line);color:var(--mut)}
+.badge.ok{background:var(--acc);color:#fff;border-color:var(--acc)}
+.card.soon{opacity:.65}
+.stats{color:var(--mut);font:14px system-ui,sans-serif}
+.tools{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;margin:.5rem 0 1rem;position:sticky;top:0;background:var(--bg);padding:.5rem 0;z-index:2}
+.tools input{flex:1 1 12rem;padding:.4rem .7rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);font:15px system-ui,sans-serif}
+.az{display:flex;gap:.3rem;flex-wrap:wrap;margin-bottom:1rem;font:14px system-ui,sans-serif}
+.az a{color:var(--acc);text-decoration:none;padding:0 .3rem}
+article{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.9rem 1.1rem;margin:0 0 .9rem}
+article h2{margin:0;font-size:1.35rem;color:var(--acc)}
+.cat{font-style:italic;color:var(--mut);margin-left:.4rem;font-size:.95rem}
+.ety{color:var(--mut);font-size:.9rem}
+.def{margin:.3rem 0}
+.ex{margin:.4rem 0 .2rem;padding-left:1rem;border-left:3px solid var(--line)}
+.ex p{margin:.15rem 0}
+.grp{margin:.45rem 0}
+.notes-titre,table.pairs tr.nt td{font:600 12px system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--mut);margin:.8rem 0 .1rem}
+table.pairs tr.nt td{padding-top:.8rem;border-top:none;width:auto}
+.grp .der{margin-left:1.4rem}
+.fl,.der .fl{color:var(--mut)}
+table.pairs tr.der td.de{padding-left:1.9rem}
+table.pairs tr.der td{border-top-style:dotted}
+table.pairs tr.g1 td{border-top:1px solid var(--line)}
+.de{color:var(--de);font-weight:600}
+.fr{color:var(--fr)}
+.ext{color:var(--mut);font-size:.88rem;font-weight:400}
+.rem{font-size:.95rem;margin:.5rem 0 0}
+.orig{color:var(--mut);font-size:.85rem}
+table.pairs{width:100%;border-collapse:collapse;margin:.5rem 0}
+table.pairs th{font:600 12px system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--mut);text-align:left;padding:.2rem .5rem}
+table.pairs td{padding:.3rem .5rem;border-top:1px solid var(--line);width:50%;vertical-align:top}
+td.hide,.masque{filter:blur(7px);cursor:pointer;user-select:none}
+td.hide:hover{filter:none}
+footer{padding:2rem 16px;color:var(--mut);font:13px system-ui,sans-serif}
+footer a{color:var(--acc)}
+a.src{font:11px system-ui,sans-serif;color:var(--mut);text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:0 .35rem;margin-left:.5rem;white-space:nowrap;font-weight:400;vertical-align:middle}
+a.src:hover{color:var(--acc);border-color:var(--acc)}
+a.src-r{float:right;margin:.1rem 0 0 .5rem}
+article h2 a.src{font-size:11px}
+article.mot{padding:.45rem .9rem;margin:0 0 .45rem}
+article.mot .base{margin:.1rem 0}
+article.mot .ety{margin:0 0 .15rem}
+table.pairs.dico tr.base td{padding-top:.55rem}
+table.pairs.dico tr.et td{border-top:none;color:var(--mut);font-size:.88rem;padding-top:0;padding-bottom:.1rem;width:auto}
+table.pairs.dico tr.base.g1 td{border-top:1px solid var(--line)}
+.hidden{display:none}
+@media print{
+ body{background:#fff;color:#000;font-size:10.5pt}
+ nav.top,.tools,.az,footer .noprint,a.src{display:none}
+ article{break-inside:avoid;border-color:#bbb}
+ :root,:root[data-theme=dark],:root[data-theme=light]{color-scheme:light;--bg:#fff;--fg:#000;--card:#fff;--de:#1d4e6b;--fr:#6b3d1d;--acc:#8a2b1d;--mut:#555;--line:#ccc}
+}
+.portail{text-decoration:none;color:inherit}.portail:hover{border-color:var(--acc)}.portail p{margin:.2rem 0 0}</style></head><body>
+<header><h1>Lemmes allemands</h1><p class="sub">Racines, familles de mots et étymologie</p>
+<nav class="top"><button class="btn" id="theme" type="button" aria-label="Basculer entre thème clair et sombre">◐</button></nav></header>
+<main><section class="sections"><a class="card portail" href="eichhoff/index.html"><h2>Eichhoff (1855)</h2><span class="pages">Dictionnaire étymologique des racines allemandes</span><p>Édition numérisée et annotée : préfixes, désinences et dictionnaire. Orthographe de 1855 et orthographe allemande modernisée.</p></a><a class="card portail" href="jardin/index.html"><h2>Ma liste</h2><span class="pages">Nouveau jardin des racines allemandes</span><p>Ma liste personnelle de vocabulaire, organisée par familles de mots (fichier dictionnaire.json à compléter).</p></a></section></main></body></html>
