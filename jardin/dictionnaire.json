@@ -1,27 +1,26 @@
 {
   "meta": {
+    "tri": true,
     "titre": "Nouveau jardin des Racines Allemandes",
     "auteur": "Luc Absil",
-    "intro": "Un recueil personnel de vocabulaire et de notes prises au gré de ma lecture du Herkunftswörterbuch (Duden), organisé par famille étymologique sur le modèle d’anciens manuels.",
-    "tri": true
+    "intro": "Un recueil personnel de vocabulaire et de notes prises au gré de ma lecture du Herkunftswörterbuch (Duden), organisé par famille étymologique sur le modèle d’anciens manuels."
   },
   "entrees": [
     {
-      "de": "Aal",
       "article": "der",
       "pluriel": "die Aale",
+      "de": "Aal",
       "fr": "l’anguille",
       "etym": "cf. lat. anguilla, gr. égchelys",
       "enfants": [
         {
           "de": "aalen",
-          "type": "mot",
           "fr": "se prélasser"
         },
         {
-          "de": "aal[[glatt]]",
           "type": "derive",
-          "fr": "glissant comme une anguille",
+          "de": "aal[[glatt]]",
+          "fr": "glissant commae une anguille",
           "enfants": [
             {
               "type": "prov",
@@ -33,42 +32,62 @@
       ]
     },
     {
+      "article": "das",
+      "pluriel": "die Äser",
+      "de": "Aas",
+      "fr": "le cadavre, la charogne (aussi comme insulte)",
+      "etym": "du moyen allemand az, qui a donné aussi [[essen]]",
+      "enfants": [
+        {
+          "type": "derive",
+          "de": "äsen",
+          "fr": "patûrer"
+        },
+        {
+          "de": "aasen",
+          "fr": "gaspiller"
+        }
+      ]
+    },
+    {
       "de": "glatt",
-      "type": "mot",
       "fr": "lisse, glissant"
     },
     {
-      "de": "Adler",
       "article": "der",
       "pluriel": "die Adler",
+      "de": "Adler",
       "fr": "l’aigle (mot courant)",
-      "etym": "de Edel-aar, « noble aigle »",
+      "etym": "de [[Edel]]aar, « noble aigle »",
       "enfants": [
         {
-          "de": "Aar",
           "type": "derive",
           "article": "der",
+          "de": "Aar",
           "fr": "l’aigle (poétique)"
         }
       ]
     },
     {
-      "de": "Abend",
       "article": "der",
       "pluriel": "die Abende",
+      "de": "Abend",
       "fr": "le soir, la soirée",
       "etym": "cf. angl. eve/ning, norrois aptann",
       "enfants": [
         {
           "de": "abends",
-          "type": "mot",
           "fr": "le soir, ce soir (adv.)"
         },
         {
-          "de": "Abendland",
-          "type": "mot",
           "article": "das",
+          "de": "Abend[[land]]",
           "fr": "l’Occident"
+        },
+        {
+          "article": "das",
+          "de": "Abend[[mahl]]",
+          "fr": "n'est plus utilisé qu'au sens de la Cène, ou du sacrifice eucharistique dans l'Église catholique"
         },
         {
           "type": "note",

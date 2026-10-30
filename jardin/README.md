@@ -1,65 +1,80 @@
-# Ma liste — format de `dictionnaire.json`
+# Ma liste — ajouter des mots
 
-Le fichier se remplit à la main. Il alimente deux pages générées en HTML complet (rien n'est lu en JSON par le navigateur) : `index.html` (la liste en arborescence) et `apprentissage.html` (colonnes allemand | français, avec masquage d'une colonne pour se tester, recherche, curseur de police). Après modification, lancer à la racine du projet :
+Les mots s'écrivent dans **`mots.txt`**, un mot par ligne. L'indentation dit qui dépend de qui. Pas de guillemets, pas de virgules, pas d'accolades.
+
+## Ajouter un mot : trois façons
+
+**1. Directement dans `mots.txt`**, puis `python build_jardin.py` (ou `python build_all.py` pour tout le site).
+
+**2. En ligne de commande**, sans ouvrir le fichier (à la racine du projet) :
 
 ```
-python build_jardin.py        # régénère seulement cette page
-python build_all.py           # ou tout le site
+python ajouter.py "der Aal (die Aale) : l'anguille"
+python ajouter.py --sous Aal "aalen : se prélasser"
+python ajouter.py "essen [isst, aß, gegessen] +A : manger" --build
 ```
 
-## Structure
+`--sous MOT` range le nouveau mot en retrait sous `MOT`. Un mot déjà présent est refusé (`--force` pour passer outre). `--build` reconstruit la page tout de suite.
 
-```json
-{
-  "meta": { "titre": "…", "auteur": "…", "intro": "…", "tri": true },
-  "entrees": [ { … }, { … } ]
-}
+**3. En mode interactif** : `python ajouter.py` sans rien, puis tapez un mot par ligne (une ligne vide pour finir). La page est reconstruite à la fin. Les lignes en retrait se rangent sous le mot précédent, donc on peut saisir toute une famille d'un coup.
+
+## La syntaxe d'une ligne
+
+```
+der Aal (die Aale) : l'anguille
 ```
 
-`tri: true` classe les entrées de premier niveau par ordre alphabétique (l'article est ignoré). Les entrées sont rangées par lettre.
+| Élément | Écriture | Exemple |
+|---|---|---|
+| article | `der`, `die` ou `das` en début de ligne | `der Aal` |
+| pluriel | entre parenthèses, après le mot | `(die Aale)` ou `(-e)` |
+| formes irrégulières d'un verbe | entre crochets | `[isst, aß, gegessen]` |
+| construction | `+D`, `+A`, `+G`… | `+A` |
+| précision | autre parenthèse, sans article | `(adv.)` |
+| traduction | après `:` | `: l'anguille` |
 
-## Une entrée (un « nœud »)
+Tout est facultatif sauf le mot : `Haus` seul est une ligne valide.
 
-Tous les champs sont facultatifs, sauf `de` ou `fr`.
+## Les liens de parenté
 
-| Champ | Sens |
+L'indentation (deux espaces) range un mot sous le précédent :
+
+```
+der Aal (die Aale) : l'anguille
+  etym: cf. lat. anguilla
+  aalen : se prélasser
+  ~ aal[[glatt]] : glissant comme une anguille
+    prov: sich winden wie ein Aal : se faufiler
+```
+
+| Début de ligne | Sens |
 |---|---|
-| `de` | le mot ou l'expression en allemand, **orthographe actuelle** |
-| `fr` | la traduction ou la note en français |
-| `type` | `mot` (défaut : en gras, peut recevoir des liens), `derive` (en italique), `expr` / `prov` (expression ou proverbe, étiquette « Prov. »), `fam` (familier, étiquette « Fam. »), `note` (texte libre) |
-| `article` | `der`, `die` ou `das` |
-| `pluriel` | `die Aale` (ou juste `Aale`), vide si pas de pluriel |
-| `formes` | verbes forts : `isst, aß, gegessen` |
-| `regime` | construction : `+D`, `+A`… |
-| `etym` | l'étymologie (étiquette « Étym. ») |
-| `id` | ancre personnalisée (par défaut : le mot sans article, en minuscules et sans accents) |
-| `enfants` | liste de nœuds du même format : dérivés, expressions, sous-familles… sur autant de niveaux que voulu |
+| *(rien)* | un mot, en gras (on peut y faire un lien) |
+| `~` | un dérivé ou un composé, en italique |
+| `etym:` | l'étymologie du mot au-dessus |
+| `prov:` ou `expr:` | un proverbe ou une expression |
+| `fam:` | un sens ou un emploi familier (`fam: salaud`) |
+| `note:` | une remarque libre |
 
 ## Liens entre entrées
 
-Dans `de`, `fr` ou `etym` :
-
-- `[[glatt]]` : lien vers l'entrée `glatt` ;
+- `[[glatt]]` : lien vers l'entrée `glatt`.
 - `[[Feier|feier]]` : texte affiché `Feier`, cible `feier`. Pour un composé : `aal[[glatt]]`.
 
-Le script signale à la construction les liens dont la cible n'existe pas.
+Le script signale à la construction les liens dont la cible n'existe pas, et les lignes qu'il n'a pas comprises.
 
-## Exemple
+## En-tête du fichier
 
-```json
-{
-  "de": "Aal", "article": "der", "pluriel": "die Aale", "fr": "l'anguille",
-  "etym": "cf. lat. anguilla",
-  "enfants": [
-    { "de": "aalen", "type": "mot", "fr": "se prélasser" },
-    { "de": "aal[[glatt]]", "type": "derive", "fr": "glissant comme une anguille",
-      "enfants": [ { "type": "prov", "de": "sich winden wie ein Aal", "fr": "se faufiler" } ] }
-  ]
-}
+```
+@titre Nouveau jardin des Racines Allemandes
+@auteur Luc Absil
+@intro Une phrase de présentation…
 ```
 
-Les quatre entrées présentes sont des exemples : remplacez-les par les vôtres.
+`@tri non` désactive le classement alphabétique automatique (par défaut, les mots de premier niveau sont classés par ordre alphabétique, en ignorant l'article ; l'ordre dans le fichier n'a donc pas d'importance). Une ligne qui commence par `#` est un commentaire.
 
-## Polices
+## Fichiers générés (ne pas modifier à la main)
 
-Le curseur de la page change la police des mots allemands : Antiqua, Kurrent, Fraktur, Sütterlin. Les polices sont dans `fonts/` (reprises de l'ancien projet).
+`index.html` (la liste), `apprentissage.html` (colonnes allemand | français, avec masquage pour se tester), `dictionnaire.json` (export des données, régénéré à chaque construction), `style.css`, `jardin.js`, `theme.js`.
+
+Le curseur de la page change la police des mots allemands : Antiqua, Kurrent, Fraktur, Sütterlin (polices dans `fonts/`).
