@@ -62,3 +62,35 @@ body td.rev{filter:none!important}
 .masque{display:none}
 footer{padding:2rem 16px;color:var(--mut);font:13px system-ui,sans-serif}
 @media print{nav.top,.toc{display:none}body{background:#fff;color:#000}}
+
+.qstats{display:flex;gap:1rem;flex-wrap:wrap;font:14px system-ui,sans-serif;margin:.4rem 0 1rem}
+.qstats span{padding:.15rem .6rem;border:1px solid var(--line);border-radius:999px;background:var(--card)}
+.qstats b{margin-left:.2rem}
+.qs-n b{color:#3b82f6}.qs-a b{color:#dc2626}.qs-r b{color:#16a34a}
+.qcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:1.5rem 1.2rem;min-height:15rem;text-align:center}
+.q-face{padding:1.5rem 0 .8rem}
+.q-de{font-size:2.2rem;color:var(--de)}
+.q-fr{font-size:1.5rem}
+.q-dos{border-top:1px solid var(--line);margin-top:1rem;padding-top:1rem}
+.q-rep{margin:.3rem 0}
+.q-rep.q-fr{color:var(--fg)}
+.q-meta{margin-top:.5rem;color:var(--mut);font-size:.95rem}
+.q-tag{font:11px system-ui,sans-serif;border-bottom:1px solid var(--acc);margin-right:.3rem}
+.q-saisie{margin:.8rem 0}
+.q-saisie input{width:min(24rem,90%);padding:.5rem .8rem;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg);font:1.2rem Georgia,serif;text-align:center}
+.q-verdict{font:600 15px system-ui,sans-serif;margin-bottom:.6rem}
+.q-verdict .ok{color:#16a34a}.q-verdict .mi{color:#b45309}.q-verdict .ko{color:#dc2626}
+.q-actions{display:flex;gap:.5rem;justify-content:center;flex-wrap:wrap;margin-top:1.2rem}
+.q-reveler{padding:.6rem 1.6rem;font-size:15px}
+.q-note{display:flex;flex-direction:column;align-items:center;min-width:6.5rem;padding:.5rem .8rem}
+.q-note small{color:inherit;opacity:.75}
+.q-g1{border-color:#dc2626}.q-g2{border-color:#d97706}.q-g3{border-color:#16a34a}.q-g4{border-color:#2563eb}
+.q-note:hover{background:var(--acc);color:#fff}
+.fini{font-size:1.4rem;color:#16a34a;margin:2rem 0 .5rem}
+details.qopts{margin-top:1.2rem;font:14px system-ui,sans-serif}
+details.qopts summary{cursor:pointer;color:var(--mut)}
+.qgrille{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.7rem 1.2rem;margin:.8rem 0}
+.qgrille label{display:flex;flex-direction:column;gap:.2rem}
+.qgrille label.inline{flex-direction:row;align-items:center;gap:.4rem}
+.qopts select,.qopts input[type=number]{padding:.3rem .5rem;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}
+.qdonnees{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:.6rem}

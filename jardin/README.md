@@ -63,6 +63,14 @@ der Aal (die Aale) : l'anguille
 
 Le script signale à la construction les liens dont la cible n'existe pas, et les lignes qu'il n'a pas comprises.
 
+## Les notes ne sont pas des mots
+
+Un mot-clé en début de ligne (`note:`, `etym:`, `prov:`, `expr:`, `fam:`) est reconnu même précédé de `~` ou d'une puce `- `. Synonymes acceptés : `remarque:`, `étym:`, `étymologie:`, `proverbe:`, `expression:`, `familier:`. Une ligne de plus de trois mots **sans** `:` est lue comme une note (avec un avertissement à la construction), jamais comme un mot.
+
+## Le quiz
+
+`quiz.html` interroge vos mots à la manière d'Anki : chaque mot, dérivé ou expression qui a une traduction devient une carte (les notes sont ignorées). Après avoir affiché la réponse, notez **Encore / Difficile / Bien / Facile** (touches 1 à 4) : l'intervalle avant la prochaine révision s'allonge ou se raccourcit, avec des étapes de 1 puis 10 minutes pour une carte nouvelle. Réglages : sens (allemand → français, français → allemand, ou les deux), nouvelles cartes par jour, lettre, types de cartes, saisie de la réponse (le nom est alors corrigé article compris). La progression reste dans le navigateur ; « Exporter la progression » en fait une sauvegarde.
+
 ## En-tête du fichier
 
 ```
@@ -75,6 +83,6 @@ Le script signale à la construction les liens dont la cible n'existe pas, et le
 
 ## Fichiers générés (ne pas modifier à la main)
 
-`index.html` (la liste), `apprentissage.html` (colonnes allemand | français, avec masquage pour se tester), `dictionnaire.json` (export des données, régénéré à chaque construction), `style.css`, `jardin.js`, `theme.js`.
+`index.html` (la liste), `apprentissage.html` (colonnes allemand | français, avec masquage pour se tester), `quiz.html` et `quiz.js` (le quiz), `dictionnaire.json` (export des données, régénéré à chaque construction), `style.css`, `jardin.js`, `theme.js`.
 
 Le curseur de la page change la police des mots allemands : Antiqua, Kurrent, Fraktur, Sütterlin (polices dans `fonts/`).

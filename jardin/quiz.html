@@ -1,0 +1,31 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Nouveau jardin des Racines Allemandes — quiz</title><script src="theme.js"></script><link rel="stylesheet" href="style.css"></head><body>
+<header><h1>Nouveau jardin des Racines Allemandes</h1><p class="sub">Quiz · 17 cartes · Luc Absil</p>
+<nav class="top"><a href="../index.html" title="Accueil du site">⌂</a><button class="btn" id="theme" type="button" aria-label="Basculer entre thème clair et sombre">◐</button></nav>
+<nav class="top sub2"><a href="index.html">Liste</a><a href="apprentissage.html">Apprentissage</a><a href="quiz.html" class=on>Quiz</a></nav></header>
+<main>
+<div class="controls"><span><input type="range" id="fontSlider" min="0" max="3" step="1" value="0"> <span id="fontName" class="font-label">Antiqua</span></span></div>
+<div class="qstats" id="qstats"></div>
+<div class="qcard" id="qcard"><noscript>Le quiz a besoin de JavaScript.</noscript></div>
+<div class="qdonnees"><button class="btn" id="qannuler" type="button" disabled>↶ Annuler la dernière note</button></div>
+<details class="qopts"><summary>Réglages et progression</summary>
+<div class="qgrille">
+<label>Sens<select id="qdir"><option value="both">Les deux sens</option><option value="dm">Allemand → Français</option><option value="md">Français → Allemand</option></select></label>
+<label>Nouvelles cartes par jour<input type="number" id="qnouv" min="0" max="500"></label>
+<label>Lettre<select id="qlettre"></select></label>
+<label class="inline"><input type="checkbox" id="qsaisiecase"> Saisir la réponse (français → allemand)</label>
+<label class="inline"><input type="checkbox" id="qart"> Montrer l'article dans la question (allemand → français)</label>
+<label class="inline"><input type="checkbox" id="qt-mot"> Mots</label>
+<label class="inline"><input type="checkbox" id="qt-derive"> Dérivés</label>
+<label class="inline"><input type="checkbox" id="qt-expr"> Expressions et proverbes</label>
+</div>
+<div class="qdonnees"><button class="btn" id="qexport" type="button">Exporter la progression</button>
+<label class="btn">Importer…<input type="file" id="qimport" accept="application/json" hidden></label>
+<button class="btn" id="qreset" type="button">Tout effacer</button></div>
+<p class="sub">La progression est enregistrée dans ce navigateur : exportez-la pour la sauvegarder ou la reprendre ailleurs. Raccourcis : espace = afficher la réponse, 1 à 4 = noter.</p>
+</details>
+<script id="cartes" type="application/json">[{"id": "aal", "de": "Aal", "art": "der", "ext": "(die Aale)", "fr": "l’anguille", "t": "mot", "l": "A", "etym": "cf. lat. anguilla, gr. égchelys"}, {"id": "aalen", "de": "aalen", "art": "", "ext": "", "fr": "se prélasser", "t": "mot", "l": "A", "fam": "der Aal"}, {"id": "aalglatt", "de": "aalglatt", "art": "", "ext": "", "fr": "glissant commae une anguille", "t": "derive", "l": "A", "fam": "der Aal"}, {"id": "sich-drehen-und-winden-wie-ein-aal", "de": "sich drehen und winden wie ein Aal", "art": "", "ext": "", "fr": "se faufiler comme une anguille", "t": "prov", "l": "S", "fam": "der Aal"}, {"id": "aas", "de": "Aas", "art": "das", "ext": "(die Äser)", "fr": "le cadavre, la charogne (aussi comme insulte)", "t": "mot", "l": "A", "etym": "du moyen allemand az, qui a donné aussi essen"}, {"id": "aesen", "de": "äsen", "art": "", "ext": "", "fr": "patûrer, brouter", "t": "derive", "l": "A", "fam": "das Aas"}, {"id": "aasen", "de": "aasen", "art": "", "ext": "", "fr": "gaspiller", "t": "mot", "l": "A", "fam": "das Aas"}, {"id": "abend", "de": "Abend", "art": "der", "ext": "(die Abende)", "fr": "le soir, la soirée", "t": "mot", "l": "A", "etym": "cf. angl. eve/ning, norrois aptann"}, {"id": "abends", "de": "abends", "art": "", "ext": "", "fr": "le soir, ce soir (adv.)", "t": "mot", "l": "A", "fam": "der Abend"}, {"id": "abendland", "de": "Abendland", "art": "das", "ext": "", "fr": "l’Occident", "t": "mot", "l": "A", "fam": "der Abend"}, {"id": "abendmahl", "de": "Abendmahl", "art": "das", "ext": "", "fr": "n'est plus utilisé qu'au sens de la Cène, ou du sacrifice eucharistique dans l'Église catholique", "t": "mot", "l": "A", "fam": "der Abend"}, {"id": "achse", "de": "Achse", "art": "die", "ext": "(die Achsen)", "fr": "l'essieu, l'axe", "t": "mot", "l": "A", "etym": "cf. angl. axle, lat. axis, fr. axe"}, {"id": "auf-achse-sein", "de": "auf Achse sein", "art": "", "ext": "", "fr": "être en route", "t": "prov", "l": "A", "fam": "die Achse"}, {"id": "adler", "de": "Adler", "art": "der", "ext": "(die Adler)", "fr": "l’aigle (mot courant)", "t": "mot", "l": "A", "etym": "de Edelaar, « noble aigle »"}, {"id": "aar", "de": "Aar", "art": "der", "ext": "", "fr": "l’aigle (poétique)", "t": "derive", "l": "A", "fam": "der Adler"}, {"id": "bach", "de": "Bach", "art": "der", "ext": "(die Bäche)", "fr": "le ruisseau", "t": "mot", "l": "B"}, {"id": "glatt", "de": "glatt", "art": "", "ext": "", "fr": "lisse, glissant", "t": "mot", "l": "G"}]</script>
+</main>
+<footer><p>Quiz à répétition espacée (principe d'Anki). Les cartes viennent de <code>mots.txt</code> : seuls les mots ayant une traduction sont interrogés.</p></footer>
+<script src="jardin.js"></script><script src="quiz.js"></script></body></html>
