@@ -41,17 +41,13 @@
         {
           "type": "derive",
           "de": "äsen",
-          "fr": "patûrer"
+          "fr": "patûrer, brouter"
         },
         {
           "de": "aasen",
           "fr": "gaspiller"
         }
       ]
-    },
-    {
-      "de": "glatt",
-      "fr": "lisse, glissant"
     },
     {
       "article": "der",
@@ -94,6 +90,35 @@
           "fr": "voir aussi [[Aal]] (exemple de lien entre entrées)"
         }
       ]
+    },
+    {
+      "article": "die",
+      "pluriel": "die Achsen",
+      "de": "Achse",
+      "fr": "l'essieu, l'axe",
+      "etym": "cf. angl. axle, lat. axis, fr. axe",
+      "enfants": [
+        {
+          "type": "prov",
+          "de": "auf Achse sein",
+          "fr": "être en route"
+        },
+        {
+          "type": "derive",
+          "de": "note",
+          "fr": "par métonymie Achse désignait aussi les roues ou le char entier"
+        }
+      ]
+    },
+    {
+      "article": "der",
+      "pluriel": "die Bäche",
+      "de": "Bach",
+      "fr": "le ruisseau"
+    },
+    {
+      "de": "glatt",
+      "fr": "lisse, glissant"
     }
   ]
 }

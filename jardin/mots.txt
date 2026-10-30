@@ -10,10 +10,8 @@ der Aal (die Aale) : l’anguille
 
 das Aas (die Äser): le cadavre, la charogne (aussi comme insulte)
   etym: du moyen allemand az, qui a donné aussi [[essen]]
-  ~ äsen : patûrer
+  ~ äsen : patûrer, brouter
   aasen: gaspiller
-
-glatt : lisse, glissant
 
 der Adler (die Adler) : l’aigle (mot courant)
   etym: de [[Edel]]aar, « noble aigle »
@@ -25,3 +23,12 @@ der Abend (die Abende) : le soir, la soirée
   das Abend[[land]] : l’Occident
   das Abend[[mahl]] : n'est plus utilisé qu'au sens de la Cène, ou du sacrifice eucharistique dans l'Église catholique
   note: voir aussi [[Aal]] (exemple de lien entre entrées)
+
+die Achse (die Achsen) : l'essieu, l'axe
+  etym: cf. angl. axle, lat. axis, fr. axe
+  prov: auf Achse sein : être en route
+  ~ note: par métonymie Achse désignait aussi les roues ou le char entier
+
+der Bach (die Bäche) : le ruisseau
+
+glatt : lisse, glissant
