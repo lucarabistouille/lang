@@ -160,25 +160,36 @@ function verifie(carte, saisie) {
   return '<span class="ko">✘ Réponse attendue : ' + esc(allemandComplet(c)) + '</span>';
 }
 
+var SENS = { dm: 'Allemand → Français', md: 'Français → Allemand' };
+var TYPES = { mot: 'mot', derive: 'dérivé', expr: 'expression', prov: 'expression', fam: 'familier' };
+var ETATS = { n: 'Nouvelle', a: 'À revoir', r: 'Révision' };
+
 function rendre() {
   var now = Date.now(), r = store.reglages, cpt = compteurs(now);
   var actives = cartesActives();
   var f = constituerFile(actives, store.cards, { nouvellesRestantes: r.nouveaux - cpt.nouvelles, derniere: derniere }, now);
-  $('qstats').innerHTML = '<span class="qs-n">Nouvelles <b>' + f.nNouv + '</b></span><span class="qs-a">À revoir <b>' + f.nAppr +
-    '</b></span><span class="qs-r">Dues <b>' + f.nRev + '</b></span><span class="qs-t">Cartes <b>' + actives.length + '</b></span>';
   var zone = $('qcard');
   courante = f.suivante; revelee = false;
-  if (!actives.length) { zone.innerHTML = '<p class="vide">Aucune carte : ajoutez des mots avec une traduction dans <code>mots.txt</code>, ou élargissez les filtres.</p>'; return; }
+  var etatC = courante ? store.cards[courante.k] : null;
+  var typeEtat = !etatC || etatC.s === 0 ? 'n' : (etatC.s === 2 ? 'r' : 'a');
+  function cur(t) { return courante && typeEtat === t ? ' cur' : ''; }
+  $('qstats').innerHTML = '<span class="qs-n' + cur('n') + '">Nouvelles <b>' + f.nNouv + '</b></span><span class="qs-a' + cur('a') + '">À revoir <b>' + f.nAppr +
+    '</b></span><span class="qs-r' + cur('r') + '">Dues <b>' + f.nRev + '</b></span><span class="qs-t">Cartes <b>' + actives.length + '</b></span>';
+  if (!actives.length) { zone.innerHTML = '<div class="q-corps"><p class="vide">Aucune carte : ajoutez des mots avec une traduction dans <code>mots.txt</code>, ou élargissez les filtres.</p></div>'; return; }
   if (!courante) {
-    var msg = '<p class="fini">✔ Terminé pour aujourd’hui.</p>';
+    var msg = '<p class="fini">✔ Terminé pour aujourd’hui</p>';
     if (f.prochain) msg += '<p class="sub">Prochaine carte dans ' + Plan.libelleDelai(Math.max(0, f.prochain - now)) + '.</p>';
-    zone.innerHTML = msg + '<p class="sub">Aujourd’hui : ' + cpt.nouvelles + ' nouvelles, ' + cpt.revues + ' révisions.</p>';
+    zone.innerHTML = '<div class="q-corps">' + msg + '<p class="sub">Aujourd’hui : ' + cpt.nouvelles + ' nouvelles, ' + cpt.revues + ' révisions.</p></div>';
     return;
   }
   var saisie = r.saisie && courante.dir === 'md';
-  zone.innerHTML = face(courante) +
+  zone.innerHTML =
+    '<div class="q-head"><span class="q-sens">' + SENS[courante.dir] + '</span><span class="q-type">' + (TYPES[courante.c.t] || 'mot') +
+    '</span><span class="q-etat q-etat-' + typeEtat + '">' + ETATS[typeEtat] + '</span></div>' +
+    '<div class="q-corps">' + face(courante) +
     (saisie ? '<div class="q-saisie"><input id="qsaisie" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Votre réponse en allemand…"></div>' : '') +
-    '<div id="qdos"></div><div class="q-actions" id="qact"><button class="btn q-reveler" id="qreveler" type="button">Afficher la réponse <small>(espace)</small></button></div>';
+    '<div id="qdos"></div></div>' +
+    '<div class="q-actions" id="qact"><button class="btn q-reveler" id="qreveler" type="button">Afficher la réponse <small>(espace)</small></button></div>';
   $('qreveler').onclick = reveler;
   if (saisie) $('qsaisie').focus();
 }
@@ -192,7 +203,7 @@ function reveler() {
   var noms = ['Encore', 'Difficile', 'Bien', 'Facile'], h = '';
   for (var g = 1; g <= 4; g++)
     h += '<button class="btn q-note q-g' + g + '" data-g="' + g + '" type="button"><span>' + noms[g - 1] + ' <small>(' + g + ')</small></span><small>' + Plan.apercu(etat, g, now) + '</small></button>';
-  $('qact').innerHTML = h;
+  $('qact').className = 'q-actions notes'; $('qact').innerHTML = h;
   [].forEach.call(document.querySelectorAll('.q-note'), function (b) { b.onclick = function () { donnerNote(parseInt(b.dataset.g, 10)); }; });
 }
 
