@@ -1,0 +1,79 @@
+name: "Ajouter un mot"
+description: "Ajouter un mot à la liste"
+title: "Ajout : "
+body:
+  - type: markdown
+    attributes:
+      value: "Remplissez au moins le mot et sa traduction. La demande est traitée automatiquement (une minute environ)."
+  - type: input
+    id: mot
+    attributes:
+      label: "Mot allemand"
+      description: "Sans l'article."
+      placeholder: "Aal"
+    validations:
+      required: true
+  - type: input
+    id: traduction
+    attributes:
+      label: "Traduction"
+      placeholder: "l'anguille"
+    validations:
+      required: true
+  - type: dropdown
+    id: article
+    attributes:
+      label: "Article"
+      options:
+        - "(aucun)"
+        - "der"
+        - "die"
+        - "das"
+      default: 0
+  - type: input
+    id: pluriel
+    attributes:
+      label: "Pluriel"
+      placeholder: "die Aale"
+  - type: input
+    id: formes
+    attributes:
+      label: "Formes irrégulières (verbes forts)"
+      placeholder: "isst, aß, gegessen"
+  - type: input
+    id: regime
+    attributes:
+      label: "Construction"
+      placeholder: "+A"
+  - type: dropdown
+    id: sorte
+    attributes:
+      label: "Sorte"
+      options:
+        - "Mot"
+        - "Dérivé"
+        - "Expression"
+        - "Proverbe"
+        - "Familier"
+      default: 0
+  - type: input
+    id: sous
+    attributes:
+      label: "Ranger sous le mot"
+      description: "Facultatif : un mot déjà dans la liste (sa famille)."
+      placeholder: "Aal"
+  - type: input
+    id: etym
+    attributes:
+      label: "Étymologie"
+      placeholder: "cf. lat. anguilla"
+  - type: textarea
+    id: note
+    attributes:
+      label: "Note"
+  - type: checkboxes
+    id: doublon
+    attributes:
+      label: "Doublon"
+      options:
+        - label: "Autoriser un doublon (homographe)"

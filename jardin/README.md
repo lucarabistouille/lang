@@ -63,6 +63,18 @@ der Aal (die Aale) : l'anguille
 
 Le script signale à la construction les liens dont la cible n'existe pas, et les lignes qu'il n'a pas comprises.
 
+## Modifier la liste depuis un téléphone
+
+Le menu de la liste et son pied de page contiennent trois liens, qui ouvrent GitHub dans le navigateur ou l'application (vous y êtes déjà connecté, double authentification comprise) :
+
+- **＋ Ajouter un mot** : un formulaire (mot, traduction, article, pluriel, formes, construction, sorte, « ranger sous », étymologie, note).
+- **Corriger ou supprimer un mot** : indiquez le mot, puis la nouvelle ligne (syntaxe ci-dessus) ou la suppression du mot et de ses dérivés. Au dos d'une carte du quiz, **✎ Corriger ce mot** ouvre ce formulaire déjà prérempli avec la ligne actuelle.
+- **Modifier le fichier** : l'éditeur de GitHub sur `mots.txt`, pour tout le reste.
+
+Après avoir envoyé un formulaire, GitHub lance le workflow `.github/workflows/traiter-demande.yml`. Il ne traite **que les demandes de votre compte** (les autres sont ignorées), applique l'ajout ou la correction dans `mots.txt`, reconstruit les pages, publie, puis répond dans la demande (« ✔ Ajouté » ou la raison du refus : doublon, mot parent introuvable…) et la clôture. Comptez une minute environ. Une modification directe de `mots.txt` déclenche de la même façon la reconstruction (`.github/workflows/jardin.yml`).
+
+Aucun jeton n'est stocké dans le site ni dans le navigateur : l'accès repose sur votre connexion GitHub. Sur l'ordinateur, faites un `git pull` avant de reconstruire, car GitHub publie lui aussi des fichiers générés.
+
 ## Les notes ne sont pas des mots
 
 Un mot-clé en début de ligne (`note:`, `etym:`, `prov:`, `expr:`, `fam:`) est reconnu même précédé de `~` ou d'une puce `- `. Synonymes acceptés : `remarque:`, `étym:`, `étymologie:`, `proverbe:`, `expression:`, `familier:`. Une ligne de plus de trois mots **sans** `:` est lue comme une note (avec un avertissement à la construction), jamais comme un mot.

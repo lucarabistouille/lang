@@ -1,0 +1,28 @@
+name: "Corriger ou supprimer un mot"
+description: "Corriger la ligne d'un mot, ou le supprimer"
+title: "Correction : "
+body:
+  - type: markdown
+    attributes:
+      value: "Indiquez le mot, puis la nouvelle ligne (syntaxe de mots.txt) ou choisissez de le supprimer."
+  - type: dropdown
+    id: action
+    attributes:
+      label: "Action"
+      options:
+        - "Remplacer la ligne du mot"
+        - "Supprimer le mot et ses dérivés"
+      default: 0
+  - type: input
+    id: mot
+    attributes:
+      label: "Mot concerné"
+      placeholder: "Aal"
+    validations:
+      required: true
+  - type: textarea
+    id: ligne
+    attributes:
+      label: "Nouvelle ligne"
+      description: "Pour « Remplacer » : la ligne complète, par exemple « der Aal (die Aale) : l'anguille »."
+      placeholder: "der Aal (die Aale) : l'anguille"

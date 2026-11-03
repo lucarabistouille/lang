@@ -97,6 +97,7 @@ footer{padding:2rem 16px;color:var(--mut);font:13px system-ui,sans-serif}
 .q-g1{border-color:#dc2626}.q-g2{border-color:#d97706}.q-g3{border-color:#16a34a}.q-g4{border-color:#2563eb}
 .q-note:hover{background:var(--acc);color:#fff}
 .fini{font-size:1.5rem;color:#16a34a;margin:1.5rem 0 .5rem}
+.q-corriger{font:13px system-ui,sans-serif;color:var(--mut);text-decoration:none;border-bottom:1px dotted var(--mut)}
 #qannuler{margin-top:.8rem;font-size:13px;padding:.2rem .7rem}
 details.qopts{margin-top:1.2rem;font:14px system-ui,sans-serif}
 details.qopts summary{cursor:pointer;color:var(--mut)}

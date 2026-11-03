@@ -130,6 +130,13 @@ function cartesActives() {
   return out;
 }
 
+var PREFIXES = { derive: '~ ', prov: 'prov: ', expr: 'expr: ', fam: 'fam: ' };
+function lienCorrection(c) {
+  var depot = ($('qcard') && $('qcard').dataset.depot) || '';
+  var ligne = (PREFIXES[c.t] || '') + allemandComplet(c) + ' : ' + c.fr;
+  return 'https://github.com/' + depot + '/issues/new?template=correction.yml&title=' + encodeURIComponent('Correction : ' + c.de) +
+    '&mot=' + encodeURIComponent(c.de) + '&ligne=' + encodeURIComponent(ligne);
+}
 function allemandComplet(c) {
   return (c.art ? c.art + ' ' : '') + c.de + (c.ext ? ' ' + c.ext : '');
 }
@@ -148,6 +155,7 @@ function dos(carte) {
   h += '<div class="q-rep q-fr">' + esc(c.fr) + '</div>';
   if (c.etym) h += '<div class="q-meta"><span class="q-tag">Étym.</span> ' + esc(c.etym) + '</div>';
   if (c.fam) h += '<div class="q-meta"><span class="q-tag">Famille</span> <span class="german">' + esc(c.fam) + '</span></div>';
+  h += '<div class="q-meta"><a class="q-corriger" target="_blank" rel="noopener" href="' + esc(lienCorrection(c)) + '">✎ Corriger ce mot</a></div>';
   return h + '</div>';
 }
 

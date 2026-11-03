@@ -1,0 +1,43 @@
+name: Traiter une demande (ajout, correction)
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: liste
+  cancel-in-progress: false
+jobs:
+  demande:
+    # Seul le propriétaire du dépôt peut modifier la liste par ce moyen
+    if: github.event.issue.user.login == github.repository_owner && github.event.issue.author_association == 'OWNER'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Appliquer la demande
+        id: t
+        run: python .outils/traiter_issue.py --mots jardin/mots.txt --reponse "$RUNNER_TEMP/reponse.md"
+      - name: Reconstruire et publier les pages
+        if: steps.t.outputs.modifie == 'true'
+        run: |
+          python .outils/build_jardin.py jardin
+          git config user.name "liste-bot"
+          git config user.email "liste-bot@users.noreply.github.com"
+          git add -A jardin
+          git commit -m "Liste : demande #${{ github.event.issue.number }}"
+          git push
+      - name: Répondre et clôturer la demande
+        if: steps.t.outputs.etat != 'ignore'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUM: ${{ github.event.issue.number }}
+          ETAT: ${{ steps.t.outputs.etat }}
+        run: |
+          gh issue comment "$NUM" --body-file "$RUNNER_TEMP/reponse.md"
+          if [ "$ETAT" = "ok" ]; then gh issue close "$NUM" --reason completed; else gh issue close "$NUM" --reason "not planned"; fi
