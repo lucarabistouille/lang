@@ -116,6 +116,7 @@
       "fr": "le ruisseau"
     },
     {
+      "type": "derive",
       "article": "das",
       "pluriel": "-",
       "de": "Becher",
@@ -123,6 +124,7 @@
       "etym": "lat. bicarium"
     },
     {
+      "type": "derive",
       "article": "die",
       "pluriel": "-n",
       "de": "Buhle",
@@ -130,8 +132,9 @@
       "etym": "viendrait à l'origine du vocabulaire enfantin pour un parent proche",
       "enfants": [
         {
+          "type": "derive",
           "de": "um etw. buhlen",
-          "fr": "briguer qch"
+          "fr": "briguer qch (courtiser)"
         }
       ]
     },
@@ -146,14 +149,17 @@
       "fr": "la pourriture, la vase",
       "enfants": [
         {
-          "de": "schmausen",
-          "fr": "se goinfrer"
-        },
-        {
           "type": "derive",
-          "article": "der",
-          "de": "Schmaus",
-          "fr": "le festin"
+          "de": "schmausen",
+          "fr": "se goinfrer",
+          "enfants": [
+            {
+              "type": "derive",
+              "article": "der",
+              "de": "Schmaus",
+              "fr": "le festin"
+            }
+          ]
         }
       ]
     }

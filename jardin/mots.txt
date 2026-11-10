@@ -31,15 +31,15 @@ die Achse (die Achsen) : l'essieu, l'axe
 
 der Bach (die Bäche) : le ruisseau
 
-das Becher (-) : la coupe, le gobelet
+~   das Becher (-) : la coupe, le gobelet
   etym: lat. bicarium
 
-die Buhle (-n) : (poet.) la bien-aimée
+~ die Buhle (-n) : (poet.) la bien-aimée
   etym: viendrait à l'origine du vocabulaire enfantin pour un parent proche
-  um etw. buhlen : briguer qch
+  ~ um etw. buhlen : briguer qch (courtiser)
 
 glatt : lisse, glissant
 
 der Moder (die Moders) : la pourriture, la vase
-  schmausen : se goinfrer
-  ~ der Schmaus : le festin
+  ~ schmausen : se goinfrer
+    ~ der Schmaus : le festin
