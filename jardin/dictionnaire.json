@@ -139,6 +139,13 @@
       ]
     },
     {
+      "article": "die",
+      "pluriel": "n",
+      "de": "Dose",
+      "fr": "la boîte, la canette",
+      "etym": "apparenté au français la dose"
+    },
+    {
       "de": "glatt",
       "fr": "lisse, glissant"
     },
@@ -160,6 +167,20 @@
               "fr": "le festin"
             }
           ]
+        }
+      ]
+    },
+    {
+      "info": "steckt, stak, gesteckt",
+      "de": "in+ACC/DAT stecken",
+      "fr": "enfoncer qch dans, être enfoncé, glisser qch.",
+      "enfants": [
+        {
+          "type": "derive",
+          "article": "die",
+          "pluriel": "n",
+          "de": "Steck[[dose]]",
+          "fr": "la prise de courant"
         }
       ]
     }

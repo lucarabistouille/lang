@@ -38,8 +38,14 @@ der Bach (die Bäche) : le ruisseau
   etym: viendrait à l'origine du vocabulaire enfantin pour un parent proche
   ~ um etw. buhlen : briguer qch (courtiser)
 
+die Dose (n) : la boîte, la canette
+  etym: apparenté au français la dose
+
 glatt : lisse, glissant
 
 der Moder (die Moders) : la pourriture, la vase
   ~ schmausen : se goinfrer
     ~ der Schmaus : le festin
+
+in+ACC/DAT stecken (steckt, stak, gesteckt) : enfoncer qch dans, être enfoncé, glisser qch.
+  ~ die Steck[[dose]] (n) : la prise de courant
