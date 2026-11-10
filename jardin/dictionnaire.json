@@ -116,8 +116,46 @@
       "fr": "le ruisseau"
     },
     {
+      "article": "das",
+      "pluriel": "-",
+      "de": "Becher",
+      "fr": "la coupe, le gobelet",
+      "etym": "lat. bicarium"
+    },
+    {
+      "article": "die",
+      "pluriel": "-n",
+      "de": "Buhle",
+      "fr": "(poet.) la bien-aimée",
+      "etym": "viendrait à l'origine du vocabulaire enfantin pour un parent proche",
+      "enfants": [
+        {
+          "de": "um etw. buhlen",
+          "fr": "briguer qch"
+        }
+      ]
+    },
+    {
       "de": "glatt",
       "fr": "lisse, glissant"
+    },
+    {
+      "article": "der",
+      "pluriel": "die Moders",
+      "de": "Moder",
+      "fr": "la pourriture, la vase",
+      "enfants": [
+        {
+          "de": "schmausen",
+          "fr": "se goinfrer"
+        },
+        {
+          "type": "derive",
+          "article": "der",
+          "de": "Schmaus",
+          "fr": "le festin"
+        }
+      ]
     }
   ]
 }
