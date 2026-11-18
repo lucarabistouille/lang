@@ -47,5 +47,11 @@ der Moder (die Moders) : la pourriture, la vase
   ~ schmausen : se goinfrer
     ~ der Schmaus : le festin
 
+der Neid : l'envie, la jalousie
+  neidisch : envieux, jaloux
+  etym: originellement la haine d'où:
+  ~ neidlich : (Wagner) féroce
+  
+
 in+ACC/DAT stecken (steckt, stak, gesteckt) : enfoncer qch dans, être enfoncé, glisser qch.
   ~ die Steck[[dose]] (n) : la prise de courant

@@ -171,6 +171,23 @@
       ]
     },
     {
+      "article": "der",
+      "de": "Neid",
+      "fr": "l'envie, la jalousie",
+      "enfants": [
+        {
+          "de": "neidisch",
+          "fr": "envieux, jaloux"
+        },
+        {
+          "type": "derive",
+          "de": "neidlich",
+          "fr": "(Wagner) féroce"
+        }
+      ],
+      "etym": "originellement la haine d'où:"
+    },
+    {
       "info": "steckt, stak, gesteckt",
       "de": "in+ACC/DAT stecken",
       "fr": "enfoncer qch dans, être enfoncé, glisser qch.",
