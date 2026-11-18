@@ -43,22 +43,10 @@ die Dose (n) : la boîte, la canette
 
 glatt : lisse, glissant
 
-der Hammel (die Hammel) : le bélier castré, le mouton
-  etym: de l'ahd. hamal, « mutilé », probablement de
-    l'ie. *kam(p)-, « plier, courber ».
-    cf. vieil angl. hamelian, « mutiler, paralyser »,
-    got. hamfs, « mutilé ».
-    cf. aussi [[hemmen]].
-  ~ hammeln : châtrer (vieilli)
-  ~ der [[Neid]]hammel : le jaloux (fam., péj.)
-  ~ der [[Streit]]hammel : le querelleur
-  ~ der [[Zank]]hammel : le chamailleur
-  ~ der Leithammel : le mouton de tête, le meneur
+
 
 hemmen : freiner, entraver, inhiber
-  etym: probablement de la même racine germanique
-    que [[Hammel]], « mutiler, estropier ».
-    cf. islandais hamla, « entraver ».
+  etym: racine signifiant mutiler de la même racine germanique que [[Hammel]], « mutiler, estropier ». cf. islandais hamla, « entraver ». vieil angl. hamelian, « mutiler, paralyser », got. hamfs, « mutilé ».
   ~ die Hemmung (en) : l'inhibition, l'entrave
   ~ gehemmt : inhibé
   ~ ungehemmt : désinhibé
@@ -66,6 +54,12 @@ hemmen : freiner, entraver, inhiber
   ~ der Hemm[[schuh]] : le sabot de frein, l'obstacle
   ~ die Hemm[[schwelle]] : le seuil d'inhibition
   ~ der Hemm[[stoff]] : l'inhibiteur
+  der Hammel (die Hammel) : le bélier castré, le mouton
+    ~ hammeln : châtrer (vieilli)
+    ~ der [[Neid]]hammel : le jaloux (fam., péj.)
+    ~ der [[Streit]]hammel : le querelleur
+    ~ der [[Zank]]hammel : le chamailleur
+    ~ der Leithammel : le mouton de tête, le meneur
 
 der Moder (die Moders) : la pourriture, la vase
   ~ schmausen : se goinfrer
