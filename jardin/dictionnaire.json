@@ -150,71 +150,10 @@
       "fr": "lisse, glissant"
     },
     {
-      "article": "der",
-      "pluriel": "die Hammel",
-      "de": "Hammel",
-      "fr": "le bélier castré, le mouton",
-      "etym": "de l'ahd. hamal, « mutilé », probablement de",
-      "enfants": [
-        {
-          "type": "note",
-          "fr": "l'ie. *kam(p)-, « plier, courber »."
-        },
-        {
-          "type": "note",
-          "fr": "cf. vieil angl. hamelian, « mutiler, paralyser »,"
-        },
-        {
-          "type": "note",
-          "fr": "got. hamfs, « mutilé »."
-        },
-        {
-          "de": "cf. aussi [[hemmen]]."
-        },
-        {
-          "type": "derive",
-          "de": "hammeln",
-          "fr": "châtrer (vieilli)"
-        },
-        {
-          "type": "derive",
-          "article": "der",
-          "de": "[[Neid]]hammel",
-          "fr": "le jaloux (fam., péj.)"
-        },
-        {
-          "type": "derive",
-          "article": "der",
-          "de": "[[Streit]]hammel",
-          "fr": "le querelleur"
-        },
-        {
-          "type": "derive",
-          "article": "der",
-          "de": "[[Zank]]hammel",
-          "fr": "le chamailleur"
-        },
-        {
-          "type": "derive",
-          "article": "der",
-          "de": "Leithammel",
-          "fr": "le mouton de tête, le meneur"
-        }
-      ]
-    },
-    {
       "de": "hemmen",
       "fr": "freiner, entraver, inhiber",
-      "etym": "probablement de la même racine germanique",
+      "etym": "racine signifiant mutiler de la même racine germanique que [[Hammel]], « mutiler, estropier ». cf. islandais hamla, « entraver ». vieil angl. hamelian, « mutiler, paralyser », got. hamfs, « mutilé ».",
       "enfants": [
-        {
-          "type": "note",
-          "fr": "que [[Hammel]], « mutiler, estropier »."
-        },
-        {
-          "type": "note",
-          "fr": "cf. islandais hamla, « entraver »."
-        },
         {
           "type": "derive",
           "article": "die",
@@ -254,6 +193,43 @@
           "article": "der",
           "de": "Hemm[[stoff]]",
           "fr": "l'inhibiteur"
+        },
+        {
+          "article": "der",
+          "pluriel": "die Hammel",
+          "de": "Hammel",
+          "fr": "le bélier castré, le mouton",
+          "enfants": [
+            {
+              "type": "derive",
+              "de": "hammeln",
+              "fr": "châtrer (vieilli)"
+            },
+            {
+              "type": "derive",
+              "article": "der",
+              "de": "[[Neid]]hammel",
+              "fr": "le jaloux (fam., péj.)"
+            },
+            {
+              "type": "derive",
+              "article": "der",
+              "de": "[[Streit]]hammel",
+              "fr": "le querelleur"
+            },
+            {
+              "type": "derive",
+              "article": "der",
+              "de": "[[Zank]]hammel",
+              "fr": "le chamailleur"
+            },
+            {
+              "type": "derive",
+              "article": "der",
+              "de": "Leithammel",
+              "fr": "le mouton de tête, le meneur"
+            }
+          ]
         }
       ]
     },
