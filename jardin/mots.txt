@@ -8,6 +8,8 @@ der Aal (die Aale) : l’anguille
   ~ aal[[glatt]] : glissant commae une anguille
     prov: sich drehen und winden wie ein Aal : se faufiler comme une anguille
 
+der Balg ()
+
 das Aas (die Äser): le cadavre, la charogne (aussi comme insulte)
   etym: du moyen allemand az, qui a donné aussi [[essen]]
   ~ äsen : patûrer, brouter
@@ -33,6 +35,19 @@ der Bach (die Bäche) : le ruisseau
 
 ~   das Becher (-) : la coupe, le gobelet
   etym: lat. bicarium
+
+~ der Balg (die Bälge) : la peau d'animal, la dépouille, la peau entière ; le moutard, le morveux (fam., péj.)
+  etym: mot germanique commun, désignant à l'origine la peau retirée d'un seul tenant d'un petit mammifère, utilisée comme sac de cuir, outre ou poche d'air. Mhd. balc, ahd. balg, got. balgs, vieil angl. bielg, « sac de cuir » (cf. angl. belly, « ventre », bellows, « soufflet »), suéd. bälg. Apparenté au gaulois bulga, « sac de cuir », au persan bāliš, « coussin », ainsi qu'à [[Polster]], « coussin, rembourrage ». Le sens péjoratif « enfant mal élevé » provient de l'emploi méprisant de Balg pour désigner le corps ou la peau humaine, attesté dès le moyen haut allemand.
+  ~ sich balgen : se chamailler, se bagarrer, se colleter (fam.)
+    etym: attesté depuis le XVe siècle, dérivé de Balg, « peau, dépouille animale ». Évoque une bagarre où l'on s'empoigne par la peau ou les cheveux, cf. jdm. das Fell gerben, « tanner la peau à qqn », sich in die Haare geraten, « se crêper le chignon ».
+    ~ sich mit jdm. balgen : se chamailler, se battre avec qqn
+    ~ sich [[katz]]balgen : se chamailler, se crêper le chignon
+  ~ der [[Blase]]balg : le soufflet
+  ~ der [[Wechsel]]balg : l'enfant substitué, le changelin ; le sale gosse (péj.)
+  ~ der [[Leder]]balg : le sac de cuir, l'outre de cuir
+  ~ der [[Vogel]]balg : la dépouille d'oiseau, la peau d'oiseau naturalisé
+  ~ das Budget (die Budgets) : le budget
+    etym: emprunt au français budget, lui-même issu de l'anglais budget, provenant de l'ancien français bougette, « petit sac de cuir », diminutif de bouge, « sac », issu du latin bulga, d'origine gauloise, apparenté à Balg.
 
 ~ die Buhle (-n) : (poet.) la bien-aimée
   etym: viendrait à l'origine du vocabulaire enfantin pour un parent proche
